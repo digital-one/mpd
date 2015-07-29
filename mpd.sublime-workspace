@@ -1,0 +1,2388 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"initSc",
+				"initScrollTo"
+			],
+			[
+				"des",
+				"destroyScrollTo"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"help",
+				"helper-standard"
+			],
+			[
+				"font",
+				"font-weight"
+			],
+			[
+				"bord",
+				"border-bottom"
+			],
+			[
+				"helper-",
+				"helper-thick"
+			],
+			[
+				"z",
+				"z-index"
+			],
+			[
+				"mar",
+				"margin-bottom"
+			],
+			[
+				"tra",
+				"transparent"
+			],
+			[
+				"padd",
+				"padding-bottom"
+			],
+			[
+				"pad",
+				"padding-bottom"
+			],
+			[
+				"init",
+				"initMatchHeight"
+			],
+			[
+				"remov",
+				"removeClass"
+			],
+			[
+				"refres",
+				"refreshFilterMenu"
+			],
+			[
+				"mor",
+				"morphSearch"
+			],
+			[
+				"morp",
+				"morphsearch-input"
+			],
+			[
+				"text",
+				"text-transform"
+			],
+			[
+				"helper-th",
+				"helper-thicker"
+			],
+			[
+				"pa",
+				"padding-bottom"
+			],
+			[
+				"tex",
+				"text-transform"
+			],
+			[
+				"margi",
+				"margin-bottom"
+			],
+			[
+				"no",
+				"none"
+			],
+			[
+				"slider-",
+				"slider-carousel-wrap"
+			],
+			[
+				"min",
+				"min-width"
+			],
+			[
+				"account",
+				"account-menu-wrapper"
+			],
+			[
+				"marg",
+				"margin-left"
+			],
+			[
+				"paddi",
+				"padding-left"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"inli",
+				"inline-block"
+			],
+			[
+				"tof",
+				"tofs-blue"
+			],
+			[
+				"cente",
+				"center-content-vertical"
+			],
+			[
+				"inline",
+				"inline-menu"
+			],
+			[
+				"fot",
+				"font-weight"
+			],
+			[
+				"json_",
+				"json_encode"
+			],
+			[
+				"json",
+				"json_encode"
+			],
+			[
+				"redirect",
+				"redirect_id"
+			],
+			[
+				"font-",
+				"font-size"
+			],
+			[
+				"fon",
+				"font-weight"
+			],
+			[
+				"min-",
+				"min-height"
+			],
+			[
+				"_isMob",
+				"_isMobileNav"
+			],
+			[
+				"padding",
+				"padding-bottom"
+			],
+			[
+				"n",
+				"none"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"ma",
+				"margin-bottom"
+			],
+			[
+				"te",
+				"text-align"
+			],
+			[
+				"fo",
+				"font-weight"
+			],
+			[
+				"h",
+				"half-spacing"
+			],
+			[
+				"backgr",
+				"background-color"
+			],
+			[
+				"margin",
+				"margin-bottom"
+			],
+			[
+				"header",
+				"header-underline"
+			],
+			[
+				"trans",
+				"transition"
+			],
+			[
+				"bran",
+				"brandongrotesque-regular"
+			],
+			[
+				"SCR",
+				"SCROLLABLE_SEL"
+			],
+			[
+				"page-t",
+				"page-template-template-brand"
+			],
+			[
+				"brand",
+				"brandongrotesque-bold"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"wor",
+				"word-spacing"
+			],
+			[
+				"font-st",
+				"font-style"
+			],
+			[
+				"val",
+				"validation_message"
+			],
+			[
+				"validation",
+				"validation_error"
+			],
+			[
+				"con",
+				"contact_email"
+			],
+			[
+				"txt_",
+				"txt_name"
+			],
+			[
+				"txt",
+				"txt_title"
+			],
+			[
+				"strip",
+				"stripslashes"
+			],
+			[
+				"i",
+				"important"
+			],
+			[
+				"emai",
+				"email_from_name"
+			],
+			[
+				"pr",
+				"proximanova-bold"
+			],
+			[
+				"destry",
+				"destroyAccordion"
+			],
+			[
+				"dest",
+				"destroyAccordion"
+			],
+			[
+				"paddin",
+				"padding-top"
+			],
+			[
+				"ht",
+				"htmlentities"
+			],
+			[
+				"sub",
+				"subMenuLinks"
+			],
+			[
+				"subMenu",
+				"subMenuChildLinks"
+			],
+			[
+				"replace",
+				"replaceFileFields"
+			],
+			[
+				"accord",
+				"accordion_pages"
+			],
+			[
+				"menu",
+				"menu-item-has-children"
+			],
+			[
+				"backg",
+				"background-color"
+			],
+			[
+				"pro",
+				"proximanova-bold"
+			],
+			[
+				"backgroun",
+				"background-image"
+			],
+			[
+				"slick",
+				"slick-dots"
+			],
+			[
+				"bl",
+				"block"
+			],
+			[
+				"bor",
+				"border-bottom"
+			],
+			[
+				"current-",
+				"current-menu-item"
+			],
+			[
+				"border-",
+				"border-bottom"
+			],
+			[
+				"curr",
+				"currentTarget"
+			],
+			[
+				"all",
+				"alllinks"
+			],
+			[
+				"crr",
+				"current-menu-item"
+			],
+			[
+				"current",
+				"current-menu-item"
+			],
+			[
+				"has",
+				"menu-item-has-children"
+			],
+			[
+				"cur",
+				"currentTarget"
+			],
+			[
+				"ref",
+				"refreshPushLinkActions"
+			],
+			[
+				"mobi",
+				"mobileMenuIsActive"
+			],
+			[
+				"toggle",
+				"toggleMobileDropDown"
+			],
+			[
+				"close",
+				"closeMobileMenu"
+			],
+			[
+				"isMob",
+				"isMobileMenu"
+			],
+			[
+				"wr",
+				"break-word"
+			],
+			[
+				"ur",
+				"urlencode"
+			],
+			[
+				"rep",
+				"replace"
+			],
+			[
+				"first",
+				"firstLoad"
+			],
+			[
+				"casestudies",
+				"casestudies_category"
+			],
+			[
+				"tran",
+				"transparent"
+			],
+			[
+				"activ",
+				"activateDropDown"
+			],
+			[
+				"our",
+				"our-people-sector"
+			],
+			[
+				"border-co",
+				"border-color"
+			],
+			[
+				"whit",
+				"white-space"
+			],
+			[
+				"background",
+				"background-color"
+			],
+			[
+				"u",
+				"uppercase"
+			],
+			[
+				"fi",
+				"fill"
+			],
+			[
+				"in",
+				"inline-block"
+			],
+			[
+				"gutte",
+				"gutter-2x"
+			],
+			[
+				"overflow",
+				"overflow-x"
+			],
+			[
+				"dar",
+				"dark-grey"
+			],
+			[
+				"visi",
+				"visible"
+			],
+			[
+				"aside",
+				"asideHeight"
+			],
+			[
+				"bu",
+				"button-inner"
+			],
+			[
+				"str_rep",
+				"str_replace"
+			],
+			[
+				"over",
+				"overflow-y"
+			],
+			[
+				"incorr",
+				"incorrectPanel"
+			],
+			[
+				"di",
+				"dinreg"
+			],
+			[
+				"list-s",
+				"list-style-type"
+			],
+			[
+				"le",
+				"letter-spacing"
+			],
+			[
+				"roboto",
+				"roboto-sans"
+			],
+			[
+				"a",
+				"auto"
+			],
+			[
+				"backgro",
+				"background-color"
+			],
+			[
+				"he",
+				"height"
+			],
+			[
+				"pos",
+				"position"
+			],
+			[
+				"poit",
+				"position"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "wp-config.php",
+			"settings":
+			{
+				"buffer_size": 3349,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "Searching 4443 files for \"brochure\"\n\n/Applications/MAMP/htdocs/mpd/mpd.sql:\n  343  (2193, '_site_transient_browser_2b32544073fadfe8d1544ddac18dd4cc', 'a:9:{s:8:\"platform\";s:9:\"Macintosh\";s:4:\"name\";s:6:\"Chrome\";s:7:\"version\";s:13:\"42.0.2311.152\";s:10:\"update_url\";s:28:\"http://www.google.com/chrome\";s:7:\"img_src\";s:49:\"http://s.wordpress.org/images/browsers/chrome.png\";s:11:\"img_src_ssl\";s:48:\"https://wordpress.org/images/browsers/chrome.png\";s:15:\"current_version\";s:2:\"18\";s:7:\"upgrade\";b:0;s:8:\"insecure\";b:0;}', 'yes'),\n  344  (2194, 'can_compress_scripts', '1', 'yes'),\n  345: (2250, 'options_brochure_file', '251', 'no'),\n  346: (2251, '_options_brochure_file', 'field_555b3b8a283bc', 'no'),\n  347  (2290, '_transient_timeout_wpseo_sitemap_cache_1_', '1435373686', 'no'),\n  348  (2291, '_transient_wpseo_sitemap_cache_1_', '<sitemapindex xmlns=\"http://www.sitemaps.org/schemas/sitemap/0.9\">\\n<sitemap>\\n<loc>http://www.mpd.co.uk/post-sitemap.xml</loc>\\n<lastmod>2014-12-03T10:36:50+00:00</lastmod>\\n</sitemap>\\n<sitemap>\\n<loc>http://www.mpd.co.uk/page-sitemap.xml</loc>\\n<lastmod>2015-06-15T19:04:40+00:00</lastmod>\\n</sitemap>\\n<sitemap>\\n<loc>http://www.mpd.co.uk/enlightenment-sitemap.xml</loc>\\n<lastmod>2015-02-04T06:37:19+00:00</lastmod>\\n</sitemap>\\n<sitemap>\\n<loc>http://www.mpd.co.uk/casestudies-sitemap.xml</loc>\\n<lastmod>2015-02-12T22:11:52+00:00</lastmod>\\n</sitemap>\\n<sitemap>\\n<loc>http://www.mpd.co.uk/category-sitemap.xml</loc>\\n<lastmod>2014-12-03T10:36:50+00:00</lastmod>\\n</sitemap>\\n<sitemap>\\n<loc>http://www.mpd.co.uk/post_tag-sitemap.xml</loc>\\n<lastmod>2014-12-03T10:36:50+00:00</lastmod>\\n</sitemap>\\n<sitemap>\\n<loc>http://www.mpd.co.uk/enlightenment_category-sitemap.xml</loc>\\n<lastmod>2015-02-04T06:37:19+00:00</lastmod>\\n</sitemap>\\n<sitemap>\\n<loc>http://www.mpd.co.uk/casestudies_category-sitemap.xml</loc>\\n<lastmod>2015-02-12T22:11:52+00:00</lastmod>\\n</sitemap>\\n</sitemapindex>', 'no'),\n  ...\n  841  (686, 78, 'first_section_sub_heading', 'let''s set the scene'),\n  842  (687, 78, '_first_section_sub_heading', 'field_547f452fdf3ee'),\n  843: (688, 78, 'first_section_text', 'To design a B2B presentation box that could safely contain and transport three multi-tool products within their original packaging. It also had to contain a USB stick and A4 brochure. \\r\\n\\r\\nThe boxes were to be mailed to new potential stockists.\\r\\n'),\n  844  (689, 78, '_first_section_text', 'field_547f453fdf3ef'),\n  845  (690, 78, 'second_section_heading', 'OUR IDEA'),\n  846  (691, 78, '_second_section_heading', 'field_547f466058a3b'),\n  847: (692, 78, 'second_section_text', 'A box constructed out of EB flute with a black foam infill. The infill was recessed to take the multi tools and USB stick. An additional die-cut foam PVC cover sheet helped contain the A4 brochure and hinged lid completed the construction.\\r\\n\\r\\nThe box was to be digitally printed and gloss laminated.    \\r\\n'),\n  848  (693, 78, '_second_section_text', 'field_547f46ba58a3c'),\n  849  (694, 78, 'second_section_image_1', '361'),\n  ...\n 2006  (2262, 5, '_columns_2_column_logo_url', 'field_555b2562d9602'),\n 2007  (2263, 247, '_edit_last', '1'),\n 2008: (2264, 247, 'field_555b362d5c2f6', 'a:10:{s:3:\"key\";s:19:\"field_555b362d5c2f6\";s:5:\"label\";s:13:\"Brochure File\";s:4:\"name\";s:13:\"brochure_file\";s:4:\"type\";s:4:\"file\";s:12:\"instructions\";s:0:\"\";s:8:\"required\";s:1:\"0\";s:11:\"save_format\";s:3:\"url\";s:7:\"library\";s:3:\"all\";s:17:\"conditional_logic\";a:3:{s:6:\"status\";s:1:\"0\";s:5:\"rules\";a:1:{i:0;a:2:{s:5:\"field\";s:4:\"null\";s:8:\"operator\";s:2:\"==\";}}s:8:\"allorany\";s:3:\"all\";}s:8:\"order_no\";i:0;}'),\n 2009  (2265, 247, 'rule', 'a:5:{s:5:\"param\";s:12:\"options_page\";s:8:\"operator\";s:2:\"==\";s:5:\"value\";s:11:\"acf-options\";s:8:\"order_no\";i:0;s:8:\"group_no\";i:0;}'),\n 2010  (2266, 247, 'position', 'normal'),\n ....\n 2013  (2269, 247, '_edit_lock', '1432040885:1'),\n 2014  (2270, 249, '_edit_last', '1'),\n 2015: (2271, 249, 'field_555b3b8a283bc', 'a:10:{s:3:\"key\";s:19:\"field_555b3b8a283bc\";s:5:\"label\";s:8:\"Brochure\";s:4:\"name\";s:13:\"brochure_file\";s:4:\"type\";s:4:\"file\";s:12:\"instructions\";s:0:\"\";s:8:\"required\";s:1:\"0\";s:11:\"save_format\";s:3:\"url\";s:7:\"library\";s:3:\"all\";s:17:\"conditional_logic\";a:3:{s:6:\"status\";s:1:\"0\";s:5:\"rules\";a:1:{i:0;a:3:{s:5:\"field\";s:4:\"null\";s:8:\"operator\";s:2:\"==\";s:5:\"value\";s:0:\"\";}}s:8:\"allorany\";s:3:\"all\";}s:8:\"order_no\";i:0;}'),\n 2016  (2273, 249, 'position', 'normal'),\n 2017  (2274, 249, 'layout', 'no_box'),\n ....\n 2027  (2284, 250, 'button_label', 'Watch our film'),\n 2028  (2285, 250, '_button_label', 'field_547ef2e475792'),\n 2029: (2286, 251, '_wp_attached_file', '2015/05/WL-Brochure.pdf'),\n 2030  (2296, 255, '_wp_attached_file', '2015/06/what-we-do.jpg'),\n 2031  (2297, 255, '_wp_attachment_metadata', 'a:5:{s:5:\"width\";i:1680;s:6:\"height\";i:560;s:4:\"file\";s:22:\"2015/06/what-we-do.jpg\";s:5:\"sizes\";a:17:{s:9:\"thumbnail\";a:4:{s:4:\"file\";s:22:\"what-we-do-150x150.jpg\";s:5:\"width\";i:150;s:6:\"height\";i:150;s:9:\"mime-type\";s:10:\"image/jpeg\";}s:6:\"medium\";a:4:{s:4:\"file\";s:22:\"what-we-do-300x100.jpg\";s:5:\"width\";i:300;s:6:\"height\";i:100;s:9:\"mime-type\";s:10:\"image/jpeg\";}s:5:\"large\";a:4:{s:4:\"file\";s:23:\"what-we-do-1024x341.jpg\";s:5:\"width\";i:1024;s:6:\"height\";i:341;s:9:\"mime-type\";s:10:\"image/jpeg\";}s:18:\"homepage-bg-mobile\";a:4:{s:4:\"file\";s:22:\"what-we-do-933x560.jpg\";s:5:\"width\";i:933;s:6:\"height\";i:560;s:9:\"mime-type\";s:10:\"image/jpeg\";}s:20:\"page-letterbox-image\";a:4:{s:4:\"file\";s:23:\"what-we-do-1680x390.jpg\";s:5:\"width\";i:1680;s:6:\"height\";i:390;s:9:\"mime-type\";s:10:\"image/jpeg\";}s:17:\"page-letterbox-tn\";a:4:{s:4:\"file\";s:21:\"what-we-do-300x70.jpg\";s:5:\"width\";i:300;s:6:\"height\";i:70;s:9:\"mime-type\";s:10:\"image/jpeg\";}s:12:\"portfolio-tn\";a:4:{s:4:\"file\";s:22:\"what-we-do-600x400.jpg\";s:5:\"width\";i:600;s:6:\"height\";i:400;s:9:\"mime-type\";s:10:\"image/jpeg\";}s:16:\"enlightenment-tn\";a:4:{s:4:\"file\";s:22:\"what-we-do-500x166.jpg\";s:5:\"width\";i:500;s:6:\"height\";i:166;s:9:\"mime-type\";s:10:\"image/jpeg\";}s:14:\"portfolio-logo\";a:4:{s:4:\"file\";s:22:\"what-we-do-500x166.jpg\";s:5:\"width\";i:500;s:6:\"height\";i:166;s:9:\"mime-type\";s:10:\"image/jpeg\";}s:17:\"portfolio-logo-tn\";a:4:{s:4:\"file\";s:21:\"what-we-do-250x83.jpg\";s:5:\"width\";i:250;s:6:\"height\";i:83;s:9:\"mime-type\";s:10:\"image/jpeg\";}s:11:\"sector-icon\";a:4:{s:4:\"file\";s:20:\"what-we-do-88x29.jpg\";s:5:\"width\";i:88;s:6:\"height\";i:29;s:9:\"mime-type\";s:10:\"image/jpeg\";}s:28:\"portfolio-column-half-height\";a:4:{s:4:\"file\";s:22:\"what-we-do-840x560.jpg\";s:5:\"width\";i:840;s:6:\"height\";i:560;s:9:\"mime-type\";s:10:\"image/jpeg\";}s:31:\"portfolio-column-half-height-tn\";a:4:{s:4:\"file\";s:22:\"what-we-do-200x145.jpg\";s:5:\"width\";i:200;s:6:\"height\";i:145;s:9:\"mime-type\";s:10:\"image/jpeg\";}s:28:\"portfolio-column-full-height\";a:4:{s:4:\"file\";s:22:\"what-we-do-840x560.jpg\";s:5:\"width\";i:840;s:6:\"height\";i:560;s:9:\"mime-type\";s:10:\"image/jpeg\";}s:31:\"portfolio-column-full-height-tn\";a:4:{s:4:\"file\";s:22:\"what-we-do-200x290.jpg\";s:5:\"width\";i:200;s:6:\"height\";i:290;s:9:\"mime-type\";s:10:\"image/jpeg\";}s:23:\"portfolio-full-width-tn\";a:4:{s:4:\"file\";s:21:\"what-we-do-200x66.jpg\";s:5:\"width\";i:200;s:6:\"height\";i:66;s:9:\"mime-type\";s:10:\"image/jpeg\";}s:14:\"post-thumbnail\";a:4:{s:4:\"file\";s:21:\"what-we-do-150x50.jpg\";s:5:\"width\";i:150;s:6:\"height\";i:50;s:9:\"mime-type\";s:10:\"image/jpeg\";}}s:10:\"image_meta\";a:11:{s:8:\"aperture\";i:0;s:6:\"credit\";s:0:\"\";s:6:\"camera\";s:0:\"\";s:7:\"caption\";s:0:\"\";s:17:\"created_timestamp\";i:0;s:9:\"copyright\";s:0:\"\";s:12:\"focal_length\";i:0;s:3:\"iso\";i:0;s:13:\"shutter_speed\";i:0;s:5:\"title\";s:0:\"\";s:11:\"orientation\";i:0;}}'),\n ....\n 2965  (245, 1, '2015-05-19 12:59:15', '2015-05-19 12:59:15', '', 'Who we are', '', 'inherit', 'open', 'open', '', '5-revision-v1', '', '', '2015-05-19 12:59:15', '2015-05-19 12:59:15', '', 5, 'http://www.mpd.co.uk/uncategorized/5-revision-v1/', 0, 'revision', '', 0),\n 2966  (247, 1, '2015-05-19 13:10:26', '2015-05-19 13:10:26', '', 'Options', '', 'publish', 'closed', 'closed', '', 'acf_options', '', '', '2015-05-19 13:10:26', '2015-05-19 13:10:26', '', 0, 'http://www.mpd.co.uk/?post_type=acf&#038;p=247', 0, 'acf', '', 0),\n 2967: (249, 1, '2015-05-19 13:33:16', '2015-05-19 13:33:16', '', 'Brochure', '', 'publish', 'closed', 'closed', '', 'acf_brochure', '', '', '2015-05-19 13:33:30', '2015-05-19 13:33:30', '', 0, 'http://www.mpd.co.uk/?post_type=acf&#038;p=249', 0, 'acf', '', 0),\n 2968  (250, 1, '2015-05-22 15:08:41', '2015-05-22 15:08:41', '', 'Home', '', 'inherit', 'open', 'open', '', '2-revision-v1', '', '', '2015-05-22 15:08:41', '2015-05-22 15:08:41', '', 2, 'http://www.mpd.co.uk/uncategorized/2-revision-v1/', 0, 'revision', '', 0),\n 2969: (251, 1, '2015-05-23 10:32:21', '2015-05-23 10:32:21', '', 'W&L Brochure', '', 'inherit', 'open', 'open', '', 'wl-brochure', '', '', '2015-05-23 10:32:21', '2015-05-23 10:32:21', '', 0, 'http://www.mpd.co.uk/wp-content/uploads/2015/05/WL-Brochure.pdf', 0, 'attachment', 'application/pdf', 0),\n 2970  (255, 1, '2015-06-06 15:45:18', '2015-06-06 15:45:18', '', 'what-we-do', '', 'inherit', 'open', 'open', '', 'what-we-do-3', '', '', '2015-06-06 15:45:18', '2015-06-06 15:45:18', '', 0, 'http://www.mpd.co.uk/wp-content/uploads/2015/06/what-we-do.jpg', 0, 'attachment', 'image/jpeg', 0),\n 2971  (256, 1, '2015-06-06 15:45:19', '2015-06-06 15:45:19', '', 'who-we-are', '', 'inherit', 'open', 'open', '', 'who-we-are-3', '', '', '2015-06-06 15:45:19', '2015-06-06 15:45:19', '', 0, 'http://www.mpd.co.uk/wp-content/uploads/2015/06/who-we-are.jpg', 0, 'attachment', 'image/jpeg', 0),\n\n/Applications/MAMP/htdocs/mpd/wl-group.sql:\n  363  INSERT INTO `wp_options` (`option_id`, `option_name`, `option_value`, `autoload`) VALUES\n  364  (2249, '_site_transient_update_plugins', 'O:8:\"stdClass\":5:{s:12:\"last_checked\";i:1432041548;s:7:\"checked\";a:10:{s:30:\"advanced-custom-fields/acf.php\";s:5:\"4.4.1\";s:37:\"acf-options-page/acf-options-page.php\";s:5:\"1.2.0\";s:29:\"acf-repeater/acf-repeater.php\";s:5:\"1.1.1\";s:19:\"akismet/akismet.php\";s:5:\"3.0.0\";s:45:\"custom-taxonomy-sort/custom-taxonomy-sort.php\";s:5:\"1.1.5\";s:33:\"duplicate-post/duplicate-post.php\";s:3:\"2.6\";s:29:\"gravityforms/gravityforms.php\";s:6:\"1.8.17\";s:9:\"hello.php\";s:3:\"1.6\";s:37:\"tinymce-advanced/tinymce-advanced.php\";s:5:\"4.1.1\";s:24:\"wordpress-seo/wp-seo.php\";s:5:\"1.7.1\";}s:8:\"response\";a:2:{s:19:\"akismet/akismet.php\";O:8:\"stdClass\":6:{s:2:\"id\";s:2:\"15\";s:4:\"slug\";s:7:\"akismet\";s:6:\"plugin\";s:19:\"akismet/akismet.php\";s:11:\"new_version\";s:5:\"3.1.1\";s:3:\"url\";s:38:\"https://wordpress.org/plugins/akismet/\";s:7:\"package\";s:56:\"https://downloads.wordpress.org/plugin/akismet.3.1.1.zip\";}s:24:\"wordpress-seo/wp-seo.php\";O:8:\"stdClass\":6:{s:2:\"id\";s:4:\"5899\";s:4:\"slug\";s:13:\"wordpress-seo\";s:6:\"plugin\";s:24:\"wordpress-seo/wp-seo.php\";s:11:\"new_version\";s:5:\"2.1.1\";s:3:\"url\";s:44:\"https://wordpress.org/plugins/wordpress-seo/\";s:7:\"package\";s:62:\"https://downloads.wordpress.org/plugin/wordpress-seo.2.1.1.zip\";}}s:12:\"translations\";a:0:{}s:9:\"no_update\";a:5:{s:30:\"advanced-custom-fields/acf.php\";O:8:\"stdClass\":6:{s:2:\"id\";s:5:\"21367\";s:4:\"slug\";s:22:\"advanced-custom-fields\";s:6:\"plugin\";s:30:\"advanced-custom-fields/acf.php\";s:11:\"new_version\";s:5:\"4.4.1\";s:3:\"url\";s:53:\"https://wordpress.org/plugins/advanced-custom-fields/\";s:7:\"package\";s:65:\"https://downloads.wordpress.org/plugin/advanced-custom-fields.zip\";}s:45:\"custom-taxonomy-sort/custom-taxonomy-sort.php\";O:8:\"stdClass\":7:{s:2:\"id\";s:5:\"23707\";s:4:\"slug\";s:20:\"custom-taxonomy-sort\";s:6:\"plugin\";s:45:\"custom-taxonomy-sort/custom-taxonomy-sort.php\";s:11:\"new_version\";s:5:\"1.1.5\";s:3:\"url\";s:51:\"https://wordpress.org/plugins/custom-taxonomy-sort/\";s:7:\"package\";s:69:\"https://downloads.wordpress.org/plugin/custom-taxonomy-sort.1.1.5.zip\";s:14:\"upgrade_notice\";s:28:\"Fixed bug with column values\";}s:33:\"duplicate-post/duplicate-post.php\";O:8:\"stdClass\":7:{s:2:\"id\";s:4:\"1295\";s:4:\"slug\";s:14:\"duplicate-post\";s:6:\"plugin\";s:33:\"duplicate-post/duplicate-post.php\";s:11:\"new_version\";s:3:\"2.6\";s:3:\"url\";s:45:\"https://wordpress.org/plugins/duplicate-post/\";s:7:\"package\";s:61:\"https://downloads.wordpress.org/plugin/duplicate-post.2.6.zip\";s:14:\"upgrade_notice\";s:90:\"PHP 5.4 (Strict Standards) compatible + Fixed possible XSS and SQL injections + other bugs\";}s:9:\"hello.php\";O:8:\"stdClass\":6:{s:2:\"id\";s:4:\"3564\";s:4:\"slug\";s:11:\"hello-dolly\";s:6:\"plugin\";s:9:\"hello.php\";s:11:\"new_version\";s:3:\"1.6\";s:3:\"url\";s:42:\"https://wordpress.org/plugins/hello-dolly/\";s:7:\"package\";s:58:\"https://downloads.wordpress.org/plugin/hello-dolly.1.6.zip\";}s:37:\"tinymce-advanced/tinymce-advanced.php\";O:8:\"stdClass\":6:{s:2:\"id\";s:3:\"731\";s:4:\"slug\";s:16:\"tinymce-advanced\";s:6:\"plugin\";s:37:\"tinymce-advanced/tinymce-advanced.php\";s:11:\"new_version\";s:5:\"4.1.9\";s:3:\"url\";s:47:\"https://wordpress.org/plugins/tinymce-advanced/\";s:7:\"package\";s:65:\"https://downloads.wordpress.org/plugin/tinymce-advanced.4.1.9.zip\";}}}', 'yes'),\n  365: (2250, 'options_brochure_file', '236', 'no'),\n  366: (2251, '_options_brochure_file', 'field_555b3b8a283bc', 'no');\n  367  \n  368  -- --------------------------------------------------------\n  ...\n 2357  (2262, 5, '_columns_2_column_logo_url', 'field_555b2562d9602'),\n 2358  (2263, 247, '_edit_last', '1'),\n 2359: (2264, 247, 'field_555b362d5c2f6', 'a:10:{s:3:\"key\";s:19:\"field_555b362d5c2f6\";s:5:\"label\";s:13:\"Brochure File\";s:4:\"name\";s:13:\"brochure_file\";s:4:\"type\";s:4:\"file\";s:12:\"instructions\";s:0:\"\";s:8:\"required\";s:1:\"0\";s:11:\"save_format\";s:3:\"url\";s:7:\"library\";s:3:\"all\";s:17:\"conditional_logic\";a:3:{s:6:\"status\";s:1:\"0\";s:5:\"rules\";a:1:{i:0;a:2:{s:5:\"field\";s:4:\"null\";s:8:\"operator\";s:2:\"==\";}}s:8:\"allorany\";s:3:\"all\";}s:8:\"order_no\";i:0;}'),\n 2360  (2265, 247, 'rule', 'a:5:{s:5:\"param\";s:12:\"options_page\";s:8:\"operator\";s:2:\"==\";s:5:\"value\";s:11:\"acf-options\";s:8:\"order_no\";i:0;s:8:\"group_no\";i:0;}'),\n 2361  (2266, 247, 'position', 'normal'),\n ....\n 2364  (2269, 247, '_edit_lock', '1432040885:1'),\n 2365  (2270, 249, '_edit_last', '1'),\n 2366: (2271, 249, 'field_555b3b8a283bc', 'a:10:{s:3:\"key\";s:19:\"field_555b3b8a283bc\";s:5:\"label\";s:8:\"Brochure\";s:4:\"name\";s:13:\"brochure_file\";s:4:\"type\";s:4:\"file\";s:12:\"instructions\";s:0:\"\";s:8:\"required\";s:1:\"0\";s:11:\"save_format\";s:3:\"url\";s:7:\"library\";s:3:\"all\";s:17:\"conditional_logic\";a:3:{s:6:\"status\";s:1:\"0\";s:5:\"rules\";a:1:{i:0;a:3:{s:5:\"field\";s:4:\"null\";s:8:\"operator\";s:2:\"==\";s:5:\"value\";s:0:\"\";}}s:8:\"allorany\";s:3:\"all\";}s:8:\"order_no\";i:0;}'),\n 2367  (2273, 249, 'position', 'normal'),\n 2368  (2274, 249, 'layout', 'no_box'),\n ....\n 2613  (247, 1, '2015-05-19 13:10:26', '2015-05-19 13:10:26', '', 'Options', '', 'publish', 'closed', 'closed', '', 'acf_options', '', '', '2015-05-19 13:10:26', '2015-05-19 13:10:26', '', 0, 'http://92.60.114.159/~wlprintco/?post_type=acf&#038;p=247', 0, 'acf', '', 0),\n 2614  (248, 1, '2015-05-19 13:19:59', '0000-00-00 00:00:00', '', 'Auto Draft', '', 'auto-draft', 'open', 'open', '', '', '', '', '2015-05-19 13:19:59', '0000-00-00 00:00:00', '', 0, 'http://92.60.114.159/~wlprintco/?post_type=acf&p=248', 0, 'acf', '', 0),\n 2615: (249, 1, '2015-05-19 13:33:16', '2015-05-19 13:33:16', '', 'Brochure', '', 'publish', 'closed', 'closed', '', 'acf_brochure', '', '', '2015-05-19 13:33:30', '2015-05-19 13:33:30', '', 0, 'http://92.60.114.159/~wlprintco/?post_type=acf&#038;p=249', 0, 'acf', '', 0);\n 2616  \n 2617  -- --------------------------------------------------------\n\n/Applications/MAMP/htdocs/mpd/wl-print.sql:\n  343  (2193, '_site_transient_browser_2b32544073fadfe8d1544ddac18dd4cc', 'a:9:{s:8:\"platform\";s:9:\"Macintosh\";s:4:\"name\";s:6:\"Chrome\";s:7:\"version\";s:13:\"42.0.2311.152\";s:10:\"update_url\";s:28:\"http://www.google.com/chrome\";s:7:\"img_src\";s:49:\"http://s.wordpress.org/images/browsers/chrome.png\";s:11:\"img_src_ssl\";s:48:\"https://wordpress.org/images/browsers/chrome.png\";s:15:\"current_version\";s:2:\"18\";s:7:\"upgrade\";b:0;s:8:\"insecure\";b:0;}', 'yes'),\n  344  (2194, 'can_compress_scripts', '1', 'yes'),\n  345: (2250, 'options_brochure_file', '251', 'no'),\n  346: (2251, '_options_brochure_file', 'field_555b3b8a283bc', 'no'),\n  347  (2290, '_transient_timeout_wpseo_sitemap_cache_1_', '1435373686', 'no'),\n  348  (2291, '_transient_wpseo_sitemap_cache_1_', '<sitemapindex xmlns=\"http://www.sitemaps.org/schemas/sitemap/0.9\">\\n<sitemap>\\n<loc>http://92.60.114.159/~wlprintco/post-sitemap.xml</loc>\\n<lastmod>2014-12-03T10:36:50+00:00</lastmod>\\n</sitemap>\\n<sitemap>\\n<loc>http://92.60.114.159/~wlprintco/page-sitemap.xml</loc>\\n<lastmod>2015-06-15T19:04:40+00:00</lastmod>\\n</sitemap>\\n<sitemap>\\n<loc>http://92.60.114.159/~wlprintco/enlightenment-sitemap.xml</loc>\\n<lastmod>2015-02-04T06:37:19+00:00</lastmod>\\n</sitemap>\\n<sitemap>\\n<loc>http://92.60.114.159/~wlprintco/casestudies-sitemap.xml</loc>\\n<lastmod>2015-02-12T22:11:52+00:00</lastmod>\\n</sitemap>\\n<sitemap>\\n<loc>http://92.60.114.159/~wlprintco/category-sitemap.xml</loc>\\n<lastmod>2014-12-03T10:36:50+00:00</lastmod>\\n</sitemap>\\n<sitemap>\\n<loc>http://92.60.114.159/~wlprintco/post_tag-sitemap.xml</loc>\\n<lastmod>2014-12-03T10:36:50+00:00</lastmod>\\n</sitemap>\\n<sitemap>\\n<loc>http://92.60.114.159/~wlprintco/enlightenment_category-sitemap.xml</loc>\\n<lastmod>2015-02-04T06:37:19+00:00</lastmod>\\n</sitemap>\\n<sitemap>\\n<loc>http://92.60.114.159/~wlprintco/casestudies_category-sitemap.xml</loc>\\n<lastmod>2015-02-12T22:11:52+00:00</lastmod>\\n</sitemap>\\n</sitemapindex>', 'no'),\n  ...\n  841  (686, 78, 'first_section_sub_heading', 'let''s set the scene'),\n  842  (687, 78, '_first_section_sub_heading', 'field_547f452fdf3ee'),\n  843: (688, 78, 'first_section_text', 'To design a B2B presentation box that could safely contain and transport three multi-tool products within their original packaging. It also had to contain a USB stick and A4 brochure. \\r\\n\\r\\nThe boxes were to be mailed to new potential stockists.\\r\\n'),\n  844  (689, 78, '_first_section_text', 'field_547f453fdf3ef'),\n  845  (690, 78, 'second_section_heading', 'OUR IDEA'),\n  846  (691, 78, '_second_section_heading', 'field_547f466058a3b'),\n  847: (692, 78, 'second_section_text', 'A box constructed out of EB flute with a black foam infill. The infill was recessed to take the multi tools and USB stick. An additional die-cut foam PVC cover sheet helped contain the A4 brochure and hinged lid completed the construction.\\r\\n\\r\\nThe box was to be digitally printed and gloss laminated.    \\r\\n'),\n  848  (693, 78, '_second_section_text', 'field_547f46ba58a3c'),\n  849  (694, 78, 'second_section_image_1', '361'),\n  ...\n 2006  (2262, 5, '_columns_2_column_logo_url', 'field_555b2562d9602'),\n 2007  (2263, 247, '_edit_last', '1'),\n 2008: (2264, 247, 'field_555b362d5c2f6', 'a:10:{s:3:\"key\";s:19:\"field_555b362d5c2f6\";s:5:\"label\";s:13:\"Brochure File\";s:4:\"name\";s:13:\"brochure_file\";s:4:\"type\";s:4:\"file\";s:12:\"instructions\";s:0:\"\";s:8:\"required\";s:1:\"0\";s:11:\"save_format\";s:3:\"url\";s:7:\"library\";s:3:\"all\";s:17:\"conditional_logic\";a:3:{s:6:\"status\";s:1:\"0\";s:5:\"rules\";a:1:{i:0;a:2:{s:5:\"field\";s:4:\"null\";s:8:\"operator\";s:2:\"==\";}}s:8:\"allorany\";s:3:\"all\";}s:8:\"order_no\";i:0;}'),\n 2009  (2265, 247, 'rule', 'a:5:{s:5:\"param\";s:12:\"options_page\";s:8:\"operator\";s:2:\"==\";s:5:\"value\";s:11:\"acf-options\";s:8:\"order_no\";i:0;s:8:\"group_no\";i:0;}'),\n 2010  (2266, 247, 'position', 'normal'),\n ....\n 2013  (2269, 247, '_edit_lock', '1432040885:1'),\n 2014  (2270, 249, '_edit_last', '1'),\n 2015: (2271, 249, 'field_555b3b8a283bc', 'a:10:{s:3:\"key\";s:19:\"field_555b3b8a283bc\";s:5:\"label\";s:8:\"Brochure\";s:4:\"name\";s:13:\"brochure_file\";s:4:\"type\";s:4:\"file\";s:12:\"instructions\";s:0:\"\";s:8:\"required\";s:1:\"0\";s:11:\"save_format\";s:3:\"url\";s:7:\"library\";s:3:\"all\";s:17:\"conditional_logic\";a:3:{s:6:\"status\";s:1:\"0\";s:5:\"rules\";a:1:{i:0;a:3:{s:5:\"field\";s:4:\"null\";s:8:\"operator\";s:2:\"==\";s:5:\"value\";s:0:\"\";}}s:8:\"allorany\";s:3:\"all\";}s:8:\"order_no\";i:0;}'),\n 2016  (2273, 249, 'position', 'normal'),\n 2017  (2274, 249, 'layout', 'no_box'),\n ....\n 2027  (2284, 250, 'button_label', 'Watch our film'),\n 2028  (2285, 250, '_button_label', 'field_547ef2e475792'),\n 2029: (2286, 251, '_wp_attached_file', '2015/05/WL-Brochure.pdf'),\n 2030  (2296, 255, '_wp_attached_file', '2015/06/what-we-do.jpg'),\n 2031  (2297, 255, '_wp_attachment_metadata', 'a:5:{s:5:\"width\";i:1680;s:6:\"height\";i:560;s:4:\"file\";s:22:\"2015/06/what-we-do.jpg\";s:5:\"sizes\";a:17:{s:9:\"thumbnail\";a:4:{s:4:\"file\";s:22:\"what-we-do-150x150.jpg\";s:5:\"width\";i:150;s:6:\"height\";i:150;s:9:\"mime-type\";s:10:\"image/jpeg\";}s:6:\"medium\";a:4:{s:4:\"file\";s:22:\"what-we-do-300x100.jpg\";s:5:\"width\";i:300;s:6:\"height\";i:100;s:9:\"mime-type\";s:10:\"image/jpeg\";}s:5:\"large\";a:4:{s:4:\"file\";s:23:\"what-we-do-1024x341.jpg\";s:5:\"width\";i:1024;s:6:\"height\";i:341;s:9:\"mime-type\";s:10:\"image/jpeg\";}s:18:\"homepage-bg-mobile\";a:4:{s:4:\"file\";s:22:\"what-we-do-933x560.jpg\";s:5:\"width\";i:933;s:6:\"height\";i:560;s:9:\"mime-type\";s:10:\"image/jpeg\";}s:20:\"page-letterbox-image\";a:4:{s:4:\"file\";s:23:\"what-we-do-1680x390.jpg\";s:5:\"width\";i:1680;s:6:\"height\";i:390;s:9:\"mime-type\";s:10:\"image/jpeg\";}s:17:\"page-letterbox-tn\";a:4:{s:4:\"file\";s:21:\"what-we-do-300x70.jpg\";s:5:\"width\";i:300;s:6:\"height\";i:70;s:9:\"mime-type\";s:10:\"image/jpeg\";}s:12:\"portfolio-tn\";a:4:{s:4:\"file\";s:22:\"what-we-do-600x400.jpg\";s:5:\"width\";i:600;s:6:\"height\";i:400;s:9:\"mime-type\";s:10:\"image/jpeg\";}s:16:\"enlightenment-tn\";a:4:{s:4:\"file\";s:22:\"what-we-do-500x166.jpg\";s:5:\"width\";i:500;s:6:\"height\";i:166;s:9:\"mime-type\";s:10:\"image/jpeg\";}s:14:\"portfolio-logo\";a:4:{s:4:\"file\";s:22:\"what-we-do-500x166.jpg\";s:5:\"width\";i:500;s:6:\"height\";i:166;s:9:\"mime-type\";s:10:\"image/jpeg\";}s:17:\"portfolio-logo-tn\";a:4:{s:4:\"file\";s:21:\"what-we-do-250x83.jpg\";s:5:\"width\";i:250;s:6:\"height\";i:83;s:9:\"mime-type\";s:10:\"image/jpeg\";}s:11:\"sector-icon\";a:4:{s:4:\"file\";s:20:\"what-we-do-88x29.jpg\";s:5:\"width\";i:88;s:6:\"height\";i:29;s:9:\"mime-type\";s:10:\"image/jpeg\";}s:28:\"portfolio-column-half-height\";a:4:{s:4:\"file\";s:22:\"what-we-do-840x560.jpg\";s:5:\"width\";i:840;s:6:\"height\";i:560;s:9:\"mime-type\";s:10:\"image/jpeg\";}s:31:\"portfolio-column-half-height-tn\";a:4:{s:4:\"file\";s:22:\"what-we-do-200x145.jpg\";s:5:\"width\";i:200;s:6:\"height\";i:145;s:9:\"mime-type\";s:10:\"image/jpeg\";}s:28:\"portfolio-column-full-height\";a:4:{s:4:\"file\";s:22:\"what-we-do-840x560.jpg\";s:5:\"width\";i:840;s:6:\"height\";i:560;s:9:\"mime-type\";s:10:\"image/jpeg\";}s:31:\"portfolio-column-full-height-tn\";a:4:{s:4:\"file\";s:22:\"what-we-do-200x290.jpg\";s:5:\"width\";i:200;s:6:\"height\";i:290;s:9:\"mime-type\";s:10:\"image/jpeg\";}s:23:\"portfolio-full-width-tn\";a:4:{s:4:\"file\";s:21:\"what-we-do-200x66.jpg\";s:5:\"width\";i:200;s:6:\"height\";i:66;s:9:\"mime-type\";s:10:\"image/jpeg\";}s:14:\"post-thumbnail\";a:4:{s:4:\"file\";s:21:\"what-we-do-150x50.jpg\";s:5:\"width\";i:150;s:6:\"height\";i:50;s:9:\"mime-type\";s:10:\"image/jpeg\";}}s:10:\"image_meta\";a:11:{s:8:\"aperture\";i:0;s:6:\"credit\";s:0:\"\";s:6:\"camera\";s:0:\"\";s:7:\"caption\";s:0:\"\";s:17:\"created_timestamp\";i:0;s:9:\"copyright\";s:0:\"\";s:12:\"focal_length\";i:0;s:3:\"iso\";i:0;s:13:\"shutter_speed\";i:0;s:5:\"title\";s:0:\"\";s:11:\"orientation\";i:0;}}'),\n ....\n 2965  (245, 1, '2015-05-19 12:59:15', '2015-05-19 12:59:15', '', 'Who we are', '', 'inherit', 'open', 'open', '', '5-revision-v1', '', '', '2015-05-19 12:59:15', '2015-05-19 12:59:15', '', 5, 'http://92.60.114.159/~wlprintco/uncategorized/5-revision-v1/', 0, 'revision', '', 0),\n 2966  (247, 1, '2015-05-19 13:10:26', '2015-05-19 13:10:26', '', 'Options', '', 'publish', 'closed', 'closed', '', 'acf_options', '', '', '2015-05-19 13:10:26', '2015-05-19 13:10:26', '', 0, 'http://92.60.114.159/~wlprintco/?post_type=acf&#038;p=247', 0, 'acf', '', 0),\n 2967: (249, 1, '2015-05-19 13:33:16', '2015-05-19 13:33:16', '', 'Brochure', '', 'publish', 'closed', 'closed', '', 'acf_brochure', '', '', '2015-05-19 13:33:30', '2015-05-19 13:33:30', '', 0, 'http://92.60.114.159/~wlprintco/?post_type=acf&#038;p=249', 0, 'acf', '', 0),\n 2968  (250, 1, '2015-05-22 15:08:41', '2015-05-22 15:08:41', '', 'Home', '', 'inherit', 'open', 'open', '', '2-revision-v1', '', '', '2015-05-22 15:08:41', '2015-05-22 15:08:41', '', 2, 'http://92.60.114.159/~wlprintco/uncategorized/2-revision-v1/', 0, 'revision', '', 0),\n 2969: (251, 1, '2015-05-23 10:32:21', '2015-05-23 10:32:21', '', 'W&L Brochure', '', 'inherit', 'open', 'open', '', 'wl-brochure', '', '', '2015-05-23 10:32:21', '2015-05-23 10:32:21', '', 0, 'http://92.60.114.159/~wlprintco/wp-content/uploads/2015/05/WL-Brochure.pdf', 0, 'attachment', 'application/pdf', 0),\n 2970  (255, 1, '2015-06-06 15:45:18', '2015-06-06 15:45:18', '', 'what-we-do', '', 'inherit', 'open', 'open', '', 'what-we-do-3', '', '', '2015-06-06 15:45:18', '2015-06-06 15:45:18', '', 0, 'http://92.60.114.159/~wlprintco/wp-content/uploads/2015/06/what-we-do.jpg', 0, 'attachment', 'image/jpeg', 0),\n 2971  (256, 1, '2015-06-06 15:45:19', '2015-06-06 15:45:19', '', 'who-we-are', '', 'inherit', 'open', 'open', '', 'who-we-are-3', '', '', '2015-06-06 15:45:19', '2015-06-06 15:45:19', '', 0, 'http://92.60.114.159/~wlprintco/wp-content/uploads/2015/06/who-we-are.jpg', 0, 'attachment', 'image/jpeg', 0),\n\n/Applications/MAMP/htdocs/mpd/wl_print.sql:\n  343  (2193, '_site_transient_browser_2b32544073fadfe8d1544ddac18dd4cc', 'a:9:{s:8:\"platform\";s:9:\"Macintosh\";s:4:\"name\";s:6:\"Chrome\";s:7:\"version\";s:13:\"42.0.2311.152\";s:10:\"update_url\";s:28:\"http://www.google.com/chrome\";s:7:\"img_src\";s:49:\"http://s.wordpress.org/images/browsers/chrome.png\";s:11:\"img_src_ssl\";s:48:\"https://wordpress.org/images/browsers/chrome.png\";s:15:\"current_version\";s:2:\"18\";s:7:\"upgrade\";b:0;s:8:\"insecure\";b:0;}', 'yes'),\n  344  (2194, 'can_compress_scripts', '1', 'yes'),\n  345: (2250, 'options_brochure_file', '251', 'no'),\n  346: (2251, '_options_brochure_file', 'field_555b3b8a283bc', 'no'),\n  347  (2290, '_transient_timeout_wpseo_sitemap_cache_1_', '1435373686', 'no'),\n  348  (2291, '_transient_wpseo_sitemap_cache_1_', '<sitemapindex xmlns=\"http://www.sitemaps.org/schemas/sitemap/0.9\">\\n<sitemap>\\n<loc>http://92.60.114.159/~wlprintco/post-sitemap.xml</loc>\\n<lastmod>2014-12-03T10:36:50+00:00</lastmod>\\n</sitemap>\\n<sitemap>\\n<loc>http://92.60.114.159/~wlprintco/page-sitemap.xml</loc>\\n<lastmod>2015-06-15T19:04:40+00:00</lastmod>\\n</sitemap>\\n<sitemap>\\n<loc>http://92.60.114.159/~wlprintco/enlightenment-sitemap.xml</loc>\\n<lastmod>2015-02-04T06:37:19+00:00</lastmod>\\n</sitemap>\\n<sitemap>\\n<loc>http://92.60.114.159/~wlprintco/casestudies-sitemap.xml</loc>\\n<lastmod>2015-02-12T22:11:52+00:00</lastmod>\\n</sitemap>\\n<sitemap>\\n<loc>http://92.60.114.159/~wlprintco/category-sitemap.xml</loc>\\n<lastmod>2014-12-03T10:36:50+00:00</lastmod>\\n</sitemap>\\n<sitemap>\\n<loc>http://92.60.114.159/~wlprintco/post_tag-sitemap.xml</loc>\\n<lastmod>2014-12-03T10:36:50+00:00</lastmod>\\n</sitemap>\\n<sitemap>\\n<loc>http://92.60.114.159/~wlprintco/enlightenment_category-sitemap.xml</loc>\\n<lastmod>2015-02-04T06:37:19+00:00</lastmod>\\n</sitemap>\\n<sitemap>\\n<loc>http://92.60.114.159/~wlprintco/casestudies_category-sitemap.xml</loc>\\n<lastmod>2015-02-12T22:11:52+00:00</lastmod>\\n</sitemap>\\n</sitemapindex>', 'no'),\n  ...\n 2006  (2262, 5, '_columns_2_column_logo_url', 'field_555b2562d9602'),\n 2007  (2263, 247, '_edit_last', '1'),\n 2008: (2264, 247, 'field_555b362d5c2f6', 'a:10:{s:3:\"key\";s:19:\"field_555b362d5c2f6\";s:5:\"label\";s:13:\"Brochure File\";s:4:\"name\";s:13:\"brochure_file\";s:4:\"type\";s:4:\"file\";s:12:\"instructions\";s:0:\"\";s:8:\"required\";s:1:\"0\";s:11:\"save_format\";s:3:\"url\";s:7:\"library\";s:3:\"all\";s:17:\"conditional_logic\";a:3:{s:6:\"status\";s:1:\"0\";s:5:\"rules\";a:1:{i:0;a:2:{s:5:\"field\";s:4:\"null\";s:8:\"operator\";s:2:\"==\";}}s:8:\"allorany\";s:3:\"all\";}s:8:\"order_no\";i:0;}'),\n 2009  (2265, 247, 'rule', 'a:5:{s:5:\"param\";s:12:\"options_page\";s:8:\"operator\";s:2:\"==\";s:5:\"value\";s:11:\"acf-options\";s:8:\"order_no\";i:0;s:8:\"group_no\";i:0;}'),\n 2010  (2266, 247, 'position', 'normal'),\n ....\n 2013  (2269, 247, '_edit_lock', '1432040885:1'),\n 2014  (2270, 249, '_edit_last', '1'),\n 2015: (2271, 249, 'field_555b3b8a283bc', 'a:10:{s:3:\"key\";s:19:\"field_555b3b8a283bc\";s:5:\"label\";s:8:\"Brochure\";s:4:\"name\";s:13:\"brochure_file\";s:4:\"type\";s:4:\"file\";s:12:\"instructions\";s:0:\"\";s:8:\"required\";s:1:\"0\";s:11:\"save_format\";s:3:\"url\";s:7:\"library\";s:3:\"all\";s:17:\"conditional_logic\";a:3:{s:6:\"status\";s:1:\"0\";s:5:\"rules\";a:1:{i:0;a:3:{s:5:\"field\";s:4:\"null\";s:8:\"operator\";s:2:\"==\";s:5:\"value\";s:0:\"\";}}s:8:\"allorany\";s:3:\"all\";}s:8:\"order_no\";i:0;}'),\n 2016  (2273, 249, 'position', 'normal'),\n 2017  (2274, 249, 'layout', 'no_box'),\n ....\n 2027  (2284, 250, 'button_label', 'Watch our film'),\n 2028  (2285, 250, '_button_label', 'field_547ef2e475792'),\n 2029: (2286, 251, '_wp_attached_file', '2015/05/WL-Brochure.pdf'),\n 2030  (2296, 255, '_wp_attached_file', '2015/06/what-we-do.jpg'),\n 2031  (2297, 255, '_wp_attachment_metadata', 'a:5:{s:5:\"width\";i:1680;s:6:\"height\";i:560;s:4:\"file\";s:22:\"2015/06/what-we-do.jpg\";s:5:\"sizes\";a:17:{s:9:\"thumbnail\";a:4:{s:4:\"file\";s:22:\"what-we-do-150x150.jpg\";s:5:\"width\";i:150;s:6:\"height\";i:150;s:9:\"mime-type\";s:10:\"image/jpeg\";}s:6:\"medium\";a:4:{s:4:\"file\";s:22:\"what-we-do-300x100.jpg\";s:5:\"width\";i:300;s:6:\"height\";i:100;s:9:\"mime-type\";s:10:\"image/jpeg\";}s:5:\"large\";a:4:{s:4:\"file\";s:23:\"what-we-do-1024x341.jpg\";s:5:\"width\";i:1024;s:6:\"height\";i:341;s:9:\"mime-type\";s:10:\"image/jpeg\";}s:18:\"homepage-bg-mobile\";a:4:{s:4:\"file\";s:22:\"what-we-do-933x560.jpg\";s:5:\"width\";i:933;s:6:\"height\";i:560;s:9:\"mime-type\";s:10:\"image/jpeg\";}s:20:\"page-letterbox-image\";a:4:{s:4:\"file\";s:23:\"what-we-do-1680x390.jpg\";s:5:\"width\";i:1680;s:6:\"height\";i:390;s:9:\"mime-type\";s:10:\"image/jpeg\";}s:17:\"page-letterbox-tn\";a:4:{s:4:\"file\";s:21:\"what-we-do-300x70.jpg\";s:5:\"width\";i:300;s:6:\"height\";i:70;s:9:\"mime-type\";s:10:\"image/jpeg\";}s:12:\"portfolio-tn\";a:4:{s:4:\"file\";s:22:\"what-we-do-600x400.jpg\";s:5:\"width\";i:600;s:6:\"height\";i:400;s:9:\"mime-type\";s:10:\"image/jpeg\";}s:16:\"enlightenment-tn\";a:4:{s:4:\"file\";s:22:\"what-we-do-500x166.jpg\";s:5:\"width\";i:500;s:6:\"height\";i:166;s:9:\"mime-type\";s:10:\"image/jpeg\";}s:14:\"portfolio-logo\";a:4:{s:4:\"file\";s:22:\"what-we-do-500x166.jpg\";s:5:\"width\";i:500;s:6:\"height\";i:166;s:9:\"mime-type\";s:10:\"image/jpeg\";}s:17:\"portfolio-logo-tn\";a:4:{s:4:\"file\";s:21:\"what-we-do-250x83.jpg\";s:5:\"width\";i:250;s:6:\"height\";i:83;s:9:\"mime-type\";s:10:\"image/jpeg\";}s:11:\"sector-icon\";a:4:{s:4:\"file\";s:20:\"what-we-do-88x29.jpg\";s:5:\"width\";i:88;s:6:\"height\";i:29;s:9:\"mime-type\";s:10:\"image/jpeg\";}s:28:\"portfolio-column-half-height\";a:4:{s:4:\"file\";s:22:\"what-we-do-840x560.jpg\";s:5:\"width\";i:840;s:6:\"height\";i:560;s:9:\"mime-type\";s:10:\"image/jpeg\";}s:31:\"portfolio-column-half-height-tn\";a:4:{s:4:\"file\";s:22:\"what-we-do-200x145.jpg\";s:5:\"width\";i:200;s:6:\"height\";i:145;s:9:\"mime-type\";s:10:\"image/jpeg\";}s:28:\"portfolio-column-full-height\";a:4:{s:4:\"file\";s:22:\"what-we-do-840x560.jpg\";s:5:\"width\";i:840;s:6:\"height\";i:560;s:9:\"mime-type\";s:10:\"image/jpeg\";}s:31:\"portfolio-column-full-height-tn\";a:4:{s:4:\"file\";s:22:\"what-we-do-200x290.jpg\";s:5:\"width\";i:200;s:6:\"height\";i:290;s:9:\"mime-type\";s:10:\"image/jpeg\";}s:23:\"portfolio-full-width-tn\";a:4:{s:4:\"file\";s:21:\"what-we-do-200x66.jpg\";s:5:\"width\";i:200;s:6:\"height\";i:66;s:9:\"mime-type\";s:10:\"image/jpeg\";}s:14:\"post-thumbnail\";a:4:{s:4:\"file\";s:21:\"what-we-do-150x50.jpg\";s:5:\"width\";i:150;s:6:\"height\";i:50;s:9:\"mime-type\";s:10:\"image/jpeg\";}}s:10:\"image_meta\";a:11:{s:8:\"aperture\";i:0;s:6:\"credit\";s:0:\"\";s:6:\"camera\";s:0:\"\";s:7:\"caption\";s:0:\"\";s:17:\"created_timestamp\";i:0;s:9:\"copyright\";s:0:\"\";s:12:\"focal_length\";i:0;s:3:\"iso\";i:0;s:13:\"shutter_speed\";i:0;s:5:\"title\";s:0:\"\";s:11:\"orientation\";i:0;}}'),\n ....\n 2833  (245, 1, '2015-05-19 12:59:15', '2015-05-19 12:59:15', '', 'Who we are', '', 'inherit', 'open', 'open', '', '5-revision-v1', '', '', '2015-05-19 12:59:15', '2015-05-19 12:59:15', '', 5, 'http://92.60.114.159/~wlprintco/uncategorized/5-revision-v1/', 0, 'revision', '', 0),\n 2834  (247, 1, '2015-05-19 13:10:26', '2015-05-19 13:10:26', '', 'Options', '', 'publish', 'closed', 'closed', '', 'acf_options', '', '', '2015-05-19 13:10:26', '2015-05-19 13:10:26', '', 0, 'http://92.60.114.159/~wlprintco/?post_type=acf&#038;p=247', 0, 'acf', '', 0),\n 2835: (249, 1, '2015-05-19 13:33:16', '2015-05-19 13:33:16', '', 'Brochure', '', 'publish', 'closed', 'closed', '', 'acf_brochure', '', '', '2015-05-19 13:33:30', '2015-05-19 13:33:30', '', 0, 'http://92.60.114.159/~wlprintco/?post_type=acf&#038;p=249', 0, 'acf', '', 0),\n 2836  (250, 1, '2015-05-22 15:08:41', '2015-05-22 15:08:41', '', 'Home', '', 'inherit', 'open', 'open', '', '2-revision-v1', '', '', '2015-05-22 15:08:41', '2015-05-22 15:08:41', '', 2, 'http://92.60.114.159/~wlprintco/uncategorized/2-revision-v1/', 0, 'revision', '', 0),\n 2837: (251, 1, '2015-05-23 10:32:21', '2015-05-23 10:32:21', '', 'W&L Brochure', '', 'inherit', 'open', 'open', '', 'wl-brochure', '', '', '2015-05-23 10:32:21', '2015-05-23 10:32:21', '', 0, 'http://92.60.114.159/~wlprintco/wp-content/uploads/2015/05/WL-Brochure.pdf', 0, 'attachment', 'application/pdf', 0),\n 2838  (255, 1, '2015-06-06 15:45:18', '2015-06-06 15:45:18', '', 'what-we-do', '', 'inherit', 'open', 'open', '', 'what-we-do-3', '', '', '2015-06-06 15:45:18', '2015-06-06 15:45:18', '', 0, 'http://92.60.114.159/~wlprintco/wp-content/uploads/2015/06/what-we-do.jpg', 0, 'attachment', 'image/jpeg', 0),\n 2839  (256, 1, '2015-06-06 15:45:19', '2015-06-06 15:45:19', '', 'who-we-are', '', 'inherit', 'open', 'open', '', 'who-we-are-3', '', '', '2015-06-06 15:45:19', '2015-06-06 15:45:19', '', 0, 'http://92.60.114.159/~wlprintco/wp-content/uploads/2015/06/who-we-are.jpg', 0, 'attachment', 'image/jpeg', 0),\n\n/Applications/MAMP/htdocs/mpd/backup/_index.php:\n    2  $pagetitle =\"Shark Design &amp; Marketing Ltd\" ;\n    3  $pagedescription = \"Shark! is a Yorkshire based design and marketing agency specialising in branding, design for print, marketing strategy, and web design & development.\" ;\n    4: $pagekeywords= \"shark!, shark, graphic, design, creative, marketing, branding, digital, logo, strategy, web, website, e-commerce, SEO, advertising, agency, agencies, new media, online, poster, take one, flyer, folder, mailing, mail pack, mail shot, POS, brochure, signage.\" ;\n    5  \n    6  \n\n/Applications/MAMP/htdocs/mpd/backup/aboutsharkks.php:\n    1: <?$pagetitle =\"Shark Design &amp; Marketing Ltd - About Shark!\" ;$pagedescription = \"Shark! is a Yorkshire based design and marketing agency specialising in branding, design for print, marketing strategy, and web design & development.\" ;$pagekeywords = \"shark!, shark, graphic, design, creative, marketing, branding, digital, logo, strategy, web, website, e-commerce, SEO, advertising, agency, agencies, new media, online, poster, take one, flyer, folder, mailing, mail pack, mail shot, POS, brochure, signage.\" ;$as_wwa = \"\" ;$as_ks = \"style='color:#ffffff;'\" ;$as_wwd = \"\" ;$cs_one = \"\" ;$cs_two = \"\" ;$cs_three = \"\" ; $cs_four = \"\" ;$cs_five = \"\" ;$cs_archive = \"\" ;$p_branding = \"\" ;$p_digital = \"\" ;$p_dfp = \"\" ;$p_ls = \"\" ;$git_contactus = \"\" ;$git_newsletter = \"\" ;include 'include/header.php' ;?>	<div id=\"left_cont\"><?$image_one ='image/42.gif';$image_one_alt ='Key Staff';$image_two ='image/43.gif';$image_two_alt ='Key Staff';$image_three ='image/212.gif';$image_three_alt ='Key Staff';$image_four ='image/307.gif';$image_four_alt ='Key Staff'; 'include/slidershowks.php' ;?>				<h3 class=\"page_header\"><img src=\"image/navi_ks.gif\" alt=\"Meet the Team\" style=\"border:0;\" /><span>Meet the Team</span></h3>	<p>All the team at Shark! must have a good sense of humour as well as being committed to delivering great work to all our clients. We aim to make every project fun and rewarding for everyone involved by being approachable, honest and sometimes even saying no!</p>		<br />		<br />	</div>	<?include 'include/footer.php' ;?>\n\n/Applications/MAMP/htdocs/mpd/backup/aboutsharkwwa.php:\n    2  $pagetitle =\"Shark Design &amp; Marketing Ltd - Who we are\" ;\n    3  $pagedescription = \"Shark! is a Yorkshire based design and marketing agency specialising in branding, design for print, marketing strategy, and web design & development.\" ;\n    4: $pagekeywords = \"shark!, shark, graphic, design, creative, marketing, branding, digital, logo, strategy, web, website, e-commerce, SEO, advertising, agency, agencies, new media, online, poster, take one, flyer, folder, mailing, mail pack, mail shot, POS, brochure, signage.\" ;\n    5  \n    6  $as_wwa = \"style='color:#ffffff;'\" ;\n\n/Applications/MAMP/htdocs/mpd/backup/aboutsharkwwd.php:\n    2  $pagetitle =\"Shark Design &amp; Marketing Ltd - What we do\" ;\n    3  $pagedescription = \"Shark! is a Yorkshire based design and marketing agency specialising in branding, design for print, marketing strategy, and web design & development.\" ;\n    4: $pagekeywords = \"shark!, shark, graphic, design, creative, marketing, branding, digital, logo, strategy, web, website, e-commerce, SEO, advertising, agency, agencies, new media, online, poster, take one, flyer, folder, mailing, mail pack, mail shot, POS, brochure, signage.\" ;\n    5  \n    6  $as_wwa = \"\" ;\n\n/Applications/MAMP/htdocs/mpd/backup/casestudiesa.php:\n    2  $pagetitle =\"Shark Design &amp; Marketing Ltd - Case Studies Archive\" ;\n    3  $pagedescription = \"Shark! is a Yorkshire based design and marketing agency specialising in branding, design for print, marketing strategy, and web design & development.\" ;\n    4: $pagekeywords = \"shark!, shark, graphic, design, creative, marketing, branding, digital, logo, strategy, web, website, e-commerce, SEO, advertising, agency, agencies, new media, online, poster, take one, flyer, folder, mailing, mail pack, mail shot, POS, brochure, signage.\" ;\n    5  \n    6  $as_wwa = \"\" ;\n\n/Applications/MAMP/htdocs/mpd/backup/casestudiessb.php:\n    2  $pagetitle =\"Shark Design &amp; Marketing Ltd - Case Studies - Swimbabes\" ;\n    3  $pagedescription = \"Shark! is a Yorkshire based design and marketing agency specialising in branding, design for print, marketing strategy, and web design & development.\" ;\n    4: $pagekeywords = \"shark!, shark, graphic, design, creative, marketing, branding, digital, logo, strategy, web, website, e-commerce, SEO, advertising, agency, agencies, new media, online, poster, take one, flyer, folder, mailing, mail pack, mail shot, POS, brochure, signage.\" ;\n    5  \n    6  $as_wwa = \"\" ;\n\n/Applications/MAMP/htdocs/mpd/backup/casestudiessg.php:\n    2  $pagetitle =\"Shark Design &amp; Marketing Ltd - Case Studies - Select Group\" ;\n    3  $pagedescription = \"Shark! is a Yorkshire based design and marketing agency specialising in branding, design for print, marketing strategy, and web design & development.\" ;\n    4: $pagekeywords = \"shark!, shark, graphic, design, creative, marketing, branding, digital, logo, strategy, web, website, e-commerce, SEO, advertising, agency, agencies, new media, online, poster, take one, flyer, folder, mailing, mail pack, mail shot, POS, brochure, signage.\" ;\n    5  \n    6  $as_wwa = \"\" ;\n    .\n   52  	<p>Select Group</p>\n   53  \n   54: 	<p>When the Select Group of companies grew ten-fold they needed a brand strategy that embraced their growing number of divisions. We developed a flexible identity system that defined each division, maintained the group identity and has the capacity to grow with the Select Group of companies. Alongside the brand strategy we produced all of Select's corporate clothing - from hard wearing fleeces to hard hats, vehicle livery, stationery and brochures. We also created a hard working website which we maintain and optimise on a monthly basis. <a href=\"http://www.selectconstruction.co.uk/\" title=\"Select Group Yorkshire\" onclick=\"window.open(this.href); return false;\">Click here to launch the website.</a></p>\n   55  \n   56  	<p>What the client said:</p>\n\n/Applications/MAMP/htdocs/mpd/backup/casestudiest24.php:\n    2  $pagetitle =\"Shark Design &amp; Marketing Ltd - Case Studies - Tog 24\" ;\n    3  $pagedescription = \"Shark! is a Yorkshire based design and marketing agency specialising in branding, design for print, marketing strategy, and web design & development.\" ;\n    4: $pagekeywords = \"shark!, shark, graphic, design, creative, marketing, branding, digital, logo, strategy, web, website, e-commerce, SEO, advertising, agency, agencies, new media, online, poster, take one, flyer, folder, mailing, mail pack, mail shot, POS, brochure, signage.\" ;\n    5  \n    6  $as_wwa = \"\" ;\n\n/Applications/MAMP/htdocs/mpd/backup/casestudiestf.php:\n    2  $pagetitle =\"Shark Design &amp; Marketing Ltd - Case Studies - Dugdale\" ;\n    3  $pagedescription = \"Shark! is a Yorkshire based design and marketing agency specialising in branding, design for print, marketing strategy, and web design & development.\" ;\n    4: $pagekeywords = \"shark!, shark, graphic, design, creative, marketing, branding, digital, logo, strategy, web, website, e-commerce, SEO, advertising, agency, agencies, new media, online, poster, take one, flyer, folder, mailing, mail pack, mail shot, POS, brochure, signage.\" ;\n    5  \n    6  $as_wwa = \"\" ;\n\n/Applications/MAMP/htdocs/mpd/backup/casestudieswl.php:\n    2  $pagetitle =\"Shark Design &amp; Marketing Ltd - Case Studies - Waddington &amp Ledger\" ;\n    3  $pagedescription = \"Shark! is a Yorkshire based design and marketing agency specialising in branding, design for print, marketing strategy, and web design & development.\" ;\n    4: $pagekeywords = \"shark!, shark, graphic, design, creative, marketing, branding, digital, logo, strategy, web, website, e-commerce, SEO, advertising, agency, agencies, new media, online, poster, take one, flyer, folder, mailing, mail pack, mail shot, POS, brochure, signage.\" ;\n    5  \n    6  \n\n/Applications/MAMP/htdocs/mpd/backup/clientlist.php:\n    2  $pagetitle =\"Shark Design &amp; Marketing Ltd - Client List\" ;\n    3  $pagedescription = \"Shark! is a Yorkshire based design and marketing agency specialising in branding, design for print, marketing strategy, and web design & development.\" ;\n    4: $pagekeywords = \"shark!, shark, graphic, design, creative, marketing, branding, digital, logo, strategy, web, website, e-commerce, SEO, advertising, agency, agencies, new media, online, poster, take one, flyer, folder, mailing, mail pack, mail shot, POS, brochure, signage.\" ;\n    5  \n    6  $as_wwa = \"\" ;\n\n/Applications/MAMP/htdocs/mpd/backup/getintouch.php:\n    2  $pagetitle =\"Shark Design &amp; Marketing Ltd - Get in Touch!\" ;\n    3  $pagedescription = \"Shark! is a Yorkshire based design and marketing agency specialising in branding, design for print, marketing strategy, and web design & development.\" ;\n    4: $pagekeywords = \"shark!, shark, graphic, design, creative, marketing, branding, digital, logo, strategy, web, website, e-commerce, SEO, advertising, agency, agencies, new media, online, poster, take one, flyer, folder, mailing, mail pack, mail shot, POS, brochure, signage.\" ;\n    5  \n    6  \n\n/Applications/MAMP/htdocs/mpd/backup/getintouchcu.php:\n    2  $pagetitle =\"Shark Design &amp; Marketing Ltd - Get in Touch - Contact Us\" ;\n    3  $pagedescription = \"Shark! is a Yorkshire based design and marketing agency specialising in branding, design for print, marketing strategy, and web design & development.\" ;\n    4: $pagekeywords = \"shark!, shark, graphic, design, creative, marketing, branding, digital, logo, strategy, web, website, e-commerce, SEO, advertising, agency, agencies, new media, online, poster, take one, flyer, folder, mailing, mail pack, mail shot, POS, brochure, signage.\" ;\n    5  \n    6  $as_wwa = \"\" ;\n\n/Applications/MAMP/htdocs/mpd/backup/getintouchns.php:\n    2  $pagetitle =\"Shark Design &amp; Marketing Ltd - Newsletter Sign Up\" ;\n    3  $pagedescription = \"Shark! is a Yorkshire based design and marketing agency specialising in branding, design for print, marketing strategy, and web design & development.\" ;\n    4: $pagekeywords = \"shark!, shark, graphic, design, creative, marketing, branding, digital, logo, strategy, web, website, e-commerce, SEO, advertising, agency, agencies, new media, online, poster, take one, flyer, folder, mailing, mail pack, mail shot, POS, brochure, signage.\" ;\n    5  \n    6  $as_wwa = \"\" ;\n\n/Applications/MAMP/htdocs/mpd/backup/links.php:\n    2  $pagetitle =\"Shark Design &amp; Marketing Ltd - Links\" ;\n    3  $pagedescription = \"Shark! is a Yorkshire based design and marketing agency specialising in branding, design for print, marketing strategy, and web design & development.\" ;\n    4: $pagekeywords = \"shark!, shark, graphic, design, creative, marketing, branding, digital, logo, strategy, web, website, e-commerce, SEO, advertising, agency, agencies, new media, online, poster, take one, flyer, folder, mailing, mail pack, mail shot, POS, brochure, signage.\" ;\n    5  \n    6  $as_wwa = \"\" ;\n\n/Applications/MAMP/htdocs/mpd/backup/localhost.sql:\n   82  INSERT INTO `textpattern` (`ID`, `Posted`, `Expires`, `AuthorID`, `LastMod`, `LastModID`, `Title`, `Title_html`, `Body`, `Body_html`, `Excerpt`, `Excerpt_html`, `Image`, `Category1`, `Category2`, `Annotate`, `AnnotateInvite`, `comments_count`, `Status`, `textile_body`, `textile_excerpt`, `Section`, `override_form`, `Keywords`, `url_title`, `custom_1`, `custom_2`, `custom_3`, `custom_4`, `custom_5`, `custom_6`, `custom_7`, `custom_8`, `custom_9`, `custom_10`, `uid`, `feed_time`) VALUES\n   83  (41, '2006-10-17 12:10:00', '0000-00-00 00:00:00', 'kevin', '2011-08-22 11:59:29', 'andrew', 'Hello, we''re Shark! Design &amp; Marketing.', '', 'Shark! is a Yorkshire based <strong>DESIGN AND MARKETING</strong> agency based between Huddersfield and Halifax. We''re experts in \"graphic design\":portfolio/design-for-print, \"branding\":portfolio/branding, strategy, \"digital\":portfolio/digital and print.\\r\\n\\r\\nOur ideas are always creative, original and results driven.\\r\\n\\r\\nWe work with brands of all shapes and sizes. Whether you are an established business looking for a fresh approach or launching a new product in to a crowded market, we have the experience and expertise to produce campaigns that generate real results.\\r\\n\\r\\nSome agencies might call themselves full service, integrated communications, media neutral, above the line, below the line or through the line. We prefer to call ourselves hard working and committed to our clients.\\r\\n\\r\\nWe think our work will speak for itself. Have a look through our portfolio, case studies and latest news. \\r\\nIf you like what you see, \"get in touch...\":contact', '	<p>Shark! is a Yorkshire based <strong><span class=\"caps\">DESIGN</span> <span class=\"caps\">AND</span> <span class=\"caps\">MARKETING</span></strong> agency based between Huddersfield and Halifax. We&#8217;re experts in <a href=\"http://www.sharkdesign.co.uk/portfolio/design-for-print\">graphic design</a>, <a href=\"http://www.sharkdesign.co.uk/portfolio/branding\">branding</a>, strategy, <a href=\"http://www.sharkdesign.co.uk/portfolio/digital\">digital</a> and print.</p>\\n\\n	<p>Our ideas are always creative, original and results driven.</p>\\n\\n	<p>We work with brands of all shapes and sizes. Whether you are an established business looking for a fresh approach or launching a new product in to a crowded market, we have the experience and expertise to produce campaigns that generate real results.</p>\\n\\n	<p>Some agencies might call themselves full service, integrated communications, media neutral, above the line, below the line or through the line. We prefer to call ourselves hard working and committed to our clients.</p>\\n\\n	<p>We think our work will speak for itself. Have a look through our portfolio, case studies and latest news. <br />\\nIf you like what you see, <a href=\"http://www.sharkdesign.co.uk/contact\">get in touch&#8230;</a></p>', '', '', '280,281,282,283,284,285,286,287,288,289,290,291,292,293,294,295,296,297,298,299,300,302,302,303,304,305,306,307,308,309,310,311,312,313,314', '', '', 0, '', 0, 4, 1, 0, 'home', '', '', 'home', '00', '', '', '', '', '', '', '', '', '', '3bfdf1588bdfd74b299189446de70ef4', '2006-10-17'),\n   84: (61, '2008-10-28 18:47:29', '0000-00-00 00:00:00', 'kevin', '2013-08-09 10:31:50', 'andrew', 'Design For Print', '', 'Tactile and emotive, we love designing for print. From brochures, stationery and logo''s, to point of sale, exhibition graphics and even leather bound pattern books it''s all about creating an experience that engages the end user and delivers your message in a trustworthy and authoritative manner. \\r\\n\\r\\nWe''ve bags of experience using the huge array of creative printing techniques available from foil blocking and glitter varnishes to die cutting, embossing and fragrance sampling. What''s more, we''re continually exploring the latest materials available to help give your product or service even greater impact.\\r\\n\\r\\nUsing the latest CAD software we''re also able to create unique and exclusive point of sale units or eye-catching retail displays to grab shopper attention.\\r\\n\\r\\n\"Click here to see some examples of our most recent work\":portfolio/design-for-print', '	<p>Tactile and emotive, we love designing for print. From brochures, stationery and logo&#8217;s, to point of sale, exhibition graphics and even leather bound pattern books it&#8217;s all about creating an experience that engages the end user and delivers your message in a trustworthy and authoritative manner. </p>\\n\\n	<p>We&#8217;ve bags of experience using the huge array of creative printing techniques available from foil blocking and glitter varnishes to die cutting, embossing and fragrance sampling. What&#8217;s more, we&#8217;re continually exploring the latest materials available to help give your product or service even greater impact.</p>\\n\\n	<p>Using the latest <span class=\"caps\">CAD</span> software we&#8217;re also able to create unique and exclusive point of sale units or eye-catching retail displays to grab shopper attention.</p>\\n\\n	<p><a href=\"http://www.sharkdesign.co.uk/portfolio/design-for-print\">Click here to see some examples of our most recent work</a></p>', '', '', '', 'Design-For-Print', '', 0, '', 0, 4, 1, 1, 'what-we-do', '', '', 'design-for-print-services', '03', '', '', '', '', '', '', '', '', '', '550f4d1d79b9af77d042f59c5e02e339', '2008-10-28'),\n   85  (54, '2013-10-22 13:51:43', '0000-00-00 00:00:00', 'kevin', '2013-10-22 13:51:51', 'andrew', 'Key Staff', '', 'All the team at Shark! must have a good sense of humour as well as being committed to delivering great work to all our clients. We aim to make every project fun and rewarding for everyone involved by being approachable, honest and sometimes even saying no!', '	<p>All the team at Shark! must have a good sense of humour as well as being committed to delivering great work to all our clients. We aim to make every project fun and rewarding for everyone involved by being approachable, honest and sometimes even saying no!</p>', '', '', '42,43,212,307', '', '', 0, '', 0, 1, 1, 1, 'about', '', '', 'key-staff', '02', '', '', '', '', '', '', '', '', '', 'f04ebccb3740e29c706bc0e1c8931ea3', '2008-01-12'),\n   86  (43, '2008-10-16 19:39:19', '0000-00-00 00:00:00', 'kevin', '2012-11-27 12:22:37', 'andrew', 'Branding', '', 'Branding is much more than just a logo; it''s the very essence of a business. It should be a true reflection of your company''s values, from how you answer the phone to its online presence. Starting with a brand audit and then identifying your brand essence we have 13 years experience in creating strong, relevant and coherent brand communication strategies.\\r\\n\\r\\n\"Click here to see some examples of how we''ve helped our clients create their brand\":portfolio/branding', '	<p>Branding is much more than just a logo; it&#8217;s the very essence of a business. It should be a true reflection of your company&#8217;s values, from how you answer the phone to its online presence. Starting with a brand audit and then identifying your brand essence we have 13 years experience in creating strong, relevant and coherent brand communication strategies.</p>\\n\\n	<p><a href=\"http://www.sharkdesign.co.uk/portfolio/branding\">Click here to see some examples of how we&#8217;ve helped our clients create their brand</a></p>', '', '', '', 'Branding', '', 0, '', 0, 4, 1, 1, 'what-we-do', '', '', 'branding-services', '01', '', '', '', '', '', '', '', '', '', '05d4be3c023b9cc20295156c4134d9f1', '2006-10-17'),\n   87  (60, '2008-10-28 09:19:55', '0000-00-00 00:00:00', 'kevin', '2009-03-11 10:14:48', 'kevin', 'Direct Marketing', '', 'Direct Marketing isn''t just about the stuff that comes through your letterbox, in fact, it rarely is. Direct marketing is about generating quantifiable results that can be used to guide future strategies and tactics. We employ the basic principles of Targeting, Timing and Proposition. It is important to know your real return on investment (ROI).\\r\\n\\r\\nDirect marketing is an essential part of almost everything we do at Shark!', '	<p>Direct Marketing isn&#8217;t just about the stuff that comes through your letterbox, in fact, it rarely is. Direct marketing is about generating quantifiable results that can be used to guide future strategies and tactics. We employ the basic principles of Targeting, Timing and Proposition. It is important to know your real return on investment (<span class=\"caps\">ROI</span>).</p>\\n\\n	<p>Direct marketing is an essential part of almost everything we do at Shark!</p>', '', '', '', 'Direct-Marketing', '', 0, '', 0, 4, 1, 1, 'what-we-do', '', '', 'direct-marketing-services', '02', '', '', '', '', '', '', '', '', '', '0deedf634cf596a44dc50d8a193b3a39', '2008-10-28'),\n   88  (55, '2008-02-08 19:50:11', '0000-00-00 00:00:00', 'kevin', '2010-02-18 11:48:01', 'andrew', 'What We Do', '', 'We adopt a ''style and substance'' approach to every project, no matter what the discipline or media. \\r\\n\\r\\nAll our creative, strategic and digital work is produced in-house and we have a great relationship with our network of production specialists.\\r\\n\\r\\nClick the links on the right to see some of things we do...', '	<p>We adopt a &#8216;style and substance&#8217; approach to every project, no matter what the discipline or media. </p>\\n\\n	<p>All our creative, strategic and digital work is produced in-house and we have a great relationship with our network of production specialists.</p>\\n\\n	<p>Click the links on the right to see some of things we do&#8230;</p>', '', '', '', '', '', 0, '', 0, 4, 1, 1, 'what-we-do', '', '', 'what-we-do', '00', '', '', '', '', '', '', '', '', '', '259a41015806ddc14c02db92c29dce61', '2008-02-09'),\n   89: (62, '2008-10-28 19:42:58', '0000-00-00 00:00:00', 'kevin', '2009-11-19 17:22:49', 'Andrew', 'Select Group Yorkshire Ltd', '', 'When the Select Group of companies grew ten-fold they needed a brand strategy that embraced their growing number of divisions. We developed a flexible identity system that defined each division, maintained the group identity and has the capacity to grow with the Select Group of companies. Alongside the brand strategy we produced all of Select''s corporate clothing - from hard wearing fleeces to hard hats, vehicle livery, stationery and brochures. We also created a hard working website which we maintain and optimise on a monthly basis. *Launch the site here - <a href=\"http://www.selectconstruction.co.uk/\" title=\"Select\" target=\"_blank\" >Select</a>*\\r\\n\\r\\nWhat the client said:\\r\\n\\r\\n\"We needed to work with someone who could understand our business and advise us on the best way forward. We appointed Shark! and they''ve been brilliant from start to finish, they have really allowed us to focus on what we''re good at, building.\"', '	<p>When the Select Group of companies grew ten-fold they needed a brand strategy that embraced their growing number of divisions. We developed a flexible identity system that defined each division, maintained the group identity and has the capacity to grow with the Select Group of companies. Alongside the brand strategy we produced all of Select&#8217;s corporate clothing &#8211; from hard wearing fleeces to hard hats, vehicle livery, stationery and brochures. We also created a hard working website which we maintain and optimise on a monthly basis. <strong>Launch the site here &#8211; <a href=\"http://www.selectconstruction.co.uk/\" title=\"Select\" target=\"_blank\" >Select</a></strong></p>\\n\\n	<p>What the client said:</p>\\n\\n	<p>&#8220;We needed to work with someone who could understand our business and advise us on the best way forward. We appointed Shark! and they&#8217;ve been brilliant from start to finish, they have really allowed us to focus on what we&#8217;re good at, building.&#8221;</p>', 'When the Select Group of companies grew ten-fold they needed a brand strategy that embraced their growing number of divisions...', '	<p>When the Select Group of companies grew ten-fold they needed a brand strategy that embraced their growing number of divisions&#8230;</p>', '45,46,47,48,49', '', '', 0, '', 0, 1, 1, 1, 'case-studies', '', '', 'select-group', '', '', '', '', '', '', '', '', '', '', '1c3da2a920f9702fd1978a3ee790b69a', '2008-10-28'),\n   90  (63, '2008-10-28 19:44:30', '0000-00-00 00:00:00', 'kevin', '2009-09-23 13:13:18', 'Andrew', 'Dugdale', '', 'Dugdale needed a new approach in order to market their latest range of suit fabric in the Far East. Alongside the team at Dugdale we developed a quintessentially English name, strategy and highly successful range of marketing material that has a real gentleman''s club feel. We produced stationery and literature with a foil blocked, hand drawn crest and also developed a patterned, leather outer for the bunch books - something which has never been seen before.\\r\\n\\r\\nAs well as working with Dugdale on the Thomas Fisher brand we have also helped to launch a sister brand called Joseph Hirst which maintains the traditional typographical flourish.\\r\\n\\r\\nWhat the client said:\\r\\n\\r\\n\"Their attention to detail and their ability to translate ideas and concepts is natural and consistent, transforming our company and it''s image.\" - Robert Charnock, Director\\r\\n\\r\\n*Launch the site here - <a href=\"http://www.dugdalebros.com\" title=\"Dugdale Website\" target=\"_blank\" >Dugdale website</a>*', '	<p>Dugdale needed a new approach in order to market their latest range of suit fabric in the Far East. Alongside the team at Dugdale we developed a quintessentially English name, strategy and highly successful range of marketing material that has a real gentleman&#8217;s club feel. We produced stationery and literature with a foil blocked, hand drawn crest and also developed a patterned, leather outer for the bunch books &#8211; something which has never been seen before.</p>\\n\\n	<p>As well as working with Dugdale on the Thomas Fisher brand we have also helped to launch a sister brand called Joseph Hirst which maintains the traditional typographical flourish.</p>\\n\\n	<p>What the client said:</p>\\n\\n	<p>&#8220;Their attention to detail and their ability to translate ideas and concepts is natural and consistent, transforming our company and it&#8217;s image.&#8221; &#8211; Robert Charnock, Director</p>\\n\\n	<p><strong>Launch the site here &#8211; <a href=\"http://www.dugdalebros.com\" title=\"Dugdale Website\" target=\"_blank\" >Dugdale website</a></strong></p>', 'Alongside the team at Dugdale we developed a quintessentially English name, strategy and highly successful range of marketing material...', '	<p>Alongside the team at Dugdale we developed a quintessentially English name, strategy and highly successful range of marketing material&#8230;</p>', '51,52,53,54,55', '', '', 0, '', 0, 4, 1, 1, 'case-studies', '', '', 'dugdale', '', '', '', '', '', '', '', '', '', '', 'd77d83a5b67c9cbb3d0874ce25b4d6d4', '2008-10-28'),\n   91  (64, '2008-11-28 19:45:01', '0000-00-00 00:00:00', 'kevin', '2009-12-21 16:15:39', 'Andrew', 'Swimbabes', '', 'When we met Swimbabes it was obvious they had a really great product - their baby swim lessons. But their branding was confused and dated, and the online store wasn''t performing.\\r\\n\\r\\nWe helped them to create a slick and dynamic brand strategy that reflected the core values of the company and allowed them to expand the range of products they offer. \\r\\n\\r\\nThen we totally overhauled their existing e-commerce site making it easier to navigate, purchase from and be found on search engines. The re-designed website has been a great success and is a great site for parents on the go. \\r\\n\\r\\n*Launch the site here - <a href=\"http://www.swimbabes.co.uk\" title=\"Swimbabes Website\" target=\"_blank\" >Swimbabes | The shop for little swimmers</a>*\\r\\n\\r\\nSince appointing Shark, Swimbabes have enjoyed lesson growth and have expanded to new pools in the area. Onlline sales are *up 205%* and Google Ad word costs are *down 54%!*. The online store repayed the cost of investment within 3 months, much to the delight of the client! \\r\\n\\r\\nIf you''re looking to increase your online sales and grow your business then give us a call on 01422 375 333. ', '	<p>When we met Swimbabes it was obvious they had a really great product &#8211; their baby swim lessons. But their branding was confused and dated, and the online store wasn&#8217;t performing.</p>\\n\\n	<p>We helped them to create a slick and dynamic brand strategy that reflected the core values of the company and allowed them to expand the range of products they offer. </p>\\n\\n	<p>Then we totally overhauled their existing e-commerce site making it easier to navigate, purchase from and be found on search engines. The re-designed website has been a great success and is a great site for parents on the go. </p>\\n\\n	<p><strong>Launch the site here &#8211; <a href=\"http://www.swimbabes.co.uk\" title=\"Swimbabes Website\" target=\"_blank\" >Swimbabes | The shop for little swimmers</a></strong></p>\\n\\n	<p>Since appointing Shark, Swimbabes have enjoyed lesson growth and have expanded to new pools in the area. Onlline sales are <strong>up 205%</strong> and Google Ad word costs are <strong>down 54%!</strong>. The online store repayed the cost of investment within 3 months, much to the delight of the client! </p>\\n\\n	<p>If you&#8217;re looking to increase your online sales and grow your business then give us a call on 01422 375 333. </p>', 'When we met Swimbabes it was obvious they had a really great product - their baby swim lessons. But their branding was confused and dated, and the online store wasn''t performing.', '	<p>When we met Swimbabes it was obvious they had a really great product &#8211; their baby swim lessons. But their branding was confused and dated, and the online store wasn&#8217;t performing.</p>', '56,57,58,59,60', '', '', 0, '', 0, 4, 1, 1, 'case-studies', '', '', 'swimbabes', '', '', '', '', '', '', '', '', '', '', 'ca62e80781faf94121faac988f9ed2c2', '2008-10-28'),\n   ..\n   96  (69, '2008-10-28 19:50:43', '0000-00-00 00:00:00', 'kevin', '2013-10-18 17:03:13', 'andrew', 'Digital', '', 'In an ever changing digital world, you need to be confident that your agency has the knowledge to engage and influence the new digital audience. The Shark! team have an exceptional track record in web design, content managed and e-commerce websites, e-mail marketing, Search Engine Optimization (SEO) and keyword analysis. \\r\\n\\r\\nTake a look at some of our digital projects in the slide show above and click on the links below to visit some of the websites we have designed and built.\\r\\n\\r\\nIf you''re unsure which form of digital communication will achieve the best results for your business why not give us a call?\\r\\n\\r\\n<a href=\"http://www.wlprint.co.uk\" title=\"W&L Website\" target=\"_blank\" >Waddington & Ledger Ltd</a>\\r\\nCMS web site design and build and galleries.\\r\\n\\r\\n<a href=\"http://www.originprintsolutions.co.uk\" title=\"Origin Print Solutions website\" target=\"_blank\" >Origin Print Solutions</a>\\r\\nDesign and build of website featuring client area for creating and ordering personalised statonery. \\r\\n\\r\\n<a href=\"http://www.trinityacademyhalifax.org\" title=\"Trinity Academy website\" target=\"_blank\" >Trinity Academy</a>\\r\\nContent managed website design and build. Featuring Twitter feed and video. \\r\\n\\r\\n<a href=\"http://www.tog24.com\" title=\"TOG24 website\" target=\"_blank\" >TOG24</a>\\r\\nDesign and build. Flash movies, interactive javascript features, csv data capture.\\r\\n\\r\\n<a href=\"http://www.goldcrestchemicals.co.uk/\" title=\"Goldcrest Chemicals website\" target=\"_blank\" >Goldcrest Chemicals</a>\\r\\nCMS website design and build including flash movies and photography. \\r\\n\\r\\n<a href=\"http://www.swimbabes.co.uk\" title=\"Swimbabes website\" target=\"_blank\" >Swimbabes</a>\\r\\nDesign and development of CMS e-commerce site. \\r\\n\\r\\n<a href=\"http://www.gatewaysschool.co.uk\" title=\"Gateways website\" target=\"_blank\" >Gateways School</a>\\r\\nCMS website design and build, unique folding menu, student blog, event calendar, and photography.\\r\\n\\r\\n<a href=\"http://www.towngate.plc.uk\" title=\"Towngate website\" target=\"_blank\" >Towngate Plc</a>\\r\\nDesign and development of CMS website. Quick search, promotional banner, image rotators, csv data capture. \\r\\n\\r\\n<a href=\"http://www.theyorkshiresaucery.com\" title=\"The Yorkshire Saucery Website\" target=\"_blank\" >The Yorkshire Saucery</a>\\r\\nDesign, build and interactive javascript features. \\r\\n\\r\\n<a href=\"http://www.rastrick.calderdale.sch.uk/\" title=\"Rastrick School\" target=\"_blank\" >Rastrick School</a>\\r\\nCMS website design and build, with concertina folding menu.', '	<p>In an ever changing digital world, you need to be confident that your agency has the knowledge to engage and influence the new digital audience. The Shark! team have an exceptional track record in web design, content managed and e-commerce websites, e-mail marketing, Search Engine Optimization (<span class=\"caps\">SEO</span>) and keyword analysis. </p>\\n\\n	<p>Take a look at some of our digital projects in the slide show above and click on the links below to visit some of the websites we have designed and built.</p>\\n\\n	<p>If you&#8217;re unsure which form of digital communication will achieve the best results for your business why not give us a call?</p>\\n\\n	<p><a href=\"http://www.wlprint.co.uk\" title=\"W&L Website\" target=\"_blank\" >Waddington &amp; Ledger Ltd</a><br />\\n<span class=\"caps\">CMS</span> web site design and build and galleries.</p>\\n\\n	<p><a href=\"http://www.originprintsolutions.co.uk\" title=\"Origin Print Solutions website\" target=\"_blank\" >Origin Print Solutions</a><br />\\nDesign and build of website featuring client area for creating and ordering personalised statonery. </p>\\n\\n	<p><a href=\"http://www.trinityacademyhalifax.org\" title=\"Trinity Academy website\" target=\"_blank\" >Trinity Academy</a><br />\\nContent managed website design and build. Featuring Twitter feed and video. </p>\\n\\n	<p><a href=\"http://www.tog24.com\" title=\"TOG24 website\" target=\"_blank\" >TOG24</a><br />\\nDesign and build. Flash movies, interactive javascript features, csv data capture.</p>\\n\\n	<p><a href=\"http://www.goldcrestchemicals.co.uk/\" title=\"Goldcrest Chemicals website\" target=\"_blank\" >Goldcrest Chemicals</a><br />\\n<span class=\"caps\">CMS</span> website design and build including flash movies and photography. </p>\\n\\n	<p><a href=\"http://www.swimbabes.co.uk\" title=\"Swimbabes website\" target=\"_blank\" >Swimbabes</a><br />\\nDesign and development of <span class=\"caps\">CMS</span> e-commerce site. </p>\\n\\n	<p><a href=\"http://www.gatewaysschool.co.uk\" title=\"Gateways website\" target=\"_blank\" >Gateways School</a><br />\\n<span class=\"caps\">CMS</span> website design and build, unique folding menu, student blog, event calendar, and photography.</p>\\n\\n	<p><a href=\"http://www.towngate.plc.uk\" title=\"Towngate website\" target=\"_blank\" >Towngate Plc</a><br />\\nDesign and development of <span class=\"caps\">CMS</span> website. Quick search, promotional banner, image rotators, csv data capture. </p>\\n\\n	<p><a href=\"http://www.theyorkshiresaucery.com\" title=\"The Yorkshire Saucery Website\" target=\"_blank\" >The Yorkshire Saucery</a><br />\\nDesign, build and interactive javascript features. </p>\\n\\n	<p><a href=\"http://www.rastrick.calderdale.sch.uk/\" title=\"Rastrick School\" target=\"_blank\" >Rastrick School</a><br />\\n<span class=\"caps\">CMS</span> website design and build, with concertina folding menu.</p>', 'In an ever changing digital media environment, you need to be confident that your agency has the knowledge to engage and influence the new digital audience. The Shark! in-house web team have an exceptional track record in web design', '	<p>In an ever changing digital media environment, you need to be confident that your agency has the knowledge to engage and influence the new digital audience. The Shark! in-house web team have an exceptional track record in web design</p>', '372,251,172,166,168,167,161,165,160,162,172,169,164,163,251', 'Digital', '', 0, '', 0, 4, 1, 1, 'portfolio', '', '', 'digital', '02', '', '', '', '', '', '', '', '', '', 'e3adbd7c120e7280bd9ce41d6f4576cd', '2008-10-28'),\n   97  (154, '2014-02-20 16:48:31', '0000-00-00 00:00:00', 'andrew', '2014-02-20 17:08:41', 'andrew', '3D Retail Planning', '', 'Planning a new product launch or in-store promotion and want to see how it would work before it happens?\\r\\n \\r\\nOne of our clients was faced with this challenge and asked for our help visualising new point of sale concepts in a retail environment.\\r\\n \\r\\nOur 3D plan enabled them to explore different concepts and ways of improving the overall shopper experience.\\r\\n \\r\\nIf you''re looking for similar visual insight, give us a call today on 01422 376446.\\r\\n \\r\\n \\r\\n', '	<p>Planning a new product launch or in-store promotion and want to see how it would work before it happens?</p>\\n\\n	<p>One of our clients was faced with this challenge and asked for our help visualising new point of sale concepts in a retail environment.</p>\\n\\n	<p>Our 3D plan enabled them to explore different concepts and ways of improving the overall shopper experience.</p>\\n\\n	<p>If you&#8217;re looking for similar visual insight, give us a call today on 01422 376446.</p>', 'Planning a new product launch or in-store promotion and want to see how it would work before it happens?\\r\\nOne of our clients was faced with this challenge and asked for our help visualising new point of sale concepts in a retail environment. Our 3D plan enabled them to explore different concepts and ways of improving the overall shopper experience.', '	<p>Planning a new product launch or in-store promotion and want to see how it would work before it happens?<br />\\nOne of our clients was faced with this challenge and asked for our help visualising new point of sale concepts in a retail environment. Our 3D plan enabled them to explore different concepts and ways of improving the overall shopper experience.</p>', '396,400,398,397,399', 'pos-packaging', '', 0, '', 0, 4, 1, 1, 'case-studies', '', '', '3d-retail-planning', '', '', '', '', '', '', '', '', '', '', '338aef4b1faaf002ac24001f90f9a552', '2014-02-20'),\n   98: (70, '2008-10-28 19:51:18', '0000-00-00 00:00:00', 'kevin', '2014-02-21 10:32:04', 'andrew', 'Design For Print', '', 'Shark! love designing for print. From brochures, stationery and logo''s, packaging to point of sale, display material and even leather bound pattern books we''ve helped all our clients present their brand, promote their business, communicate a key message and attract new customers through print. \\r\\n\\r\\nOur understanding of creative print techniques available from foil blocking and embossing, to die-cutting and debossing, varnishing and fragrance sampling enables us to create print that is memorable, engaging and has stand-out.\\r\\n\\r\\nWhen executed effectively, printed media plays a vital and complimentary role in any communications strategy so why not get in touch and let us show you how we can help.\\r\\n\\r\\nTake a look at some of our design for print in the slide show above.', '	<p>Shark! love designing for print. From brochures, stationery and logo&#8217;s, packaging to point of sale, display material and even leather bound pattern books we&#8217;ve helped all our clients present their brand, promote their business, communicate a key message and attract new customers through print. </p>\\n\\n	<p>Our understanding of creative print techniques available from foil blocking and embossing, to die-cutting and debossing, varnishing and fragrance sampling enables us to create print that is memorable, engaging and has stand-out.</p>\\n\\n	<p>When executed effectively, printed media plays a vital and complimentary role in any communications strategy so why not get in touch and let us show you how we can help.</p>\\n\\n	<p>Take a look at some of our design for print in the slide show above.</p>', '', '', '410,408,406,403,389,378,363,373,356,346,330,375,402,309,349,290,250,347,202,348,350,245,226,', 'Design-For-Print', '', 0, '', 0, 4, 1, 1, 'portfolio', '', '', 'design-for-print', '03', '', '', '', '', '', '', '', '', '', 'fbd9566360b46ceffdffb4a4ad2986be', '2008-10-28'),\n   99  (46, '2007-08-18 18:37:54', '0000-00-00 00:00:00', 'kevin', '2010-02-18 12:26:36', 'andrew', 'Contact Us', '', 'If you want to have a chat about a particular project or want to see more of our work you can get in touch by calling 01422 376446, or emailing us at \"info@sharkdesign.co.uk\":mailto:info@sharkdesign.co.uk.\\r\\n\\r\\nAlternatively fill out the form below and we will contact you shortly.\\r\\n\\r\\nAll fields are required.\\r\\n\\r\\n <txp:zem_contact to=\"info@sharkdesign.co.uk\"  label=\"\" subject=\"Shark! Website Enquiry\" form=\"form_contact\" label=\"\" thanks_form=\"form_contact_thanks\"/>\\r\\n\\r\\nShark! Design & Marketing\\r\\nThe W&L Building,\\r\\nLowfields Way,\\r\\nElland,\\r\\nHX5 9DA\\r\\n\\r\\nRegistered in England No:\\r\\n581 7121', '	<p>If you want to have a chat about a particular project or want to see more of our work you can get in touch by calling 01422 376446, or emailing us at <a href=\"mailto:info@sharkdesign.co.uk\">info@sharkdesign.co.uk</a>.</p>\\n\\n	<p>Alternatively fill out the form below and we will contact you shortly.</p>\\n\\n	<p>All fields are required.</p>\\n\\n <txp:zem_contact to=\"info@sharkdesign.co.uk\"  label=\"\" subject=\"Shark! Website Enquiry\" form=\"form_contact\" label=\"\" thanks_form=\"form_contact_thanks\"/>\\n\\n	<p>Shark! Design &amp; Marketing<br />\\nThe W&amp;L Building,<br />\\nLowfields Way,<br />\\nElland,<br />\\nHX5 9DA</p>\\n\\n	<p>Registered in England No:<br />\\n581 7121</p>', '', '', '', '', '', 0, '', 0, 4, 1, 0, 'contact', '', '', 'contact-us', '00', '', '', '', '', '', '', '', '', '', 'a7347497fe6de27afeabb3efdd889597', '2007-08-18'),\n  100  (65, '2008-10-28 19:47:53', '0000-00-00 00:00:00', 'kevin', '2013-08-09 11:46:09', 'andrew', 'Client List', '', 'Here''s a list of some of the people who have chosen to work with Shark Design & Marketing:\\r\\n\\r\\n\\r\\np{width:220px;float:left;}. Hobbycraft\\r\\nHalco Rock Tools\\r\\nTerberg DTS\\r\\nNew Ivory\\r\\nPPG Architectural Coatings UK\\r\\nSolarLex\\r\\nGran Deco \\r\\nWilkinsons\\r\\nBrilliant Interiors\\r\\n\\r\\np{width:220px;float:left;}. Kilsaran International\\r\\nLister Horsfall\\r\\nRRAM Energy\\r\\nMNB Partnership\\r\\nElland Developments\\r\\nGateways School\\r\\nRastrick High School\\r\\nQueen Elizabeth Grammar School\\r\\nTrinity Academy, Halifax', '	<p>Here&#8217;s a list of some of the people who have chosen to work with Shark Design &amp; Marketing:</p>\\n\\n	<p style=\"width:220px; float:left;\">Hobbycraft<br />\\nHalco Rock Tools<br />\\nTerberg <span class=\"caps\">DTS</span><br />\\nNew Ivory<br />\\n<span class=\"caps\">PPG</span> Architectural Coatings UK<br />\\nSolarLex<br />\\nGran Deco <br />\\nWilkinsons<br />\\nBrilliant Interiors</p>\\n\\n	<p style=\"width:220px; float:left;\">Kilsaran International<br />\\nLister Horsfall<br />\\n<span class=\"caps\">RRAM</span> Energy<br />\\n<span class=\"caps\">MNB</span> Partnership<br />\\nElland Developments<br />\\nGateways School<br />\\nRastrick High School<br />\\nQueen Elizabeth Grammar School<br />\\nTrinity Academy, Halifax</p>', '', '', '', '', '', 0, '', 0, 4, 1, 1, 'get-info', '', '', 'client-list', '01', '', '', '', '', '', '', '', '', '', '5848ee65baf29ef90b1dc5db6f88e5bf', '2008-10-28'),\n  ...\n  148  (118, '2010-07-26 17:41:12', '0000-00-00 00:00:00', 'andrew', '2010-07-26 17:41:12', 'andrew', 'Shark goes back to school!', '', 'Shark Design opened its doors recently to four competition winners from Queen Elizabeth Grammar School in Wakefield. The boys, aged 7-11, each designed a front cover for an imaginary magazine of their choice and then spent the day with us in studio creating the centre spread for their new school magazine where their fantastic winning entries will appear. Watch this space to see the new magazine – coming soon!', '	<p>Shark Design opened its doors recently to four competition winners from Queen Elizabeth Grammar School in Wakefield. The boys, aged 7-11, each designed a front cover for an imaginary magazine of their choice and then spent the day with us in studio creating the centre spread for their new school magazine where their fantastic winning entries will appear. Watch this space to see the new magazine – coming soon!</p>', 'Shark Design opened its doors recently to four competition winners from Queen Elizabeth Grammar School in Wakefield.', '	<p>Shark Design opened its doors recently to four competition winners from Queen Elizabeth Grammar School in Wakefield.</p>', '41', '', '', 0, '', 0, 4, 1, 1, 'news', '', '', 'shark-goes-back-to-school', '', '', '', '', '', '', '', '', '', '', '96ebc5dad169527b0ae8750e312a5f5d', '2010-07-15'),\n  149  (119, '2010-11-21 15:27:32', '0000-00-00 00:00:00', 'andrew', '2011-08-31 17:36:36', 'andrew', 'PPG Retail Europe (Spring/Summer)', '', 'Shark Design & Marketing were appointed by a global paint manufacturer to create new marketing literature. The brief: to design and print an eye-catching and environmentally responsible pack to showcase new colours and hold supporting literature. Our understated but impressive packaging and booklet are both printed on recycled materials with colour fan decks providing an easy to use colour guide.\\r\\n\\r\\nAnd here’s what the client thought……\\r\\n\\r\\nThe team at Shark demonstrated such passion and commitment every step of the way. From the initial concepts and ideas stage, to the design and development process and through to production. Their knowledge, creativity and ‘can do’ attitude alongside excellent project management skills, were the perfect balance to provide the level of support required to deliver this challenging brief. The stylish end result was completed to the highest standard and was admired by colleagues and clients alike. \\r\\n\\r\\nClare Howard, Colour Forecast Manager.\\r\\n\\r\\n \\r\\n\\r\\n', '	<p>Shark Design &amp; Marketing were appointed by a global paint manufacturer to create new marketing literature. The brief: to design and print an eye-catching and environmentally responsible pack to showcase new colours and hold supporting literature. Our understated but impressive packaging and booklet are both printed on recycled materials with colour fan decks providing an easy to use colour guide.</p>\\n\\n	<p>And here’s what the client thought……</p>\\n\\n	<p>The team at Shark demonstrated such passion and commitment every step of the way. From the initial concepts and ideas stage, to the design and development process and through to production. Their knowledge, creativity and ‘can do’ attitude alongside excellent project management skills, were the perfect balance to provide the level of support required to deliver this challenging brief. The stylish end result was completed to the highest standard and was admired by colleagues and clients alike. </p>\\n\\n	<p>Clare Howard, Colour Forecast Manager.</p>\\n\\n', 'Shark Design & Marketing were chosen by a global paint manufacturer to design new marketing literature.', '	<p>Shark Design &amp; Marketing were chosen by a global paint manufacturer to design new marketing literature.</p>', '233,231,208,204,207', 'Design-For-Print', '', 0, '', 0, 4, 1, 1, 'case-studies', '', '', 'shark-design-colour-trend-literature', '', '', '', '', '', '', '', '', '', '', '80d0fd83e7d17bef308359065bb75b66', '2011-01-18'),\n  150: (120, '2011-01-19 10:21:23', '0000-00-00 00:00:00', 'andrew', '2011-08-02 14:12:48', 'andrew', 'Retail Display Unit', '', 'Tasked with designing and printing a free standing display unit (FSDU) to promote a new range of paints, Shark Design created this eye-catching semi-permanent unit to hold tester pots and product information brochures.\\r\\n \\r\\nThroughout this design and print project, from initial concepts to printed prototypes, our focus was on creating a unit that would allow the client to merchandise their products in an appealing and cost effective way. Inspirational imagery was used to grab the shopper’s attention and a transparent pocket allowed the retailer to change the promotional message and pricing quickly and easily.\\r\\n \\r\\nPrinted digitally, the FSDU’s were delivered pre-merchandised to over 170 stores nationwide.\\r\\n\\r\\nIf you want to increase sales with the right in-store solutions why not give us a call? ', '	<p>Tasked with designing and printing a free standing display unit (<span class=\"caps\">FSDU</span>) to promote a new range of paints, Shark Design created this eye-catching semi-permanent unit to hold tester pots and product information brochures.</p>\\n\\n	<p>Throughout this design and print project, from initial concepts to printed prototypes, our focus was on creating a unit that would allow the client to merchandise their products in an appealing and cost effective way. Inspirational imagery was used to grab the shopper’s attention and a transparent pocket allowed the retailer to change the promotional message and pricing quickly and easily.</p>\\n\\n	<p>Printed digitally, the FSDU’s were delivered pre-merchandised to over 170 stores nationwide.</p>\\n\\n	<p>If you want to increase sales with the right in-store solutions why not give us a call? </p>', 'Shark Design & Marketing were tasked with designing a free standing display unit to promote a new range of paints.', '	<p>Shark Design &amp; Marketing were tasked with designing a free standing display unit to promote a new range of paints.</p>', '220,221,222,223,224', '', '', 0, '', 0, 4, 1, 1, 'case-studies', '', '', 'ppg-retail-europe', '', '', '', '', '', '', '', '', '', '', 'e5605afea2e84dd9ef6a6e091761dac3', '2011-01-18'),\n  151  (124, '2011-08-16 11:41:10', '0000-00-00 00:00:00', 'andrew', '2011-09-09 10:40:59', 'andrew', 'MNB Project Solutions', '', 'MNB Project Solutions, a specialist construction and property consultancy selected Shark Design & Marketing to create a new brand identity and improve their online presence. Shark provided both the website design and website development.\\r\\n\\r\\n*Launch the site here - <a href=\"http://www.mnbprojects.co.uk\" title=\"MNB Project Solutions Website\" target=\"_blank\" >MNB Project Solutions</a>*\\r\\n\\r\\n', '	<p><span class=\"caps\">MNB</span> Project Solutions, a specialist construction and property consultancy selected Shark Design &amp; Marketing to create a new brand identity and improve their online presence. Shark provided both the website design and website development.</p>\\n\\n	<p><strong>Launch the site here &#8211; <a href=\"http://www.mnbprojects.co.uk\" title=\"MNB Project Solutions Website\" target=\"_blank\" ><span class=\"caps\">MNB</span> Project Solutions</a></strong></p>\\n\\n', 'New website goes live!', '	<p>New website goes live!</p>', '', 'Websites', '', 0, '', 0, 4, 1, 1, 'news', '', '', 'mnb-project-solutions', '', '', '', '', '', '', '', '', '', '', '306bf8b4b3bca9311cff595d0c8c3d50', '2011-08-16'),\n  152  (122, '2011-04-03 11:32:36', '0000-00-00 00:00:00', 'andrew', '2011-09-09 16:39:36', 'andrew', 'PPG Retail Europe (Autumn/Winter)', '', 'Global paint manufacturer PPG Retail Europe appointed Shark to design and print their interior colour trends literature for Autumn/Winter 2011. To reflect these times of austerity our design was understated and discreet with the trends captured across five postcards, housed within an envelope. With on-going consideration to sustainability the postcards were printed on recycled paper, with the envelope made from a unique rubber textured material with subtle foil blocking.\\r\\n\\r\\nFor internal personnel, Shark designed a more detailed document using evocative imagery and insights to tell the trend theme stories. Created in a digital format this was uploaded to PPG''s intranet for use across Europe. ', '	<p>Global paint manufacturer <span class=\"caps\">PPG</span> Retail Europe appointed Shark to design and print their interior colour trends literature for Autumn/Winter 2011. To reflect these times of austerity our design was understated and discreet with the trends captured across five postcards, housed within an envelope. With on-going consideration to sustainability the postcards were printed on recycled paper, with the envelope made from a unique rubber textured material with subtle foil blocking.</p>\\n\\n	<p>For internal personnel, Shark designed a more detailed document using evocative imagery and insights to tell the trend theme stories. Created in a digital format this was uploaded to <span class=\"caps\">PPG</span>&#8217;s intranet for use across Europe. </p>', 'Global paint manufacturer PPG Retail Europe appointed Shark to design and print their interior colour trends literature for Autumn/Winter 2011', '	<p>Global paint manufacturer <span class=\"caps\">PPG</span> Retail Europe appointed Shark to design and print their interior colour trends literature for Autumn/Winter 2011</p>', '218,244,216,213,219', '', '', 0, '', 0, 4, 1, 1, 'case-studies', '', '', 'ppg-europe-interior-colour-trends-literature', '', '', '', '', '', '', '', '', '', '', '6c051fd0bd5acb9a861bafeca4393fbc', '2011-04-03'),\n  153  (123, '2011-04-15 13:50:11', '0000-00-00 00:00:00', 'andrew', '2011-08-16 11:14:45', 'andrew', 'Trinity Academy, Halifax', '', 'Trinity Academy, Halifax chose Shark to design and develop their new school website. With an emphasis on improved usability for students, staff, parents and the wider community our website design reflects the modern and engaging environment their new school building will provide on completion. Easy to use navigation combined with information presented clearly creates a positive online experience.\\r\\n  \\r\\n*Launch the site here - <a href=\"http://www.trinityacademyhalifax.org\" title=\"Trinity Academy Website\" target=\"_blank\" >Trinity Academy, Halifax</a>*\\r\\n\\r\\n  ', '	<p>Trinity Academy, Halifax chose Shark to design and develop their new school website. With an emphasis on improved usability for students, staff, parents and the wider community our website design reflects the modern and engaging environment their new school building will provide on completion. Easy to use navigation combined with information presented clearly creates a positive online experience.</p>\\n\\n	<p><strong>Launch the site here &#8211; <a href=\"http://www.trinityacademyhalifax.org\" title=\"Trinity Academy Website\" target=\"_blank\" >Trinity Academy, Halifax</a></strong></p>\\n\\n  ', 'Trinity Academy, Halifax appoints Shark to design and develop their new website.', '	<p>Trinity Academy, Halifax appoints Shark to design and develop their new website.</p>', '', 'Websites', '', 0, '', 0, 4, 1, 1, 'news', '', '', 'trinity-academy-halifax', '', '', '', '', '', '', '', '', '', '', 'f8ccb2ecc438389cdf02becd7de01473', '2011-04-15'),\n  154: (127, '2011-09-13 17:12:47', '0000-00-00 00:00:00', 'andrew', '2013-02-07 14:06:50', 'andrew', 'PPG Digital Brochure', '', 'It doesn’t matter to us if we’re asked to design literature for print or for use digitally – we just love to design.\\r\\n\\r\\nWe created this digital brochure for a global paint manufacturer to promote next seasons'' new colours. Set the challenge of visualising how these colours could work within the home, we decided to design our very own room sets! Take a look through them in the slide show above - we''ve included some of our initial sketches so you can see where our inspiration started.\\r\\n \\r\\nOnly available online the full brochure can be seen here - <a href=\"http://issuu.com/sharkdesign/docs/colour_trends_2012?viewMode=magazine&mode=embed\" title=\"Terberg Magazine\" target=\"_blank\" >*PPG digital brochure*</a>.\\r\\n\\r\\nWe were really happy with the results but more importantly, this is what the client thought:\\r\\n\\r\\n“Taking a new direction for the PPG 2012 trends project was no problem for the team at Shark! Their ability to rise to yet another challenge saw them executing a professional and creative digital brochure, which is an inspiring and exciting new way to talk about colour with colleagues and customers. I was delighted with the end result, and was proud for the recipients to receive the stylish mailer which supported the link to the brochure.”\\r\\n\\r\\nClare Howard, European Colour and Trends Forecast Manager\\r\\n\\r\\n', '	<p>It doesn’t matter to us if we’re asked to design literature for print or for use digitally – we just love to design.</p>\\n\\n	<p>We created this digital brochure for a global paint manufacturer to promote next seasons&#8217; new colours. Set the challenge of visualising how these colours could work within the home, we decided to design our very own room sets! Take a look through them in the slide show above &#8211; we&#8217;ve included some of our initial sketches so you can see where our inspiration started.</p>\\n\\n	<p>Only available online the full brochure can be seen here &#8211; <a href=\"http://issuu.com/sharkdesign/docs/colour_trends_2012?viewMode=magazine&mode=embed\" title=\"Terberg Magazine\" target=\"_blank\" ><strong><span class=\"caps\">PPG</span> digital brochure</strong></a>.</p>\\n\\n	<p>We were really happy with the results but more importantly, this is what the client thought:</p>\\n\\n	<p>“Taking a new direction for the <span class=\"caps\">PPG</span> 2012 trends project was no problem for the team at Shark! Their ability to rise to yet another challenge saw them executing a professional and creative digital brochure, which is an inspiring and exciting new way to talk about colour with colleagues and customers. I was delighted with the end result, and was proud for the recipients to receive the stylish mailer which supported the link to the brochure.”</p>\\n\\n	<p>Clare Howard, European Colour and Trends Forecast Manager</p>', 'It doesn’t matter to us if we’re asked to design literature for print or for use digitally – we just love to design.\\r\\n', '	<p>It doesn’t matter to us if we’re asked to design literature for print or for use digitally – we just love to design.</p>', '336,337,338,339,340', '', '', 0, '', 0, 4, 1, 1, 'case-studies', '', '', 'ppg-digital-brochure', '', '', '', '', '', '', '', '', '', '', '772b2f153826d82be3a20c350dc40a6a', '2011-09-08'),\n  155  (125, '2011-08-22 17:00:45', '0000-00-00 00:00:00', 'andrew', '2011-09-09 17:20:42', 'andrew', 'Global manufacturer appoints Shark', '', 'Terberg DTS UK, a global provider of specialist vehicles chose Shark to design and print their new marketing literature. The brief: engage Terberg''s audience and present their extensive product portfolio clearly and concisely. Our colour coded, stepped edge design provides a strong visual index making the readers journey to the product and information they need an easy one. \\r\\n\\r\\nThe second booklet in our newly designed suite of marketing literature is coming soon. \\r\\n\\r\\n\\r\\n\\r\\n', '	<p>Terberg <span class=\"caps\">DTS</span> UK, a global provider of specialist vehicles chose Shark to design and print their new marketing literature. The brief: engage Terberg&#8217;s audience and present their extensive product portfolio clearly and concisely. Our colour coded, stepped edge design provides a strong visual index making the readers journey to the product and information they need an easy one. </p>\\n\\n	<p>The second booklet in our newly designed suite of marketing literature is coming soon. </p>\\n\\n', 'Terberg DTS selects Shark to design their new marketing literature', '	<p>Terberg <span class=\"caps\">DTS</span> selects Shark to design their new marketing literature</p>', '250', 'Design-For-Print', '', 0, '', 0, 4, 1, 1, 'news', '', '', 'terberg-dts', '', '', '', '', '', '', '', '', '', '', 'b4f04f2f2c1cc79edf38280fbe0ba897', '2011-08-22'),\n  156  (126, '2010-11-21 16:19:31', '0000-00-00 00:00:00', 'andrew', '2011-09-08 16:33:14', 'andrew', 'Shark design and print new colour trend literature', '', 'Shark Design & Marketing were appointed by a global paint manufacturer to design new marketing literature. The brief: to design and print an eye-catching and environmentally responsible pack to showcase new colours and hold supporting literature. Our understated but stylish packaging and booklet are both printed on recycled materials with colour fan decks providing an easy to use colour guide.\\r\\n\\r\\nAnd here’s what the client thought……\\r\\n\\r\\nThe team at Shark demonstrated such passion and commitment every step of the way. From the initial concepts and ideas stage, to the design and development process and through to production. Their knowledge, creativity and ‘can do’ attitude alongside excellent project management skills, were the perfect balance to provide the level of support required to deliver this challenging brief. The stylish end result was completed to the highest standard and was admired by colleagues and clients alike. \\r\\n\\r\\nClare Howard, Colour Forecast Manager.\\r\\n\\r\\n', '	<p>Shark Design &amp; Marketing were appointed by a global paint manufacturer to design new marketing literature. The brief: to design and print an eye-catching and environmentally responsible pack to showcase new colours and hold supporting literature. Our understated but stylish packaging and booklet are both printed on recycled materials with colour fan decks providing an easy to use colour guide.</p>\\n\\n	<p>And here’s what the client thought……</p>\\n\\n	<p>The team at Shark demonstrated such passion and commitment every step of the way. From the initial concepts and ideas stage, to the design and development process and through to production. Their knowledge, creativity and ‘can do’ attitude alongside excellent project management skills, were the perfect balance to provide the level of support required to deliver this challenging brief. The stylish end result was completed to the highest standard and was admired by colleagues and clients alike. </p>\\n\\n	<p>Clare Howard, Colour Forecast Manager.</p>\\n\\n', 'PPG Retail Europe selected Shark to design their new colour trend literature', '	<p><span class=\"caps\">PPG</span> Retail Europe selected Shark to design their new colour trend literature</p>', '202', '', '', 0, '', 0, 4, 1, 1, 'news', '', '', 'shark-designs-new-colour-trend-literature', '', '', '', '', '', '', '', '', '', '', 'c0ef887a03fc2e80e1c786e74273d50a', '2011-08-24'),\n  157: (128, '2011-09-09 13:19:53', '0000-00-00 00:00:00', 'andrew', '2011-09-12 11:48:36', 'andrew', 'In-Store Sales Promotion', '', 'We developed this display unit to promote a new range of paints for a DIY retailer. Eye-catching, inspirational imagery makes the unit an ‘attention grabber’ and displaying the product and information brochure together enables the shopper to make an easy and informed purchasing decision.\\r\\n\\r\\nIf you need creative ideas for any new or existing product promotional activity why not give us a call.  ', '	<p>We developed this display unit to promote a new range of paints for a <span class=\"caps\">DIY</span> retailer. Eye-catching, inspirational imagery makes the unit an ‘attention grabber’ and displaying the product and information brochure together enables the shopper to make an easy and informed purchasing decision.</p>\\n\\n	<p>If you need creative ideas for any new or existing product promotional activity why not give us a call.  </p>', 'We designed and manufactured this display unit as part of a sales promotion campaign. ', '	<p>We designed and manufactured this display unit as part of a sales promotion campaign. </p>', '242', '', '', 0, '', 0, 4, 1, 1, 'news', '', '', 'in-store-sales-promotion', '', '', '', '', '', '', '', '', '', '', '0e31bd5202909c2957bdc1274dcb33c1', '2011-09-09'),\n  158  (129, '2011-12-08 14:28:13', '0000-00-00 00:00:00', 'andrew', '2011-12-08 14:37:38', 'andrew', 'Origin Print Solutions', '', 'Shark Design & Marketing were appointed by Origin Print Solutions – a leading regional print management company - to design a new corporate identity and website.\\r\\n\\r\\nThe brief was simple: improve their existing online presence with an easy to navigate site and password protected client area for creating and ordering personalised business stationery.\\r\\n\\r\\nThe vibrant homepage reflects Origin’s expertise managing colour, with an image rotator providing an insight to their business.\\r\\n\\r\\nTheir new corporate identity is currently being rolled out across various other pieces of literature which we will showcase on here soon!\\r\\n\\r\\n\\r\\nLaunch their new site here – <a href=\"http://www.originprintsolutions.co.uk\" title=\"Origin Print Solutions Website\" target=\"_blank\" >Origin Print Solutions</a>\\r\\n\\r\\n', '	<p>Shark Design &amp; Marketing were appointed by Origin Print Solutions – a leading regional print management company &#8211; to design a new corporate identity and website.</p>\\n\\n	<p>The brief was simple: improve their existing online presence with an easy to navigate site and password protected client area for creating and ordering personalised business stationery.</p>\\n\\n	<p>The vibrant homepage reflects Origin’s expertise managing colour, with an image rotator providing an insight to their business.</p>\\n\\n	<p>Their new corporate identity is currently being rolled out across various other pieces of literature which we will showcase on here soon!</p>\\n\\n	<p>Launch their new site here – <a href=\"http://www.originprintsolutions.co.uk\" title=\"Origin Print Solutions Website\" target=\"_blank\" >Origin Print Solutions</a></p>\\n\\n', 'Shark Design & Marketing were appointed by Origin Print Solutions – a leading regional print management company - to design a new corporate identity and website.\\r\\n', '	<p>Shark Design &amp; Marketing were appointed by Origin Print Solutions – a leading regional print management company &#8211; to design a new corporate identity and website.</p>', '251', 'Websites', '', 0, '', 0, 4, 1, 1, 'news', '', '', 'origin-print-solutions', '', '', '', '', '', '', '', '', '', '', '29e95ede32b5e0ed8104938f1b5c508d', '2011-12-08'),\n  159  (130, '2012-01-19 12:18:27', '0000-00-00 00:00:00', 'andrew', '2012-04-19 15:16:00', 'Andrew', 'SolarLex', '', 'SolarLex – designers, suppliers and installers of solar panels recently appointed Shark to design, print and build their exhibition stand and marketing literature for the Harrogate Home Building Show.\\r\\n\\r\\nTheir brief: to create an eye-catching stand and literature that reflected their brand and helped promote their products. After creating a 3D visual of the stand, we were responsible for designing and printing the wall graphics and constructing the stand. We even supplied all the furniture ready for the show!\\r\\n\\r\\nSolarLex were delighted with the results – “everything went fantastically well… very, very positive and we made loads of sales so a good weekend”.\\r\\n\\r\\nIf you’re looking for an Exhibition Stand, trade show displays, pop-up banners or other display stands why not give us a call? \\r\\n\\r\\n', '	<p>SolarLex – designers, suppliers and installers of solar panels recently appointed Shark to design, print and build their exhibition stand and marketing literature for the Harrogate Home Building Show.</p>\\n\\n	<p>Their brief: to create an eye-catching stand and literature that reflected their brand and helped promote their products. After creating a 3D visual of the stand, we were responsible for designing and printing the wall graphics and constructing the stand. We even supplied all the furniture ready for the show!</p>\\n\\n	<p>SolarLex were delighted with the results – “everything went fantastically well… very, very positive and we made loads of sales so a good weekend”.</p>\\n\\n	<p>If you’re looking for an Exhibition Stand, trade show displays, pop-up banners or other display stands why not give us a call? </p>\\n\\n', 'SolarLex – designers, suppliers and installers of solar panels recently appointed Shark to design, print and build their exhibition stand and marketing literature for the Harrogate Home Building Show.\\r\\n', '	<p>SolarLex – designers, suppliers and installers of solar panels recently appointed Shark to design, print and build their exhibition stand and marketing literature for the Harrogate Home Building Show.</p>', '252,253,254,255,256', 'Design-For-Print', '', 0, '', 0, 4, 1, 1, 'case-studies', '', '', 'solarlex-exhibition-stand-and-marketing-literature', '', '', '', '', '', '', '', '', '', '', 'fc1beb790d214568268c07373c82cd6d', '2012-01-19'),\n  160  (131, '2012-04-19 14:46:10', '0000-00-00 00:00:00', 'andrew', '2012-04-19 14:46:10', 'Andrew', 'Mars Chocolate (UK) Limited', '', 'Mars Chocolate (UK) invited Shark Design & Marketing to demonstrate our graphic design and print manufacturing capabilities for a range of its’ point-of-sale material – an integral part of their sales promotion activity.\\r\\n \\r\\nThe brief: to design and print free standing display units, dump bins and counter top boxes to create improved in-store presence and allow Mars to display their brands in a memorable way. Each item had to be easy to assemble, durable, meet retail guidelines and be cost effective.  \\r\\n\\r\\nOur inspirational design, eye-catching constructions, innovative print techniques and materials demonstrate how to create an exciting shopping experience through outstanding point-of-sale.\\r\\n', '	<p>Mars Chocolate (UK) invited Shark Design &amp; Marketing to demonstrate our graphic design and print manufacturing capabilities for a range of its’ point-of-sale material – an integral part of their sales promotion activity.</p>\\n\\n	<p>The brief: to design and print free standing display units, dump bins and counter top boxes to create improved in-store presence and allow Mars to display their brands in a memorable way. Each item had to be easy to assemble, durable, meet retail guidelines and be cost effective.  </p>\\n\\n	<p>Our inspirational design, eye-catching constructions, innovative print techniques and materials demonstrate how to create an exciting shopping experience through outstanding point-of-sale.</p>', 'Mars Chocolate (UK) invited Shark Design & Marketing to demonstrate our graphic design and print manufacturing capabilities for a range of its’ point-of-sale material – an integral part of their sales promotion activity.\\r\\n', '	<p>Mars Chocolate (UK) invited Shark Design &amp; Marketing to demonstrate our graphic design and print manufacturing capabilities for a range of its’ point-of-sale material – an integral part of their sales promotion activity.</p>', '282,278,279,280,281', 'Design-For-Print', '', 0, '', 0, 4, 1, 1, 'case-studies', '', '', 'mars-chocolate', '', '', '', '', '', '', '', '', '', '', '5f1b45af58c6164363e3204fc6ad3da8', '2012-04-11'),\n  161: (132, '2012-05-30 10:08:43', '0000-00-00 00:00:00', 'andrew', '2012-07-25 11:15:44', 'andrew', 'Brilliant Literature', '', 'Brilliant - the Interiors, Living and Lighting specialist asked Shark to design and print their new marketing literature. \\r\\n\\r\\n\\r\\nTraditionally, the three arms of their business were promoted in a single brochure. Our design proposal focused on creating three distinct sub-brands each with their own brochure to help make Brilliants offering clearer and create greater appeal to a wider audience. As part of our design, each brochure references their complementary services to reinforce their portfolio.\\r\\n\\r\\n \\r\\n\\r\\n', '	<p>Brilliant &#8211; the Interiors, Living and Lighting specialist asked Shark to design and print their new marketing literature. </p>\\n\\n	<p>Traditionally, the three arms of their business were promoted in a single brochure. Our design proposal focused on creating three distinct sub-brands each with their own brochure to help make Brilliants offering clearer and create greater appeal to a wider audience. As part of our design, each brochure references their complementary services to reinforce their portfolio.</p>', 'Brilliant - the Interiors, Living and Lighting specialist asked Shark to design and print their new marketing literature. \\r\\n', '	<p>Brilliant &#8211; the Interiors, Living and Lighting specialist asked Shark to design and print their new marketing literature. </p>', '300, 302, 303, 301,304', 'Design-For-Print', '', 0, '', 0, 4, 1, 1, 'case-studies', '', '', 'brilliant', '', '', '', '', '', '', '', '', '', '', '8521ed8d70bb3d8919c8df95e1a91f0d', '2012-05-30'),\n  162  (136, '2012-07-25 10:58:13', '0000-00-00 00:00:00', 'andrew', '2012-07-25 10:58:13', 'andrew', 'Gateways School', '', '', '', '', '', '308,', 'Design-For-Print', '', 0, '', 0, 1, 1, 1, 'news', '', '', 'gateways-school', '', '', '', '', '', '', '', '', '', '', 'a435410ab0b2620cb1b377acb709acc9', '2012-07-25');\n  163  INSERT INTO `textpattern` (`ID`, `Posted`, `Expires`, `AuthorID`, `LastMod`, `LastModID`, `Title`, `Title_html`, `Body`, `Body_html`, `Excerpt`, `Excerpt_html`, `Image`, `Category1`, `Category2`, `Annotate`, `AnnotateInvite`, `comments_count`, `Status`, `textile_body`, `textile_excerpt`, `Section`, `override_form`, `Keywords`, `url_title`, `custom_1`, `custom_2`, `custom_3`, `custom_4`, `custom_5`, `custom_6`, `custom_7`, `custom_8`, `custom_9`, `custom_10`, `uid`, `feed_time`) VALUES\n  ...\n  180  (155, '2014-02-20 17:04:54', '0000-00-00 00:00:00', 'andrew', '2014-02-20 17:06:15', 'andrew', 'W&amp;L Marketing Literature', '', '', '', '', '', '390,391,392,394,395', 'Design-For-Print', '', 0, '', 0, 1, 1, 1, 'case-studies', '', '', 'wl-marketing-literature', '', '', '', '', '', '', '', '', '', '', '49837cad63308cb00752f42386e1cb47', '2014-02-20'),\n  181  (156, '2014-02-21 12:01:02', '0000-00-00 00:00:00', 'andrew', '2014-02-21 12:01:26', 'andrew', 'Movie Production', '', 'We produced this video for the trends team at a national retailer to give their buying teams insight on forthcoming materials, colours and products. Take a look here at the final edit.', '	<p>We produced this video for the trends team at a national retailer to give their buying teams insight on forthcoming materials, colours and products. Take a look here at the final edit.</p>', '', '', '', '', '', 0, '', 0, 1, 1, 1, 'news', '', '', 'movie-production', '', '', '', '', '', '', '', '', '', '', 'e3acb3c78216f1a87228471dc2c9909d', '2014-02-21'),\n  182: (157, '2014-03-06 14:15:21', '0000-00-00 00:00:00', 'andrew', '2014-03-06 14:33:31', 'andrew', 'New Marketing Literature', '', 'We designed this new brochure for one of the UK''s largest print media groups.\\r\\n \\r\\nThe brief: to showcase their work in an eye-catching way and better reflect their reputation as a creator of superb visually led experiences.\\r\\n\\r\\nTo take a look at the full brochure \"click here\":http://issuu.com/sharkdesign/docs/w_l_brochure?e=1444526/6058655\\r\\n \\r\\nIf you''re looking for new ways to engage prospective customers why not give us a call on 01422 376446 - I''m sure we can help deliver your message more effectively.\\r\\n \\r\\n \\r\\n', '	<p>We designed this new brochure for one of the UK&#8217;s largest print media groups.</p>\\n\\n	<p>The brief: to showcase their work in an eye-catching way and better reflect their reputation as a creator of superb visually led experiences.</p>\\n\\n	<p>To take a look at the full brochure <a href=\"http://issuu.com/sharkdesign/docs/w_l_brochure?e=1444526/6058655\">click here</a></p>\\n\\n	<p>If you&#8217;re looking for new ways to engage prospective customers why not give us a call on 01422 376446 &#8211; I&#8217;m sure we can help deliver your message more effectively.</p>', 'We designed this new brochure for one of the UK''s largest print media groups.\\r\\n \\r\\nThe brief: to showcase their work in an eye-catching way and better reflect their reputation as a creator of superb visually led experiences.\\r\\n \\r\\n', '	<p>We designed this new brochure for one of the UK&#8217;s largest print media groups.</p>\\n\\n	<p>The brief: to showcase their work in an eye-catching way and better reflect their reputation as a creator of superb visually led experiences.</p>', '390,391,392,395,394', '', '', 0, '', 0, 4, 1, 1, 'case-studies', '', '', 'new-marketing-literature', '', '', '', '', '', '', '', '', '', '', 'bf62ff4b19ef48fa9eed3788093cf06f', '2014-02-21'),\n  183  (158, '2014-10-14 11:41:43', '0000-00-00 00:00:00', 'andrew', '2014-10-14 11:41:43', 'andrew', 'We''re HIRING! ', '', 'Looking to join the team at a fast growing creative marketing agency?\\r\\n\\r\\nAre you creative, enthusiastic and hungry to succeed? \\r\\n\\r\\nIf so then Shark! is just the place for you.\\r\\nWe are looking for a confident, self-starter who has a desire to learn and a passion to succeed as an **Account Executive**.\\r\\n\\r\\nSupporting the senior account management team, this opportunity will give you the chance to work with well-known brands and cover everything from brand development to direct marketing (digital/direct mail/SMS), advertising, print management and web design.\\r\\nYou will be responsible for the day-to-day management of key accounts, helping to deliver great campaigns, providing exceptional service to existing clients as well as engaging with new business opportunities.\\r\\nYou’ll be a good communicator with strong organisational and project management skills. Some experience, preferably in a creative agency environment, would be an advantage.\\r\\n<p></p>\\r\\n\\r\\n**Key Requirements**\\r\\n\\r\\n1. Digital marketing experience an advantage \\r\\n2. Relevant marketing qualifications to degree level\\r\\n3. Able to work effectively under pressure whilst maintaining attention to detai\\r\\n4. Ability to use own initiative and find improvements to processes\\r\\n5. Ability to learn and use new systems quickly\\r\\n\\r\\n<p>\\r\\n\\r\\nSalary expectations for this role are £15,000 to £19,000 dependant on experience.\\r\\nOther benefits of employment include 26 days annual holiday (plus statutory holidays), and after a satisfactory trial, eligibility for Pension Scheme and Profit Share. </p>\\r\\n\\r\\n\\r\\n<b>To apply, please send your CV and covering letter to matthew.ogden@sharkdesign.co.uk\\r\\n\\r\\n\\r\\nShark! Design and Marketing is an equal opportunities employer.\\r\\n\\r\\nGood Luck!\\r\\n', '	<p>Looking to join the team at a fast growing creative marketing agency?</p>\\n\\n	<p>Are you creative, enthusiastic and hungry to succeed? </p>\\n\\n	<p>If so then Shark! is just the place for you.<br />\\nWe are looking for a confident, self-starter who has a desire to learn and a passion to succeed as an <b>Account Executive</b>.</p>\\n\\n	<p>Supporting the senior account management team, this opportunity will give you the chance to work with well-known brands and cover everything from brand development to direct marketing (digital/direct mail/SMS), advertising, print management and web design.<br />\\nYou will be responsible for the day-to-day management of key accounts, helping to deliver great campaigns, providing exceptional service to existing clients as well as engaging with new business opportunities.<br />\\nYou’ll be a good communicator with strong organisational and project management skills. Some experience, preferably in a creative agency environment, would be an advantage.<br />\\n<p></p></p>\\n\\n	<p><b>Key Requirements</b></p>\\n\\n	<p>1. Digital marketing experience an advantage <br />\\n2. Relevant marketing qualifications to degree level<br />\\n3. Able to work effectively under pressure whilst maintaining attention to detai<br />\\n4. Ability to use own initiative and find improvements to processes<br />\\n5. Ability to learn and use new systems quickly</p>\\n\\n	<p><p></p>\\n\\n	<p>Salary expectations for this role are £15,000 to £19,000 dependant on experience.<br />\\nOther benefits of employment include 26 days annual holiday (plus statutory holidays), and after a satisfactory trial, eligibility for Pension Scheme and Profit Share. </p></p>\\n\\n	<p><b>To apply, please send your CV and covering letter to matthew.ogden@sharkdesign.co.uk</p>\\n\\n	<p>Shark! Design and Marketing is an equal opportunities employer.</p>\\n\\n	<p>Good Luck!</p>', 'Looking to join the team at a fast growing creating marketing agency?\\r\\n\\r\\nAre you creative, enthusiastic and hungry to succeed? \\r\\n\\r\\nIf so then Shark! is just the place for you.\\r\\nWe are looking for a confident, self-starter who has a desire to learn and a passion to succeed as an **Account Executive**.', '	<p>Looking to join the team at a fast growing creating marketing agency?</p>\\n\\n	<p>Are you creative, enthusiastic and hungry to succeed? </p>\\n\\n	<p>If so then Shark! is just the place for you.<br />\\nWe are looking for a confident, self-starter who has a desire to learn and a passion to succeed as an <b>Account Executive</b>.</p>', '41', '', '', 0, '', 0, 4, 1, 1, 'news', '', 'Jobs,Marketing,Advertising,Creative,CV,Agency,New Opportunity,Design,Print,Shark.', 'we-re-hiring', '', '', '', '', '', '', '', '', '', '', '08f48459f9086ba2b17c6aa41a37f507', '2014-09-08');\n  184  \n  ...\n  334  \n  335  INSERT INTO `txp_file` (`id`, `filename`, `title`, `category`, `permissions`, `description`, `downloads`, `status`, `modified`, `created`, `size`, `author`) VALUES\n  336: (4, 'ppgbrochure.jpg', NULL, '', '', 'Spring Summer 2011 trends', 0, 4, '2011-07-28 15:48:30', '2011-07-28 15:48:00', 182545, 'andrew');\n  337  \n  338  -- --------------------------------------------------------\n  ...\n  386  ('section_portfolio', 'misc', '<txp:if_section name=\"portfolio\">\\r\\n<txp:if_individual_article>\\r\\n<txp:chh_if_data>\\r\\n<txp:article limit=\"1\" />\\r\\n<txp:else />\\r\\n    <txp:output_form form=\"no_content\" />\\r\\n</txp:chh_if_data>\\r\\n<txp:else />\\r\\n<txp:chh_if_data>\\r\\n<txp:article_custom section=\"portfolio\" Menu_Index=\"00\"   limit=\"1\" />\\r\\n<txp:else />\\r\\n    <txp:output_form form=\"no_content\" />\\r\\n</txp:chh_if_data>\\r\\n</txp:if_individual_article>\\r\\n</txp:if_section>\\r\\n'),\n  387  ('section_what_we_do', 'misc', '<txp:if_section name=\"what-we-do\">\\r\\n<txp:if_individual_article>\\r\\n<txp:chh_if_data>\\r\\n<txp:article limit=\"1\" form=\"article_what_we_do\"/>\\r\\n<txp:else />\\r\\n    <txp:output_form form=\"no_content\" />\\r\\n</txp:chh_if_data>\\r\\n<txp:else />\\r\\n<txp:chh_if_data>\\r\\n<txp:article_custom section=\"what-we-do\" Menu_Index=\"00\"  limit=\"1\" form=\"article_what_we_do\"/>\\r\\n<txp:else />\\r\\n    <txp:output_form form=\"no_content\" />\\r\\n</txp:chh_if_data>\\r\\n</txp:if_individual_article>\\r\\n</txp:if_section>\\r\\n'),\n  388: ('html_metadata', 'misc', '<meta name=\"description\" content=\"Shark! is a Yorkshire based design and marketing agency specialising in branding, design for print, marketing strategy, and web design & development.\" />\\r\\n<meta name=\"keywords\" content=\"shark!, shark, graphic, design, creative, marketing, branding, digital, logo, strategy, web, website, e-commerce, SEO, advertising, agency, agencies, new media, online, poster, take one, flyer, folder, mailing, mail pack, mail shot, POS, brochure, signage.\" />'),\n  389  ('panel_banner', 'misc', '<txp:php>// HOME //</txp:php>\\r\\n\\r\\n<txp:if_section name=\",blog\">\\r\\n<div id=\"left_cont_header\">\\r\\n<div class=\"main_image\">\\r\\n<h3><txp:image id=\"41\" /></h3>\\r\\n<span></span>\\r\\n</div></div>\\r\\n</txp:if_section>\\r\\n\\r\\n<txp:php>// NEWS //</txp:php>\\r\\n\\r\\n<txp:if_section name=\"news\">\\r\\n<div id=\"left_cont_header\">\\r\\n<div class=\"main_image\">\\r\\n<txp:chh_if_data>\\r\\n<txp:hak_article_image link=\"0\" offset=\"0\" limit=\"1\" />\\r\\n<txp:else />\\r\\n    <txp:image id=\"41\" />\\r\\n</txp:chh_if_data>\\r\\n<span></span>\\r\\n</div></div>\\r\\n</txp:if_section>\\r\\n\\r\\n\\r\\n<txp:php>// ABOUT //</txp:php>\\r\\n\\r\\n<txp:if_section name=\"about\">\\r\\n<txp:if_article_id id=\"54\">\\r\\n<txp:output_form form=\"panel_key_staff\" />\\r\\n<txp:else />\\r\\n<div id=\"left_cont_header\">\\r\\n<div class=\"main_image\">\\r\\n<txp:chh_if_data>\\r\\n<txp:hak_article_image link=\"0\" offset=\"0\" limit=\"1\" />\\r\\n<txp:else />\\r\\n    <txp:image id=\"41\" />\\r\\n</txp:chh_if_data>\\r\\n<span></span>\\r\\n</div></div>\\r\\n</txp:if_article_id>\\r\\n</txp:if_section>\\r\\n\\r\\n<txp:php>// WHAT WE DO //</txp:php>\\r\\n\\r\\n<txp:if_section name=\"what-we-do\">\\r\\n<div id=\"left_cont_header\">\\r\\n<div class=\"main_image\">\\r\\n<txp:chh_if_data>\\r\\n<txp:hak_article_image link=\"0\" offset=\"0\" limit=\"1\" />\\r\\n<txp:else />\\r\\n    <txp:image id=\"41\" />\\r\\n</txp:chh_if_data>\\r\\n<span></span>\\r\\n</div></div>\\r\\n</txp:if_section>\\r\\n\\r\\n\\r\\n<txp:php>// CASE STUDIES //</txp:php>\\r\\n\\r\\n<txp:if_section name=\"case-studies\">\\r\\n<txp:if_individual_article>\\r\\n<txp:chh_if_data>\\r\\n<txp:article limit=\"1\" form=\"article_slider\" />\\r\\n<txp:else />\\r\\n<div id=\"left_cont_header\">\\r\\n<div class=\"main_image\">\\r\\n<txp:image id=\"105\" />\\r\\n<span></span>\\r\\n</div></div>\\r\\n</txp:chh_if_data>\\r\\n<txp:else />\\r\\n<div id=\"left_cont_header\">\\r\\n<div class=\"main_image\">\\r\\n<txp:image id=\"105\" />\\r\\n<span></span>\\r\\n</div></div>\\r\\n</txp:if_individual_article>\\r\\n</txp:if_section>\\r\\n\\r\\n<txp:php>// PORTFOLIO //</txp:php>\\r\\n\\r\\n<txp:if_section name=\"portfolio\">\\r\\n<txp:if_individual_article>\\r\\n<txp:chh_if_data>\\r\\n<txp:article limit=\"1\" form=\"article_slideshow\" />\\r\\n<txp:else />\\r\\n<div id=\"left_cont_header\">\\r\\n<div class=\"main_image\">\\r\\n<txp:image id=\"41\" />\\r\\n<span></span>\\r\\n</div></div>\\r\\n</txp:chh_if_data>\\r\\n<txp:else />\\r\\n<div id=\"left_cont_header\">\\r\\n<div class=\"main_image\">\\r\\n<txp:image id=\"41\" />\\r\\n<span></span>\\r\\n</div></div>\\r\\n</txp:if_individual_article>\\r\\n</txp:if_section>\\r\\n\\r\\n<txp:php>// CONTACT //</txp:php>\\r\\n\\r\\n<txp:if_section name=\"contact\">\\r\\n<div id=\"left_cont_header\">\\r\\n<div class=\"main_image\">\\r\\n<txp:chh_if_data>\\r\\n<txp:hak_article_image link=\"0\" offset=\"0\" limit=\"1\" />\\r\\n<txp:else />\\r\\n    <txp:image id=\"50\" />\\r\\n</txp:chh_if_data>\\r\\n<span></span>\\r\\n</div></div>\\r\\n</txp:if_section>\\r\\n\\r\\n<txp:php>// GET INFO //</txp:php>\\r\\n\\r\\n<txp:if_section name=\"get-info\">\\r\\n<div id=\"left_cont_header\">\\r\\n<div class=\"main_image\">\\r\\n<txp:chh_if_data>\\r\\n<txp:hak_article_image link=\"0\" offset=\"0\" limit=\"1\" />\\r\\n<txp:else />\\r\\n    <txp:image id=\"41\" />\\r\\n</txp:chh_if_data>\\r\\n<span></span>\\r\\n</div></div>\\r\\n</txp:if_section>'),\n  390  ('panel_key_staff', 'misc', '<div id=\"left_cont_header\">\\r\\n<div id=\"feature3\"><span></span>\\r\\n<div id=\"horizontal_container\" >            \\r\\n<h3 id=\"slide1\" class=\"horizontal_accordion_toggle\"></h3>\\r\\n<div class=\"horizontal_accordion_content\">\\r\\n<txp:hak_article_image link=\"0\" offset=\"0\" limit=\"1\"/> 	\\r\\n</div>\\r\\n                 \\r\\n<h3 id=\"slide2\" class=\"horizontal_accordion_toggle\"></h3>\\r\\n<div class=\"horizontal_accordion_content\">\\r\\n<txp:hak_article_image link=\"0\" offset=\"1\" limit=\"1\"/>	\\r\\n</div>\\r\\n   \\r\\n<h3 id=\"slide3\" class=\"horizontal_accordion_toggle\"></h3>\\r\\n<div class=\"horizontal_accordion_content\">\\r\\n<txp:hak_article_image link=\"0\" offset=\"2\" limit=\"1\"/>     \\r\\n</div>\\r\\n\\r\\n<h3 id=\"slide4\" class=\"horizontal_accordion_toggle\"></h3>\\r\\n<div class=\"horizontal_accordion_content\">\\r\\n<txp:hak_article_image link=\"0\" offset=\"3\" limit=\"1\"/> \\r\\n\\r\\n</div>\\r\\n</div>\\r\\n</div>\\r\\n        					'),\n  ...\n  533  (143, 'mnco1.jpg', '', '.jpg', 617, 270, 'M&Co. Window Display', '', '2009-09-21 09:12:23', 'Andrew', 1, 0, 0),\n  534  (144, 'mnco2.jpg', '', '.jpg', 617, 270, 'M&Co. Ladies Windows', '', '2009-09-21 09:13:54', 'Andrew', 1, 0, 0),\n  535: (145, 'ppg1.jpg', '', '.jpg', 617, 270, 'Shark design PPG brochure', '', '2009-09-21 09:18:14', 'Andrew', 1, 0, 0),\n  536: (146, 'ppg2.jpg', '', '.jpg', 617, 270, 'PPG brochure', '', '2009-09-21 09:18:55', 'Andrew', 1, 0, 0),\n  537: (147, 'ppg3.jpg', '', '.jpg', 617, 270, 'PPG brochure', '', '2009-09-21 09:19:40', 'Andrew', 1, 0, 0),\n  538: (148, 'ppg4.jpg', '', '.jpg', 617, 270, 'PPG Brochure', '', '2009-09-21 09:19:57', 'Andrew', 1, 0, 0),\n  539  (149, 'tys1.jpg', '', '.jpg', 617, 270, 'TYS brand and packaging', 'TYS brand and packaging', '2009-09-21 09:36:10', 'Andrew', 1, 0, 0),\n  540  (150, 'tys2.jpg', '', '.jpg', 617, 270, 'TYS brand and packaging', 'TYS brand and packaging', '2009-09-21 09:36:39', 'Andrew', 1, 0, 0),\n  ...\n  593  (231, 'ppg 2(490w).jpg', '', '.jpg', 490, 270, 'PPG marketing literature', 'PPG marketing literature', '2011-08-24 15:26:11', 'andrew', 1, 0, 0),\n  594  (233, 'ppg 1.jpg', '', '.jpg', 492, 271, 'PPG marketing literature', 'PPG marketing literature', '2011-08-24 15:47:09', 'andrew', 1, 0, 0),\n  595: (236, 'mi sketch.jpg', '', '.jpg', 490, 270, 'PPG Digital Brochure - design', 'PPG Digital Brochure - design', '2011-09-08 11:25:26', 'andrew', 1, 0, 0),\n  596: (235, 'mi page.jpg', '', '.jpg', 490, 270, 'PPG Digital Brochure - design', 'PPG Digital Brochure - design', '2011-09-08 11:24:58', 'andrew', 1, 0, 0),\n  597: (237, 'qi page.jpg', '', '.jpg', 490, 270, 'PPG Digital Brochure - design', 'PPG Digital Brochure - design', '2011-09-08 11:25:50', 'andrew', 1, 0, 0),\n  598: (238, 'Front Cover.jpg', '', '.jpg', 490, 270, 'PPG Digital Brochure - design', 'PPG Digital Brochure - design', '2011-09-08 11:27:37', 'andrew', 1, 0, 0),\n  599: (239, 'qi sketch.jpg', '', '.jpg', 490, 270, 'PPG Digital Brochure - design', 'PPG Digital Brochure - design', '2011-09-08 11:29:27', 'andrew', 1, 0, 0),\n  600  (243, 'foil block 617.jpg', '', '.jpg', 617, 270, '', '', '2011-09-09 15:24:14', 'andrew', 1, 0, 0),\n  601  (240, 'green stitch logo.jpg', '', '.jpg', 617, 270, '', '', '2011-09-09 12:41:31', 'andrew', 1, 0, 0),\n  ...\n  730  (405, 'Halco Stand.jpg', '', '.jpg', 617, 270, '', '', '2014-02-21 10:22:22', 'andrew', 1, 120, 53),\n  731  (406, 'HalcoBook.jpg', '', '.jpg', 617, 270, '', '', '2014-02-21 10:27:40', 'andrew', 1, 120, 53),\n  732: (407, 'KilsaranBrochure.jpg', '', '.jpg', 617, 270, '', '', '2014-02-21 10:29:33', 'andrew', 1, 120, 53),\n  733  (408, 'LH Xmas.jpg', '', '.jpg', 617, 270, '', '', '2014-02-21 10:29:53', 'andrew', 1, 120, 53),\n  734  (409, 'Manitou Stand.jpg', '', '.jpg', 617, 270, '', '', '2014-02-21 10:30:58', 'andrew', 1, 120, 53),\n  735: (410, 'QEGS Brochure.jpg', '', '.jpg', 617, 270, '', '', '2014-02-21 10:31:43', 'andrew', 1, 120, 53),\n  736  (411, 'Sungard Stand.jpg', '', '.jpg', 617, 270, '', '', '2014-02-21 10:32:26', 'andrew', 1, 120, 53),\n  737  (412, 'Web Images 3-5.jpg', '', '.jpg', 617, 270, '', '', '2014-02-21 11:48:20', 'andrew', 1, 120, 53),\n  ...\n 1861  (47, '2008-11-02 17:05:53', '', 'http://www.theidm.com/', 'The Institute of Direct Marketing', 'The Institute of Direct Marketing', 'Offer a range of professional development and training programmes. Full details of services, courses and qualifications.', 'andrew'),\n 1862  (48, '2008-11-02 17:06:14', '', 'http://www.sharktrust.org/', 'The Shark Trust', 'The Shark Trust', 'The Shark Trust is the UK registered marine charity dedicated to promoting the study, management and conservation of sharks.', 'andrew'),\n 1863: (49, '2014-03-06 14:22:33', '', 'http://issuu.com/sharkdesign/docs/w_l_brochure?e=1444526/6058655', 'W&L Brochure', 'W&L Brochure', '', 'andrew'),\n 1864: (50, '2014-03-06 14:23:53', '', 'http://issuu.com/sharkdesign/docs/w_l_brochure?e=1444526/6058655', 'W&L Brochure', 'W&L Brochure', '', 'andrew');\n 1865  \n 1866  -- --------------------------------------------------------\n\n/Applications/MAMP/htdocs/mpd/backup/news.php:\n    2  $pagetitle =\"Shark Design &amp; Marketing Ltd - News\" ;\n    3  $pagedescription = \"Shark! is a Yorkshire based design and marketing agency specialising in branding, design for print, marketing strategy, and web design & development.\" ;\n    4: $pagekeywords = \"shark!, shark, graphic, design, creative, marketing, branding, digital, logo, strategy, web, website, e-commerce, SEO, advertising, agency, agencies, new media, online, poster, take one, flyer, folder, mailing, mail pack, mail shot, POS, brochure, signage.\" ;\n    5  \n    6  $as_wwa = \"\" ;\n\n/Applications/MAMP/htdocs/mpd/backup/newscc.php:\n    2  $pagetitle =\"Shark Design &amp; Marketing Ltd - News - Shark! Curry club - Latest scores!\" ;\n    3  $pagedescription = \"Shark! is a Yorkshire based design and marketing agency specialising in branding, design for print, marketing strategy, and web design & development.\" ;\n    4: $pagekeywords = \"shark!, shark, graphic, design, creative, marketing, branding, digital, logo, strategy, web, website, e-commerce, SEO, advertising, agency, agencies, new media, online, poster, take one, flyer, folder, mailing, mail pack, mail shot, POS, brochure, signage.\" ;\n    5  \n    6  $news_townpitch = \"\" ;\n\n/Applications/MAMP/htdocs/mpd/backup/newsggl.php:\n    2  $pagetitle =\"Shark Design &amp; Marketing Ltd - News - Gatways goes live!\" ;\n    3  $pagedescription = \"Shark! is a Yorkshire based design and marketing agency specialising in branding, design for print, marketing strategy, and web design & development.\" ;\n    4: $pagekeywords = \"shark!, shark, graphic, design, creative, marketing, branding, digital, logo, strategy, web, website, e-commerce, SEO, advertising, agency, agencies, new media, online, poster, take one, flyer, folder, mailing, mail pack, mail shot, POS, brochure, signage.\" ;\n    5  \n    6  $news_townpitch = \"\" ;\n\n/Applications/MAMP/htdocs/mpd/backup/newsswg.php:\n    2  $pagetitle =\"Shark Design &amp; Marketing Ltd - News - Shark! win Gateways School website pitch\" ;\n    3  $pagedescription = \"Shark! is a Yorkshire based design and marketing agency specialising in branding, design for print, marketing strategy, and web design & development.\" ;\n    4: $pagekeywords = \"shark!, shark, graphic, design, creative, marketing, branding, digital, logo, strategy, web, website, e-commerce, SEO, advertising, agency, agencies, new media, online, poster, take one, flyer, folder, mailing, mail pack, mail shot, POS, brochure, signage.\" ;\n    5  \n    6  $news_townpitch = \"\" ;\n\n/Applications/MAMP/htdocs/mpd/backup/newstp.php:\n    2  $pagetitle =\"Shark Design &amp; Marketing Ltd - News - Shark! design win Towngate pitch\" ;\n    3  $pagedescription = \"Shark! is a Yorkshire based design and marketing agency specialising in branding, design for print, marketing strategy, and web design & development.\" ;\n    4: $pagekeywords = \"shark!, shark, graphic, design, creative, marketing, branding, digital, logo, strategy, web, website, e-commerce, SEO, advertising, agency, agencies, new media, online, poster, take one, flyer, folder, mailing, mail pack, mail shot, POS, brochure, signage.\" ;\n    5  \n    6  \n\n/Applications/MAMP/htdocs/mpd/backup/portfoliob.php:\n    2  $pagetitle =\"Shark Design &amp; Marketing Ltd - Portfolio - Branding\" ;\n    3  $pagedescription = \"Shark! is a Yorkshire based design and marketing agency specialising in branding, design for print, marketing strategy, and web design & development.\" ;\n    4: $pagekeywords = \"shark!, shark, graphic, design, creative, marketing, branding, digital, logo, strategy, web, website, e-commerce, SEO, advertising, agency, agencies, new media, online, poster, take one, flyer, folder, mailing, mail pack, mail shot, POS, brochure, signage.\" ;\n    5  \n    6  $as_wwa = \"\" ;\n\n/Applications/MAMP/htdocs/mpd/backup/portfoliod.php:\n    2  $pagetitle =\"Shark Design &amp; Marketing Ltd - Portfolio - Digital\" ;\n    3  $pagedescription = \"Shark! is a Yorkshire based design and marketing agency specialising in branding, design for print, marketing strategy, and web design & development.\" ;\n    4: $pagekeywords = \"shark!, shark, graphic, design, creative, marketing, branding, digital, logo, strategy, web, website, e-commerce, SEO, advertising, agency, agencies, new media, online, poster, take one, flyer, folder, mailing, mail pack, mail shot, POS, brochure, signage.\" ;\n    5  \n    6  $as_wwa = \"\" ;\n\n/Applications/MAMP/htdocs/mpd/backup/portfoliodfp.php:\n    2  $pagetitle =\"Shark Design &amp; Marketing Ltd - Portfolio - Design for Print\" ;\n    3  $pagedescription = \"Shark! is a Yorkshire based design and marketing agency specialising in branding, design for print, marketing strategy, and web design & development.\" ;\n    4: $pagekeywords = \"shark!, shark, graphic, design, creative, marketing, branding, digital, logo, strategy, web, website, e-commerce, SEO, advertising, agency, agencies, new media, online, poster, take one, flyer, folder, mailing, mail pack, mail shot, POS, brochure, signage.\" ;\n    5  \n    6  $as_wwa = \"\" ;\n    .\n   81  		<h3 class=\"page_header slideshow_fix\"><img src=\"image/navi_dfp.gif\" alt=\"Design for Print\" style=\"border:0;\" /><span>Design for Print</span></h3>\n   82  \n   83: 		<p>Tactile and emotive, we love designing for print. From brochures and stationery, to point of sale and even leather bound pattern books, it's all about exciting and engaging the end user. We have bags of experience using the huge array of techniques available, foil blocking, varnishes, die cutting, embossing are among our favourites.</p>\n   84  \n   85  		<p>Have a look at some of our work in the slide show above.</p>\n\n/Applications/MAMP/htdocs/mpd/backup/portfoliols.php:\n    2  $pagetitle =\"Shark Design &amp; Marketing Ltd - Portfolio - Logos &amp; Stationery\" ;\n    3  $pagedescription = \"Shark! is a Yorkshire based design and marketing agency specialising in branding, design for print, marketing strategy, and web design & development.\" ;\n    4: $pagekeywords = \"shark!, shark, graphic, design, creative, marketing, branding, digital, logo, strategy, web, website, e-commerce, SEO, advertising, agency, agencies, new media, online, poster, take one, flyer, folder, mailing, mail pack, mail shot, POS, brochure, signage.\" ;\n    5  \n    6  $as_wwa = \"\" ;\n\n/Applications/MAMP/htdocs/mpd/backup/sitemap.php:\n    2  $pagetitle =\"Shark Design &amp; Marketing Ltd - Sitemap\" ;\n    3  $pagedescription = \"Shark! is a Yorkshire based design and marketing agency specialising in branding, design for print, marketing strategy, and web design & development.\" ;\n    4: $pagekeywords = \"shark!, shark, graphic, design, creative, marketing, branding, digital, logo, strategy, web, website, e-commerce, SEO, advertising, agency, agencies, new media, online, poster, take one, flyer, folder, mailing, mail pack, mail shot, POS, brochure, signage.\" ;\n    5  \n    6  $as_wwa = \"\" ;\n\n/Applications/MAMP/htdocs/mpd/backup/wwdb.php:\n    2  $pagetitle =\"Shark Design &amp; Marketing Ltd - What we do - Branding\" ;\n    3  $pagedescription = \"Shark! is a Yorkshire based design and marketing agency specialising in branding, design for print, marketing strategy, and web design & development.\" ;\n    4: $pagekeywords = \"shark!, shark, graphic, design, creative, marketing, branding, digital, logo, strategy, web, website, e-commerce, SEO, advertising, agency, agencies, new media, online, poster, take one, flyer, folder, mailing, mail pack, mail shot, POS, brochure, signage.\" ;\n    5  \n    6  $as_wwa = \"\" ;\n\n/Applications/MAMP/htdocs/mpd/backup/wwdd.php:\n    2  $pagetitle =\"Shark Design &amp; Marketing Ltd - What we do - Digital\" ;\n    3  $pagedescription = \"Shark! is a Yorkshire based design and marketing agency specialising in branding, design for print, marketing strategy, and web design & development.\" ;\n    4: $pagekeywords = \"shark!, shark, graphic, design, creative, marketing, branding, digital, logo, strategy, web, website, e-commerce, SEO, advertising, agency, agencies, new media, online, poster, take one, flyer, folder, mailing, mail pack, mail shot, POS, brochure, signage.\" ;\n    5  \n    6  $as_wwa = \"\" ;\n\n/Applications/MAMP/htdocs/mpd/backup/wwddec.php:\n    2  $pagetitle =\"Shark Design &amp; Marketing Ltd - What we do - E-Commerce\" ;\n    3  $pagedescription = \"Shark! is a Yorkshire based design and marketing agency specialising in branding, design for print, marketing strategy, and web design & development.\" ;\n    4: $pagekeywords = \"shark!, shark, graphic, design, creative, marketing, branding, digital, logo, strategy, web, website, e-commerce, SEO, advertising, agency, agencies, new media, online, poster, take one, flyer, folder, mailing, mail pack, mail shot, POS, brochure, signage.\" ;\n    5  \n    6  $as_wwa = \"\" ;\n\n/Applications/MAMP/htdocs/mpd/backup/wwddem.php:\n    2  $pagetitle =\"Shark Design &amp; Marketing Ltd - What we do - E-mail\" ;\n    3  $pagedescription = \"Shark! is a Yorkshire based design and marketing agency specialising in branding, design for print, marketing strategy, and web design & development.\" ;\n    4: $pagekeywords = \"shark!, shark, graphic, design, creative, marketing, branding, digital, logo, strategy, web, website, e-commerce, SEO, advertising, agency, agencies, new media, online, poster, take one, flyer, folder, mailing, mail pack, mail shot, POS, brochure, signage.\" ;\n    5  \n    6  \n\n/Applications/MAMP/htdocs/mpd/backup/wwddfp.php:\n    2  $pagetitle =\"Shark Design &amp; Marketing Ltd - What we do - Design for print\" ;\n    3  $pagedescription = \"Shark! is a Yorkshire based design and marketing agency specialising in branding, design for print, marketing strategy, and web design & development.\" ;\n    4: $pagekeywords = \"shark!, shark, graphic, design, creative, marketing, branding, digital, logo, strategy, web, website, e-commerce, SEO, advertising, agency, agencies, new media, online, poster, take one, flyer, folder, mailing, mail pack, mail shot, POS, brochure, signage.\" ;\n    5  \n    6  $as_wwa = \"\" ;\n    .\n   49  		<p>Design for print</p>\n   50  \n   51: 		<p>Tactile and emotive, we love designing for print. From brochures and stationery, to point of sale and even leather bound pattern books, it's all about exciting and engaging the end user. We have bags of experience using the huge array of techniques available, foil blocking, varnishes, die cutting, embossing are among our favourites and we're always exploring the latest finishes and papers. We also use the latest software to create unique and exclusive point of sale units that can make your product stand out in an ever-crowded market place.</p>\n   52  \n   53  		<p><a href=\"portfoliodfp.php\" title=\"Design for print\">Click here to see some examples of our most recent work.</a></p>\n\n/Applications/MAMP/htdocs/mpd/backup/wwddm.php:\n    2  $pagetitle =\"Shark Design &amp; Marketing Ltd - What we do - Direct Marketing\" ;\n    3  $pagedescription = \"Shark! is a Yorkshire based design and marketing agency specialising in branding, design for print, marketing strategy, and web design & development.\" ;\n    4: $pagekeywords = \"shark!, shark, graphic, design, creative, marketing, branding, digital, logo, strategy, web, website, e-commerce, SEO, advertising, agency, agencies, new media, online, poster, take one, flyer, folder, mailing, mail pack, mail shot, POS, brochure, signage.\" ;\n    5  \n    6  $as_wwa = \"\" ;\n\n/Applications/MAMP/htdocs/mpd/backup/wwddseo.php:\n    2  $pagetitle =\"Shark Design &amp; Marketing Ltd - What we do - Search Engine Optimisation\" ;\n    3  $pagedescription = \"Shark! is a Yorkshire based design and marketing agency specialising in branding, design for print, marketing strategy, and web design & development.\" ;\n    4: $pagekeywords = \"shark!, shark, graphic, design, creative, marketing, branding, digital, logo, strategy, web, website, e-commerce, SEO, advertising, agency, agencies, new media, online, poster, take one, flyer, folder, mailing, mail pack, mail shot, POS, brochure, signage.\" ;\n    5  \n    6  $as_wwa = \"\" ;\n\n/Applications/MAMP/htdocs/mpd/backup/wwddw.php:\n    2  $pagetitle =\"Shark Design &amp; Marketing Ltd - What we do - Websites\" ;\n    3  $pagedescription = \"Shark! is a Yorkshire based design and marketing agency specialising in branding, design for print, marketing strategy, and web design & development.\" ;\n    4: $pagekeywords = \"shark!, shark, graphic, design, creative, marketing, branding, digital, logo, strategy, web, website, e-commerce, SEO, advertising, agency, agencies, new media, online, poster, take one, flyer, folder, mailing, mail pack, mail shot, POS, brochure, signage.\" ;\n    5  \n    6  \n\n/Applications/MAMP/htdocs/mpd/backup/demo/casestudiessg.php:\n   53  	<p>Select Group</p>\n   54  \n   55: 	<p>When the Select Group of companies grew ten-fold they needed a brand strategy that embraced their growing number of divisions. We developed a flexible identity system that defined each division, maintained the group identity and has the capacity to grow with the Select Group of companies. Alongside the brand strategy we produced all of Select's corporate clothing - from hard wearing fleeces to hard hats, vehicle livery, stationery and brochures. We also created a hard working website which we maintain and optimise on a monthly basis. <a href=\"http://www.selectconstruction.co.uk/\" title=\"Select Group Yorkshire\" onclick=\"window.open(this.href); return false;\">Click here to launch the website.</a></p>\n   56  \n   57  	<p>What the client said:</p>\n\n/Applications/MAMP/htdocs/mpd/backup/demo/portfoliodfp.php:\n   82  		<h3 class=\"page_header slideshow_fix\"><img src=\"images/navi_dfp.gif\" alt=\"Design for Print\" style=\"border:0;\" /><span>Design for Print</span></h3>\n   83  \n   84: 		<p>Tactile and emotive, we love designing for print. From brochures and stationery, to point of sale and even leather bound pattern books, it's all about exciting and engaging the end user. We have bags of experience using the huge array of techniques available, foil blocking, varnishes, die cutting, embossing are among our favourites.</p>\n   85  \n   86  		<p>Have a look at some of our work in the slide show above.</p>\n\n/Applications/MAMP/htdocs/mpd/backup/demo/wwddfp.php:\n   50  		<p>Design for print</p>\n   51  \n   52: 		<p>Tactile and emotive, we love designing for print. From brochures and stationery, to point of sale and even leather bound pattern books, it's all about exciting and engaging the end user. We have bags of experience using the huge array of techniques available, foil blocking, varnishes, die cutting, embossing are among our favourites and we're always exploring the latest finishes and papers. We also use the latest software to create unique and exclusive point of sale units that can make your product stand out in an ever-crowded market place.</p>\n   53  \n   54  		<p><a href=\"portfoliodfp.php\" title=\"Design for print\">Click here to see some examples of our most recent work.</a></p>\n\n/Applications/MAMP/htdocs/mpd/wp-content/themes/shark/functions/menus.php:\n   13     // if( $args->theme_location == 'main_nav')  {\n   14          \n   15: $brochure_url = get_field('brochure_file', 'option');\n   16:        $items .=  '<li><a href=\"'.$brochure_url.'\" target=\"_blank\"  class=\"download-link\">Brochure</a></li>';\n   17    //  }\n   18      return $items;\n\n151 matches across 42 files\n",
+			"settings":
+			{
+				"buffer_size": 138801,
+				"line_ending": "Unix",
+				"name": "Find Results",
+				"scratch": true
+			}
+		},
+		{
+			"file": "wp-content/themes/shark/functions/menus.php",
+			"settings":
+			{
+				"buffer_size": 467,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "wp-content/themes/shark/header.php",
+			"settings":
+			{
+				"buffer_size": 3680,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "wp-content/themes/shark/sass/_variables.scss",
+			"settings":
+			{
+				"buffer_size": 3668,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "wp-content/themes/shark/sass/components/_navigation.scss",
+			"settings":
+			{
+				"buffer_size": 1943,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "wp-content/themes/shark/sass/components/_global.scss",
+			"settings":
+			{
+				"buffer_size": 10995,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "wp-content/themes/shark/sass/templates/_what-we-do.scss",
+			"settings":
+			{
+				"buffer_size": 4728,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "wp-content/themes/shark/sass/components/_typography.scss",
+			"settings":
+			{
+				"buffer_size": 1322,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "wp-content/themes/shark/footer.php",
+			"settings":
+			{
+				"buffer_size": 2337,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "wp-content/themes/shark/sass/components/_container.scss",
+			"settings":
+			{
+				"buffer_size": 2652,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "wp-content/themes/shark/sass/templates/_our-work.scss",
+			"settings":
+			{
+				"buffer_size": 11046,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "wp-content/themes/shark/template-our-work.php",
+			"settings":
+			{
+				"buffer_size": 1405,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "wp-content/themes/shark/template-contact.php",
+			"settings":
+			{
+				"buffer_size": 1062,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "wp-content/themes/shark/single-casestudies.php",
+			"settings":
+			{
+				"buffer_size": 6485,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "wp-content/themes/shark/template-what-we-do.php",
+			"settings":
+			{
+				"buffer_size": 2831,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "wp-content/themes/shark/functions/image-sizes.php",
+			"settings":
+			{
+				"buffer_size": 2191,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "wp-content/themes/shark/sass/templates/_testimonials.scss",
+			"settings":
+			{
+				"buffer_size": 13932,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "wp-content/themes/shark/js/scripts.js",
+			"settings":
+			{
+				"buffer_size": 34068,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 47.0,
+		"selected_items":
+		[
+			[
+				"Package Control: Install Package",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 111.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Applications/MAMP/htdocs/mpd/wp-content/themes/shark/js/scripts.js",
+		"/Applications/MAMP/htdocs/mpd/mpd.sql",
+		"/Applications/MAMP/htdocs/mpd/wp-content/themes/shark/template-what-we-do.php",
+		"/Applications/MAMP/htdocs/tofs-magento/src/skin/frontend/tofs/default/scss/components/_navigation.scss",
+		"/Applications/MAMP/htdocs/tofs-magento/src/skin/frontend/tofs/default/scss/components/_blog.scss",
+		"/Applications/MAMP/htdocs/tofs-magento/src/app/design/frontend/tofs/default/template/wordpress/post/list/renderer/default.phtml",
+		"/Applications/MAMP/htdocs/tofs-magento/src/skin/frontend/tofs/default/scss/_components.scss",
+		"/Applications/MAMP/htdocs/tofs-magento/src/skin/frontend/tofs/default/scss/_settings.scss",
+		"/Applications/MAMP/htdocs/tofs-magento/src/app/design/frontend/tofs/default/layout/page.xml",
+		"/Applications/MAMP/htdocs/tofs-magento/src/skin/frontend/tofs/default/scss/components/_sidebar.scss",
+		"/Applications/MAMP/htdocs/tofs-magento/src/skin/frontend/tofs/default/scss/components/_slider.scss",
+		"/Applications/MAMP/htdocs/tofs-magento/src/app/design/frontend/tofs/default/template/page/2columns-left.phtml",
+		"/Applications/MAMP/htdocs/tofs-magento/src/skin/frontend/tofs/default/js/tofs.js",
+		"/Applications/MAMP/htdocs/tofs-magento/src/skin/frontend/tofs/default/scss/components/_cms-pages.scss",
+		"/Applications/MAMP/htdocs/tofs-magento/src/app/code/core/Enterprise/Cms/Block/Hierarchy/Menu.php",
+		"/Applications/MAMP/htdocs/tofs-magento/src/app/design/frontend/tofs/default/template/page/html/footer.phtml",
+		"/Applications/MAMP/htdocs/tofs-magento/src/skin/frontend/tofs/default/scss/components/_products-list.scss",
+		"/Applications/MAMP/htdocs/tofs-magento/src/app/locale/en_GB/email/html/footer.html",
+		"/Applications/MAMP/htdocs/tofs-magento/src/app/locale/en_GB/email/html/header.html",
+		"/Applications/MAMP/htdocs/tofs-magento/src/app/code/local/Onstate/AdditionalLayouts/etc/config.xml",
+		"/Applications/MAMP/htdocs/tofs-magento/src/app/design/frontend/tofs/default/template/page/1column.phtml",
+		"/Applications/MAMP/htdocs/tofs-magento/src/app/design/frontend/tofs/default/template/page/blog-2columns-left.phtml",
+		"/Applications/MAMP/htdocs/tofs-magento/src/skin/frontend/tofs/default/scss/components/_price.scss",
+		"/Applications/MAMP/htdocs/tofs-magento/src/skin/frontend/tofs/default/foundation/scss/foundation/components/_global.scss",
+		"/Applications/MAMP/htdocs/tofs-magento/src/skin/frontend/tofs/default/scss/components/_off-canvas-menu.scss",
+		"/Applications/MAMP/htdocs/tofs-magento/src/skin/frontend/tofs/default/scss/components/_cart.scss",
+		"/Users/neilmills/Downloads/europlus/epd.sql",
+		"/Applications/MAMP/htdocs/tofs-magento/src/app/design/frontend/tofs/default/template/checkout/cart.phtml",
+		"/Applications/MAMP/htdocs/tofs-magento/src/skin/frontend/tofs/default/scss/components/_items.scss",
+		"/Applications/MAMP/htdocs/tofs-magento/src/skin/frontend/tofs/default/scss/components/_header.scss",
+		"/Applications/MAMP/htdocs/tofs-magento/src/index.php",
+		"/Applications/MAMP/htdocs/tofs-magento/src/skin/frontend/tofs/default/scss/components/_checkout.scss",
+		"/Applications/MAMP/htdocs/tofs-magento/src/skin/frontend/tofs/default/scss/helpers/mixins/_breakpoints.scss",
+		"/Applications/MAMP/htdocs/tofs-magento/src/app/etc/local.xml",
+		"/Users/neilmills/Downloads/epd_local.sql",
+		"/Applications/MAMP/htdocs/tofs-magento/src/app/design/frontend/tofs/default/template/checkout/cart/item/default.phtml",
+		"/Applications/MAMP/htdocs/tofs-magento/src/skin/frontend/tofs/default/js/polar.js",
+		"/Applications/MAMP/htdocs/tofs-magento/src/skin/frontend/tofs/default/js/scripts.js",
+		"/Applications/MAMP/htdocs/tofs-magento/src/skin/frontend/tofs/default/scss/components/_structural.scss",
+		"/Applications/MAMP/htdocs/tofs-magento/src/app/design/frontend/tofs/default/template/checkout/cart/totals.phtml",
+		"/Applications/MAMP/htdocs/tofs-magento/src/skin/frontend/tofs/default/js/jquery.matchHeight-min.js",
+		"/Applications/MAMP/htdocs/tofs-magento/src/skin/frontend/polar/default/js/polar.js",
+		"/Applications/MAMP/htdocs/tofs-magento/src/app/design/frontend/tofs/default/template/page/html/off-canvas-left.phtml",
+		"/Applications/MAMP/htdocs/tofs-magento/src/app/design/frontend/tofs/default/template/page/html/topmenu.phtml",
+		"/Applications/MAMP/htdocs/tofs-magento/src/app/design/frontend/tofs/default/template/sales/order/totals.phtml",
+		"/Applications/MAMP/htdocs/tofs-magento/src/app/design/frontend/tofs/default/template/checkout/onepage/link.phtml",
+		"/Applications/MAMP/htdocs/tofs-magento/src/app/design/frontend/polar/default/template/checkout/cart/item/default.phtml",
+		"/Applications/MAMP/htdocs/tofs-magento/src/app/design/frontend/tofs/default/template/page/html/topmenu-mobile.phtml",
+		"/Applications/MAMP/htdocs/tofs-magento/src/app/design/frontend/tofs/default/layout/polarcore.xml",
+		"/Users/neilmills/Downloads/MorphingSearch/index.html",
+		"/Applications/MAMP/htdocs/tofs-magento/src/app/design/frontend/tofs/default/layout/catalog.xml",
+		"/Applications/MAMP/htdocs/tofs-magento/src/app/design/frontend/polar/default/template/page/html/off-canvas-left.phtml",
+		"/Applications/MAMP/htdocs/tofs-magento/src/app/design/frontend/tofs/default/template/page/html/top-links.phtml",
+		"/Applications/MAMP/htdocs/tofs-magento/src/app/design/frontend/tofs/default/template/page/html/header.phtml",
+		"/Applications/MAMP/htdocs/tofs-magento/src/app/design/frontend/tofs/default/template/catalog/category/categorylist.phtml",
+		"/Applications/MAMP/htdocs/tofs-magento/src/app/design/frontend/polar/default/template/page/html/topmenu.phtml",
+		"/Applications/MAMP/htdocs/tofs-magento/src/app/design/frontend/polar/default/layout/polarcore.xml",
+		"/Applications/MAMP/htdocs/tofs-magento/src/app/code/core/Mage/Catalog/Block/Navigation.php",
+		"/Applications/MAMP/htdocs/tofs-magento/src/skin/frontend/tofs/default/scss/components/_morphsearch.scss",
+		"/Applications/MAMP/htdocs/tofs-magento/src/app/design/frontend/tofs/default/template/catalogsearch/form.mini.phtml",
+		"/Applications/MAMP/htdocs/tofs-magento/src/app/design/frontend/polar/default/template/page/html/topmenu-mobile.phtml",
+		"/Applications/MAMP/htdocs/tofs-magento/src/app/design/frontend/tofs/default/template/checkout/cart/sidebar-mobile.phtml",
+		"/Applications/MAMP/htdocs/tofs-magento/src/skin/frontend/tofs/default/scss/components/_footer.scss",
+		"/Applications/MAMP/htdocs/tofs-magento/src/skin/frontend/tofs/default/scss/components/_base.scss",
+		"/Applications/MAMP/htdocs/tofs-magento/src/skin/frontend/tofs/default/js/classie.js",
+		"/Applications/MAMP/htdocs/tofs-magento/src/skin/frontend/tofs/default/scss/components/_off-canvas.scss",
+		"/Applications/MAMP/htdocs/tofs-magento/src/skin/frontend/tofs/default/scss/_ie9-components-2.scss",
+		"/Applications/MAMP/htdocs/tofs-magento/src/app/design/frontend/tofs/default/template/page/html/head.phtml",
+		"/Applications/MAMP/htdocs/tofs-magento/src/skin/frontend/tofs/default/scss/components/_icons.scss",
+		"/Applications/MAMP/htdocs/tofs-magento/src/skin/frontend/tofs/default/scss/templates/_home.scss",
+		"/Applications/MAMP/htdocs/tofs-magento/src/app/design/frontend/tofs/default/layout/onstate_categorylistpage.xml",
+		"/Applications/MAMP/htdocs/tofs-magento/src/skin/frontend/tofs/default/scss/components/_category.scss",
+		"/Applications/MAMP/htdocs/tofs-magento/src/app/design/frontend/tofs/default/template/catalog/product/list.phtml",
+		"/Applications/MAMP/htdocs/tofs-magento/src/app/design/frontend/tofs/default/template/catalog/product/view.phtml",
+		"/Applications/MAMP/htdocs/tofs-magento/src/app/code/local/Onstate/CategoryListPage/etc/config.xml",
+		"/Applications/MAMP/htdocs/tofs-magento/src/app/design/frontend/base/default/layout/catalog.xml",
+		"/Applications/MAMP/htdocs/tofs-magento/src/skin/frontend/tofs/default/scss/_ie9-components-1.scss",
+		"/Applications/MAMP/htdocs/tofs-magento/src/skin/frontend/tofs/default/scss/ie9_styles_1.scss",
+		"/Applications/MAMP/htdocs/tofs-magento/src/skin/frontend/tofs/default/scss/ie9_styles_2.scss",
+		"/Applications/MAMP/htdocs/tofs-magento/src/skin/frontend/tofs/default/scss/components/_product.scss",
+		"/Applications/MAMP/htdocs/tofs-magento/src/skin/frontend/tofs/default/scss/helpers/mixins/_font-styles.scss",
+		"/Applications/MAMP/htdocs/tofs-magento/src/app/design/frontend/enterprise/default/template/catalog/product/view.phtml",
+		"/Applications/MAMP/htdocs/tofs-magento/src/app/design/frontend/enterprise/default/template/bundle/catalog/product/view.phtml",
+		"/Applications/MAMP/htdocs/tofs-magento/src/skin/frontend/tofs/default/scss/components/_form.scss",
+		"/Applications/MAMP/htdocs/tofs-magento/src/app/design/frontend/tofs/default/template/newsletter/subscribe.phtml",
+		"/Applications/MAMP/htdocs/tofs-magento/src/app/design/frontend/polar/default/template/catalog/product/view.phtml",
+		"/Applications/MAMP/htdocs/tofs-magento/src/app/design/frontend/tofs/default/template/catalog/product/view/media.phtml",
+		"/Applications/MAMP/htdocs/tofs-magento/src/app/design/frontend/base/default/template/catalog/product/view.phtml",
+		"/Applications/MAMP/htdocs/tofs-magento/src/app/design/frontend/tofs/default/template/checkout/cart/sidebar/default.phtml",
+		"/Applications/MAMP/htdocs/tofs-magento/src/app/design/frontend/base/default/template/catalog/product/list/toolbar.phtml",
+		"/Applications/MAMP/htdocs/tofs-magento/src/app/design/frontend/tofs/default/template/catalog/product/list/toolbar.phtml",
+		"/Applications/MAMP/htdocs/tofs-magento/src/skin/frontend/tofs/default/scss/components/_top-cart.scss",
+		"/Applications/MAMP/htdocs/tofs-magento/src/app/design/frontend/tofs/default/template/checkout/cart/sidebar.phtml",
+		"/Applications/MAMP/htdocs/tofs-magento/src/skin/frontend/tofs/default/scss/components/_buttons.scss",
+		"/Applications/MAMP/htdocs/tofs-magento/src/skin/frontend/tofs/default/scss/components/_typography.scss",
+		"/Applications/MAMP/htdocs/tofs-magento/src/app/design/frontend/tofs/default/template/customer/form/edit.phtml",
+		"/Applications/MAMP/htdocs/tofs-magento/src/app/design/frontend/tofs/default/template/persistent/customer/form/login.phtml",
+		"/Applications/MAMP/htdocs/tofs-magento/src/skin/frontend/tofs/default/scss/components/_breadcrumbs.scss",
+		"/Applications/MAMP/htdocs/tofs-magento/src/app/design/frontend/tofs/default/template/page/html/breadcrumbs.phtml",
+		"/Applications/MAMP/htdocs/tofs-magento/src/skin/frontend/tofs/default/scss/helpers/mixins/_buttons.scss",
+		"/Applications/MAMP/htdocs/tofs-magento/src/app/design/frontend/base/default/template/page/html/pager.phtml",
+		"/Applications/MAMP/htdocs/tofs-magento/src/app/design/frontend/tofs/default/locale/en_GB/translate.csv",
+		"/Applications/MAMP/htdocs/tofs-magento/src/skin/frontend/tofs/default/scss/components/_account.scss",
+		"/Applications/MAMP/htdocs/tofs-magento/src/app/design/frontend/tofs/default/layout/customer.xml",
+		"/Applications/MAMP/htdocs/tofs-magento/src/skin/frontend/tofs/default/scss/styles.scss",
+		"/Applications/MAMP/htdocs/tofs-magento/src/app/design/frontend/rwd/default/template/checkout/cart/minicart.phtml",
+		"/Applications/MAMP/htdocs/tofs-magento/src/app/design/frontend/tofs/default/template/customer/address/book.phtml",
+		"/Applications/MAMP/htdocs/tofs-magento/src/app/design/frontend/tofs/default/template/sales/order/history.phtml",
+		"/Applications/MAMP/htdocs/tofs-magento/src/app/design/frontend/tofs/default/template/customer/form/newsletter.phtml",
+		"/Applications/MAMP/htdocs/tofs-magento/src/skin/frontend/tofs/default/scss/components/_helpers.scss",
+		"/Applications/MAMP/htdocs/tofs-magento/src/app/design/frontend/tofs/default/template/customer/form/changepassword.phtml",
+		"/Applications/MAMP/htdocs/tofs-magento/src/app/design/frontend/polar/default/template/persistent/customer/form/login.phtml",
+		"/Applications/MAMP/htdocs/tofs-magento/src/app/design/frontend/base/default/template/customer/form/login.phtml",
+		"/Applications/MAMP/htdocs/tofs-magento/src/app/design/frontend/tofs/default/template/customer/address/edit.phtml",
+		"/Applications/MAMP/htdocs/tofs-magento/src/app/design/frontend/enterprise/default/template/customer/address/edit.phtml",
+		"/Applications/MAMP/htdocs/tofs-magento/src/app/design/frontend/enterprise/default/template/customer/form/edit.phtml",
+		"/Applications/MAMP/htdocs/tofs-magento/src/app/design/frontend/base/default/template/customer/account/link/back.phtml",
+		"/Applications/MAMP/htdocs/tofs-magento/src/app/design/frontend/base/default/template/customer/address/book.phtml",
+		"/Applications/MAMP/htdocs/tofs-magento/src/app/design/frontend/base/default/template/customer/form/edit.phtml",
+		"/Applications/MAMP/htdocs/tofs-magento/src/app/design/frontend/base/default/template/customer/orders.phtml",
+		"/Applications/MAMP/htdocs/tofs-magento/src/app/design/frontend/tofs/default/template/sales/order/recent.phtml",
+		"/Applications/MAMP/htdocs/tofs-magento/src/app/design/frontend/tofs/default/layout/searchautocomplete.xml",
+		"/Applications/MAMP/htdocs/tofs-magento/src/app/design/frontend/tofs/default/layout/catalogsearch.xml",
+		"/Applications/MAMP/htdocs/tofs-magento/src/app/design/frontend/tofs/default/template/searchautocomplete/result.phtml",
+		"/Applications/MAMP/htdocs/tofs-magento/src/app/design/frontend/tofs/default/template/customer/account/dashboard.phtml",
+		"/Applications/MAMP/htdocs/tofs-magento/src/app/design/frontend/base/default/template/amasty/amshopby/list.phtml",
+		"/Applications/MAMP/htdocs/tofs-magento/src/app/design/frontend/tofs/default/template/catalog/category/view.phtml",
+		"/Applications/MAMP/htdocs/tofs-magento/src/app/design/frontend/tofs/default/template/catalog/category/title.phtml"
+	],
+	"find":
+	{
+		"height": 136.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"",
+			"/Applications/MAMP/htdocs/bolser/bolser-mobile-wp",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"initPageScripts",
+			"~",
+			"initPage",
+			"scrollTo",
+			"isMobile",
+			"gmap",
+			"result",
+			"video",
+			"max-height",
+			"http://www.mpd.co.uk",
+			"marker",
+			"market",
+			"blue",
+			"brochure",
+			"http://www.wlprint.co.uk",
+			"ie9_styles",
+			"Sticky",
+			"acc-",
+			"acc-btn",
+			"acc-container",
+			"acc-tabs-container",
+			"polar-toggle",
+			"cms-menu",
+			"class=\"cms-menu\"",
+			"polar-toggle",
+			"cms-menu",
+			"<reference name=\"left\">",
+			"class=\"featured-image\"",
+			"scrollTo",
+			"amshopby-collapse-enabled",
+			"class=\"post-view\"",
+			"flash",
+			"wp-sidebar",
+			"wp-",
+			".item",
+			"class=\"featured-image\"",
+			"id=\"post-list\"",
+			"sidebar",
+			"$theme",
+			"$this->helper",
+			"bass",
+			"basslocal",
+			"@media",
+			"xl",
+			"media",
+			"aside",
+			"INSERT INTO `wp_icl_flags",
+			"INSERT INTO `wp_icl_flags`",
+			"INSERT INTO `wp_comments` ",
+			"md",
+			"cart-right",
+			"discount",
+			"cart-right",
+			"cart-left",
+			"xsmall-3",
+			"cart-right",
+			"col-right",
+			"xsmall-6",
+			"cart-left-col",
+			"cart-left",
+			"totals",
+			"hide-for",
+			"show-for",
+			"-xs",
+			"xs-",
+			"xs-6",
+			"xs",
+			"page-title",
+			"title-buttons",
+			"btn-remove-desktop",
+			"shopping-",
+			"col1-layout main-content",
+			"btn-update-link",
+			"button",
+			"update_cart_action",
+			"filter",
+			"hide",
+			"discount-block",
+			"class=\"price\"",
+			"class=\"totals-sub",
+			"xs",
+			"toggle",
+			"$darkergrey",
+			"$font",
+			"@include",
+			"roboto",
+			"$lightergrey",
+			"$lightgrey",
+			"$darkergrey",
+			"$lightergrey",
+			"$lightgrey",
+			"xsmall",
+			"Proceed to Checkout",
+			"class=\"short-description",
+			"btn-proceed-checkout",
+			"btn-continue",
+			"hide-for-small",
+			"polar.main.menu",
+			"polar-main-menu",
+			"polar.main.menu.mobile",
+			"level-top",
+			"topMenu-mobile",
+			"left-off-canvas-menu",
+			"class=\"level-",
+			"class=\"level-top",
+			"class=\"level0",
+			"class=\"level",
+			"level-top",
+			"hide-for-small",
+			"polar.main.menu.mobile",
+			"hide-for-small",
+			"level-top",
+			"topMenu-mobile",
+			"off-canvas-menu-wrapper",
+			"hide-for-small",
+			"nav-mobile",
+			"_ctrlClose",
+			" _ctrlOpen",
+			"morphsearch-close",
+			"classie",
+			"touch-search",
+			"toggleSearch",
+			"magnif",
+			"touch-search",
+			"slick-dots",
+			"slider-dots",
+			"level-top",
+			"canvas"
+		],
+		"highlight": false,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"http://92.60.114.159/~aluminiumsliding",
+			"<a href=\"/~altinetco/build/",
+			"action=\"/~altinetco/build/",
+			"<a href=\"~altinetco/build/",
+			"slide_old",
+			"slide_new",
+			"title_hide",
+			"title_show",
+			"header_show",
+			"console.log",
+			"quickmenu",
+			"end",
+			"---------------------",
+			"",
+			"s07_05",
+			"present",
+			"s09_06",
+			"s09_05",
+			"s09_04",
+			"s09_03",
+			"s09_02",
+			"promo-01",
+			"s09_01",
+			"promo-01",
+			"promo-0",
+			"promot-01",
+			"09_06",
+			"09_05",
+			"09_04",
+			"09_03",
+			"09_02",
+			"permanent-02",
+			"row_05",
+			"row_04",
+			"row_03",
+			"row_02",
+			"s07_04",
+			", ",
+			"s06_03",
+			"s06_02",
+			"},this));",
+			"},this);",
+			"s05_03",
+			"promo",
+			"permanent",
+			"promo",
+			"permanent",
+			"instore",
+			"lineup",
+			"lazyfade",
+			"fragrance-03",
+			"s05_03",
+			"s05_02",
+			"s05_01",
+			"fragrance-01",
+			"s05",
+			"fragrance",
+			"brand",
+			"14",
+			"_11",
+			"-11",
+			"11",
+			"10",
+			"08",
+			"09",
+			"-09",
+			"-05",
+			"-03",
+			"hilite-colour",
+			"s01_08",
+			"s01_07",
+			"",
+			"s01_05",
+			"fragrance",
+			"brand",
+			".slide-title",
+			"#title",
+			"header",
+			"d",
+			"' + t + '",
+			"quickmenu",
+			"z-below",
+			"z-above",
+			"z-bottom",
+			"t_1500",
+			"t_500",
+			"",
+			"translateX(75px) ",
+			"",
+			"transform",
+			"t_1000",
+			"",
+			",",
+			"",
+			"hilite-colour",
+			"quickmenu",
+			"this.config.testing.debug",
+			"helvetica_neue_normal",
+			"helvetica_neue_bold",
+			"helvetica_neue_heavy",
+			"helvetica_neue_blk",
+			"helvetica_neue_bld",
+			"helvetica_neue_bd",
+			"helvetica_neue_med",
+			"helvetica_neue_lt_Md",
+			"helvetica_neue_lt",
+			"helvetica_neue_lt_xBlk",
+			"../",
+			"menu-container",
+			"'home'",
+			"widgets_btn_home_handler",
+			"	border-bottom: 2px solid #e20044;\nwidgets_btn_home_handler",
+			"#menu-container",
+			"if (ev.gesture)",
+			"cubeface tiled",
+			"logo_live_cube",
+			"menu_show",
+			"videointro_show",
+			"logointro_show",
+			"this.log",
+			"testing.",
+			"app_init",
+			"logointro",
+			"logo-intro",
+			"logointro",
+			"logo-intro",
+			"logo_intro",
+			"logo_intro_show"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 15,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "wp-config.php",
+					"settings":
+					{
+						"buffer_size": 3349,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								803,
+								803
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"settings":
+					{
+						"buffer_size": 138801,
+						"regions":
+						{
+							"match":
+							{
+								"flags": 112,
+								"regions":
+								[
+									[
+										601,
+										609
+									],
+									[
+										655,
+										663
+									],
+									[
+										2298,
+										2306
+									],
+									[
+										2796,
+										2804
+									],
+									[
+										3259,
+										3267
+									],
+									[
+										3291,
+										3299
+									],
+									[
+										4010,
+										4018
+									],
+									[
+										4037,
+										4045
+									],
+									[
+										4626,
+										4634
+									],
+									[
+										8159,
+										8167
+									],
+									[
+										8214,
+										8222
+									],
+									[
+										8688,
+										8696
+									],
+									[
+										8738,
+										8746
+									],
+									[
+										8862,
+										8870
+									],
+									[
+										12886,
+										12894
+									],
+									[
+										12940,
+										12948
+									],
+									[
+										13281,
+										13289
+									],
+									[
+										13313,
+										13321
+									],
+									[
+										14032,
+										14040
+									],
+									[
+										14059,
+										14067
+									],
+									[
+										15077,
+										15085
+									],
+									[
+										15132,
+										15140
+									],
+									[
+										15928,
+										15936
+									],
+									[
+										15982,
+										15990
+									],
+									[
+										17713,
+										17721
+									],
+									[
+										18211,
+										18219
+									],
+									[
+										18674,
+										18682
+									],
+									[
+										18706,
+										18714
+									],
+									[
+										19425,
+										19433
+									],
+									[
+										19452,
+										19460
+									],
+									[
+										20041,
+										20049
+									],
+									[
+										23596,
+										23604
+									],
+									[
+										23651,
+										23659
+									],
+									[
+										24147,
+										24155
+									],
+									[
+										24197,
+										24205
+									],
+									[
+										24332,
+										24340
+									],
+									[
+										25565,
+										25573
+									],
+									[
+										25619,
+										25627
+									],
+									[
+										27208,
+										27216
+									],
+									[
+										27240,
+										27248
+									],
+									[
+										27959,
+										27967
+									],
+									[
+										27986,
+										27994
+									],
+									[
+										28575,
+										28583
+									],
+									[
+										32130,
+										32138
+									],
+									[
+										32185,
+										32193
+									],
+									[
+										32681,
+										32689
+									],
+									[
+										32731,
+										32739
+									],
+									[
+										32866,
+										32874
+									],
+									[
+										34076,
+										34084
+									],
+									[
+										34669,
+										34677
+									],
+									[
+										36282,
+										36290
+									],
+									[
+										36924,
+										36932
+									],
+									[
+										37553,
+										37561
+									],
+									[
+										38187,
+										38195
+									],
+									[
+										38824,
+										38832
+									],
+									[
+										39368,
+										39376
+									],
+									[
+										40262,
+										40270
+									],
+									[
+										40894,
+										40902
+									],
+									[
+										41541,
+										41549
+									],
+									[
+										42145,
+										42153
+									],
+									[
+										42765,
+										42773
+									],
+									[
+										43385,
+										43393
+									],
+									[
+										44012,
+										44020
+									],
+									[
+										44619,
+										44627
+									],
+									[
+										48077,
+										48085
+									],
+									[
+										48959,
+										48967
+									],
+									[
+										55000,
+										55008
+									],
+									[
+										55957,
+										55965
+									],
+									[
+										71057,
+										71065
+									],
+									[
+										71851,
+										71859
+									],
+									[
+										80401,
+										80409
+									],
+									[
+										81251,
+										81259
+									],
+									[
+										87497,
+										87505
+									],
+									[
+										87661,
+										87669
+									],
+									[
+										88046,
+										88054
+									],
+									[
+										88221,
+										88229
+									],
+									[
+										88539,
+										88547
+									],
+									[
+										88776,
+										88784
+									],
+									[
+										89019,
+										89027
+									],
+									[
+										89423,
+										89431
+									],
+									[
+										89637,
+										89645
+									],
+									[
+										89997,
+										90005
+									],
+									[
+										90234,
+										90242
+									],
+									[
+										90659,
+										90667
+									],
+									[
+										95172,
+										95180
+									],
+									[
+										95607,
+										95615
+									],
+									[
+										103505,
+										103513
+									],
+									[
+										103601,
+										103609
+									],
+									[
+										103726,
+										103734
+									],
+									[
+										104043,
+										104051
+									],
+									[
+										104139,
+										104147
+									],
+									[
+										104264,
+										104272
+									],
+									[
+										106831,
+										106839
+									],
+									[
+										107073,
+										107081
+									],
+									[
+										107133,
+										107141
+									],
+									[
+										107376,
+										107384
+									],
+									[
+										107630,
+										107638
+									],
+									[
+										107686,
+										107694
+									],
+									[
+										107950,
+										107958
+									],
+									[
+										108195,
+										108203
+									],
+									[
+										113499,
+										113507
+									],
+									[
+										115235,
+										115243
+									],
+									[
+										119636,
+										119644
+									],
+									[
+										119746,
+										119754
+									],
+									[
+										119856,
+										119864
+									],
+									[
+										119966,
+										119974
+									],
+									[
+										120683,
+										120691
+									],
+									[
+										120716,
+										120724
+									],
+									[
+										120842,
+										120850
+									],
+									[
+										120875,
+										120883
+									],
+									[
+										121001,
+										121009
+									],
+									[
+										121034,
+										121042
+									],
+									[
+										121164,
+										121172
+									],
+									[
+										121197,
+										121205
+									],
+									[
+										121325,
+										121333
+									],
+									[
+										121358,
+										121366
+									],
+									[
+										121882,
+										121890
+									],
+									[
+										122206,
+										122214
+									],
+									[
+										123122,
+										123130
+									],
+									[
+										123156,
+										123164
+									],
+									[
+										123172,
+										123180
+									],
+									[
+										123276,
+										123284
+									],
+									[
+										123310,
+										123318
+									],
+									[
+										123326,
+										123334
+									],
+									[
+										123980,
+										123988
+									],
+									[
+										124624,
+										124632
+									],
+									[
+										125261,
+										125269
+									],
+									[
+										125920,
+										125928
+									],
+									[
+										126570,
+										126578
+									],
+									[
+										127183,
+										127191
+									],
+									[
+										127809,
+										127817
+									],
+									[
+										128446,
+										128454
+									],
+									[
+										128734,
+										128742
+									],
+									[
+										129689,
+										129697
+									],
+									[
+										130300,
+										130308
+									],
+									[
+										130922,
+										130930
+									],
+									[
+										131543,
+										131551
+									],
+									[
+										132169,
+										132177
+									],
+									[
+										132791,
+										132799
+									],
+									[
+										133409,
+										133417
+									],
+									[
+										133575,
+										133583
+									],
+									[
+										134786,
+										134794
+									],
+									[
+										135429,
+										135437
+									],
+									[
+										136052,
+										136060
+									],
+									[
+										136638,
+										136646
+									],
+									[
+										137244,
+										137252
+									],
+									[
+										137772,
+										137780
+									],
+									[
+										138561,
+										138569
+									],
+									[
+										138587,
+										138595
+									],
+									[
+										138656,
+										138664
+									],
+									[
+										138711,
+										138719
+									]
+								],
+								"scope": ""
+							}
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"detect_indentation": false,
+							"output_tag": 1,
+							"result_base_dir": "",
+							"result_file_regex": "^([A-Za-z\\\\/<].*):$",
+							"result_line_regex": "^ +([0-9]+):",
+							"scroll_past_end": true,
+							"syntax": "Packages/Default/Find Results.hidden-tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 15595.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "wp-content/themes/shark/functions/menus.php",
+					"settings":
+					{
+						"buffer_size": 467,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								166,
+								166
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "wp-content/themes/shark/header.php",
+					"settings":
+					{
+						"buffer_size": 3680,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3361,
+								3361
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true,
+							"word_wrap": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 206.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "wp-content/themes/shark/sass/_variables.scss",
+					"settings":
+					{
+						"buffer_size": 3668,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3609,
+								3597
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Sass/Syntaxes/Sass.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 266.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "wp-content/themes/shark/sass/components/_navigation.scss",
+					"settings":
+					{
+						"buffer_size": 1943,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								517,
+								517
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Sass/Syntaxes/Sass.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "wp-content/themes/shark/sass/components/_global.scss",
+					"settings":
+					{
+						"buffer_size": 10995,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								10778,
+								10778
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Sass/Syntaxes/Sass.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 7466.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "wp-content/themes/shark/sass/templates/_what-we-do.scss",
+					"settings":
+					{
+						"buffer_size": 4728,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3445,
+								3445
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Sass/Syntaxes/Sass.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 1573.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "wp-content/themes/shark/sass/components/_typography.scss",
+					"settings":
+					{
+						"buffer_size": 1322,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1265,
+								1265
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Sass/Syntaxes/Sass.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 9,
+					"file": "wp-content/themes/shark/footer.php",
+					"settings":
+					{
+						"buffer_size": 2337,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								603,
+								603
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 10,
+					"file": "wp-content/themes/shark/sass/components/_container.scss",
+					"settings":
+					{
+						"buffer_size": 2652,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1879,
+								1879
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Sass/Syntaxes/Sass.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 1002.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 11,
+					"file": "wp-content/themes/shark/sass/templates/_our-work.scss",
+					"settings":
+					{
+						"buffer_size": 11046,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								10532,
+								10532
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Sass/Syntaxes/Sass.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 7016.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 12,
+					"file": "wp-content/themes/shark/template-our-work.php",
+					"settings":
+					{
+						"buffer_size": 1405,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								897,
+								897
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 13,
+					"file": "wp-content/themes/shark/template-contact.php",
+					"settings":
+					{
+						"buffer_size": 1062,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								694,
+								694
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 14,
+					"file": "wp-content/themes/shark/single-casestudies.php",
+					"settings":
+					{
+						"buffer_size": 6485,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3240,
+								3240
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true,
+							"word_wrap": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 129.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 15,
+					"file": "wp-content/themes/shark/template-what-we-do.php",
+					"settings":
+					{
+						"buffer_size": 2831,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1623,
+								1623
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 136.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 16,
+					"file": "wp-content/themes/shark/functions/image-sizes.php",
+					"settings":
+					{
+						"buffer_size": 2191,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								420,
+								420
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 17,
+					"file": "wp-content/themes/shark/sass/templates/_testimonials.scss",
+					"settings":
+					{
+						"buffer_size": 13932,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								9283,
+								9283
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Sass/Syntaxes/Sass.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 6232.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 18,
+					"file": "wp-content/themes/shark/js/scripts.js",
+					"settings":
+					{
+						"buffer_size": 34068,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								31431,
+								31995
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 19548.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 63.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"",
+				"wp-content/themes/europlusdirect/footer.php"
+			],
+			[
+				"gameviw",
+				"nokia-the-connection/www/workspace/pages/games_view.xsl"
+			],
+			[
+				"commons",
+				"nokia-the-connection/www/workspace/assets/js/common.js"
+			],
+			[
+				"commonjs",
+				"nokia-the-connection/www/workspace/games/126823/common.js"
+			],
+			[
+				"maincoff",
+				"nokia-the-connection/www/workspace/games/278329/js/lib/game/views/main.coffee"
+			],
+			[
+				"comm",
+				"nokia-the-connection/www/workspace/games/126823/common.js"
+			],
+			[
+				"gameques",
+				"nokia-the-connection/www/workspace/pages/games_view_questions.xsl"
+			],
+			[
+				"gameq",
+				"nokia-the-connection/www/workspace/pages/games_view_questions.xsl"
+			],
+			[
+				"common",
+				"juggle/wp-admin/js/common.js"
+			],
+			[
+				"commsjs",
+				"nokia-the-connection/www/workspace/games/278329/bower_components/jquery/src/manipulation/support.js"
+			],
+			[
+				"comms",
+				"nokia-the-connection/www/extensions/markdown/lib/htmlpurifier-4.5.0-standalone/standalone/HTMLPurifier/ConfigSchema/schema/Output.CommentScriptContents.txt"
+			],
+			[
+				"gamequestions",
+				"nokia-the-connection/www/workspace/pages/games_view_questions.xsl"
+			],
+			[
+				"vagra",
+				"nokia-the-connection/Vagrantfile"
+			],
+			[
+				".ht",
+				"nokia-the-connection/www/.htaccess"
+			],
+			[
+				"bran",
+				"StartInitiativePC_Data/Mono/etc/mono/browscap.ini"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"/Applications/MAMP/htdocs/jump/livingwood/livingwood.sublime-project"
+			]
+		],
+		"width": 823.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 360.0,
+	"status_bar_visible": true
+}
